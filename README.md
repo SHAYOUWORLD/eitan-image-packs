@@ -1,0 +1,1 @@
+Word illustration packs for eitan-app (ComfyUI flat-illust-v1). Distributed via GitHub Releases. App code repo is private.
