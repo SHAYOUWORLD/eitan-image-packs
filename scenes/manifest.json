@@ -2,15 +2,70 @@
  "version": 2,
  "style": "flat-scene-v1",
  "images": {
+  "a": {
+   "word": "a",
+   "level": "school-jhs1",
+   "seed": 2264392759
+  },
   "abeyance": {
    "word": "abeyance",
    "level": "toeic860",
    "seed": 2057666650
   },
+  "aboard": {
+   "word": "aboard",
+   "level": "school-hs1",
+   "seed": 1024156137
+  },
+  "about": {
+   "word": "about",
+   "level": "school-jhs1",
+   "seed": 1468062454
+  },
+  "abroad": {
+   "word": "abroad",
+   "level": "school-jhs1",
+   "seed": 1607425247
+  },
+  "absence": {
+   "word": "absence",
+   "level": "school-hs1",
+   "seed": 3555733833
+  },
   "absent": {
    "word": "absent",
    "level": "toeic600",
    "seed": 382367369
+  },
+  "absolutely": {
+   "word": "absolutely",
+   "level": "school-hs1",
+   "seed": 4207517007
+  },
+  "absorb": {
+   "word": "absorb",
+   "level": "school-hs1",
+   "seed": 2221812358
+  },
+  "abstract": {
+   "word": "abstract",
+   "level": "school-hs1",
+   "seed": 3963536179
+  },
+  "abundant": {
+   "word": "abundant",
+   "level": "school-hs1",
+   "seed": 159631828
+  },
+  "academic": {
+   "word": "academic",
+   "level": "school-hs1",
+   "seed": 666643542
+  },
+  "academy": {
+   "word": "academy",
+   "level": "school-hs1",
+   "seed": 3408357071
   },
   "accept": {
    "word": "accept",
@@ -21,6 +76,11 @@
    "word": "accessible",
    "level": "toeic730",
    "seed": 2064205596
+  },
+  "accidentally": {
+   "word": "accidentally",
+   "level": "school-hs1",
+   "seed": 3086425921
   },
   "accommodate": {
    "word": "accommodate",
@@ -47,10 +107,20 @@
    "level": "toeic730",
    "seed": 1539439145
   },
+  "according": {
+   "word": "according",
+   "level": "school-hs1",
+   "seed": 3274021629
+  },
   "account": {
    "word": "account",
    "level": "toeic600",
    "seed": 3391124109
+  },
+  "accountability": {
+   "word": "accountability",
+   "level": "school-hs1",
+   "seed": 4160029317
   },
   "accountable": {
    "word": "accountable",
@@ -66,6 +136,16 @@
    "word": "accrue",
    "level": "toeic860",
    "seed": 2498384181
+  },
+  "accumulate": {
+   "word": "accumulate",
+   "level": "school-hs1",
+   "seed": 3663801088
+  },
+  "ache": {
+   "word": "ache",
+   "level": "school-hs1",
+   "seed": 4107824438
   },
   "achievable": {
    "word": "achievable",
@@ -97,6 +177,16 @@
    "level": "toeic730",
    "seed": 3864137671
   },
+  "activity": {
+   "word": "activity",
+   "level": "school-hs1",
+   "seed": 200546052
+  },
+  "actual": {
+   "word": "actual",
+   "level": "school-hs1",
+   "seed": 1358193048
+  },
   "acumen": {
    "word": "acumen",
    "level": "toeic860",
@@ -106,6 +196,11 @@
    "word": "adaptable",
    "level": "toeic730",
    "seed": 1173471793
+  },
+  "addict": {
+   "word": "addict",
+   "level": "school-hs1",
+   "seed": 3275875828
   },
   "additional": {
    "word": "additional",
@@ -147,10 +242,20 @@
    "level": "toeic730",
    "seed": 994865819
   },
+  "adjust": {
+   "word": "adjust",
+   "level": "school-hs1",
+   "seed": 2703187003
+  },
   "administration": {
    "word": "administration",
    "level": "toeic730",
    "seed": 91012697
+  },
+  "admirable": {
+   "word": "admirable",
+   "level": "school-hs1",
+   "seed": 3370807523
   },
   "admission": {
    "word": "admission",
@@ -207,6 +312,26 @@
    "level": "toeic730",
    "seed": 542536071
   },
+  "afraid": {
+   "word": "afraid",
+   "level": "school-jhs1",
+   "seed": 719554313
+  },
+  "afternoon": {
+   "word": "afternoon",
+   "level": "school-jhs1",
+   "seed": 2047931289
+  },
+  "again": {
+   "word": "again",
+   "level": "school-jhs1",
+   "seed": 2862929400
+  },
+  "aged": {
+   "word": "aged",
+   "level": "school-hs1",
+   "seed": 1071174732
+  },
   "agency": {
    "word": "agency",
    "level": "toeic600",
@@ -227,6 +352,11 @@
    "level": "toeic860",
    "seed": 3791631718
   },
+  "aggressive": {
+   "word": "aggressive",
+   "level": "school-hs1",
+   "seed": 1690894656
+  },
   "agreement": {
    "word": "agreement",
    "level": "toeic600",
@@ -237,10 +367,20 @@
    "level": "toeic860",
    "seed": 3049585244
   },
+  "aircraft": {
+   "word": "aircraft",
+   "level": "school-hs1",
+   "seed": 4268822778
+  },
   "airline": {
    "word": "airline",
    "level": "toeic600",
    "seed": 2535912452
+  },
+  "airplane": {
+   "word": "airplane",
+   "level": "school-jhs1",
+   "seed": 853984706
   },
   "aisle": {
    "word": "aisle",
@@ -262,10 +402,20 @@
    "level": "toeic860",
    "seed": 98560741
   },
+  "all": {
+   "word": "all",
+   "level": "school-jhs1",
+   "seed": 3632022656
+  },
   "allergic": {
    "word": "allergic",
    "level": "toeic600",
    "seed": 1320942307
+  },
+  "alliance": {
+   "word": "alliance",
+   "level": "school-hs1",
+   "seed": 3073847503
   },
   "allocate": {
    "word": "allocate",
@@ -287,15 +437,50 @@
    "level": "toeic730",
    "seed": 1421985422
   },
+  "also": {
+   "word": "also",
+   "level": "school-jhs1",
+   "seed": 158362689
+  },
+  "alter": {
+   "word": "alter",
+   "level": "school-hs1",
+   "seed": 1936546026
+  },
+  "alternative": {
+   "word": "alternative",
+   "level": "school-hs1",
+   "seed": 2171429862
+  },
   "alternatively": {
    "word": "alternatively",
    "level": "toeic730",
    "seed": 1222679106
   },
+  "am": {
+   "word": "am",
+   "level": "school-jhs1",
+   "seed": 2531792215
+  },
   "amalgamate": {
    "word": "amalgamate",
    "level": "toeic860",
    "seed": 3142607577
+  },
+  "amazed": {
+   "word": "amazed",
+   "level": "school-jhs1",
+   "seed": 4076960060
+  },
+  "ambassador": {
+   "word": "ambassador",
+   "level": "school-hs1",
+   "seed": 2643194247
+  },
+  "ambitious": {
+   "word": "ambitious",
+   "level": "school-hs1",
+   "seed": 3102558030
   },
   "amenable": {
    "word": "amenable",
@@ -307,10 +492,45 @@
    "level": "toeic730",
    "seed": 2097987945
   },
+  "america": {
+   "word": "america",
+   "level": "school-jhs1",
+   "seed": 2908876431
+  },
   "amortize": {
    "word": "amortize",
    "level": "toeic860",
    "seed": 3755670000
+  },
+  "an": {
+   "word": "an",
+   "level": "school-jhs1",
+   "seed": 3732138688
+  },
+  "analysis": {
+   "word": "analysis",
+   "level": "school-hs1",
+   "seed": 914651689
+  },
+  "analyze": {
+   "word": "analyze",
+   "level": "school-hs1",
+   "seed": 1649932364
+  },
+  "anchor": {
+   "word": "anchor",
+   "level": "school-hs1",
+   "seed": 4033738249
+  },
+  "and": {
+   "word": "and",
+   "level": "school-jhs1",
+   "seed": 3489288355
+  },
+  "animal": {
+   "word": "animal",
+   "level": "school-jhs1",
+   "seed": 832170501
   },
   "announce": {
    "word": "announce",
@@ -327,10 +547,20 @@
    "level": "toeic860",
    "seed": 2262269181
   },
+  "answer": {
+   "word": "answer",
+   "level": "school-jhs1",
+   "seed": 635185195
+  },
   "antagonize": {
    "word": "antagonize",
    "level": "toeic860",
    "seed": 3768208400
+  },
+  "antibiotic": {
+   "word": "antibiotic",
+   "level": "school-hs1",
+   "seed": 1473843760
   },
   "anticipate": {
    "word": "anticipate",
@@ -347,6 +577,11 @@
    "level": "toeic860",
    "seed": 2616993998
   },
+  "any": {
+   "word": "any",
+   "level": "school-jhs1",
+   "seed": 3321758208
+  },
   "apologize": {
    "word": "apologize",
    "level": "toeic600",
@@ -357,15 +592,30 @@
    "level": "toeic730",
    "seed": 1257059734
   },
+  "apparently": {
+   "word": "apparently",
+   "level": "school-hs1",
+   "seed": 1461055128
+  },
   "appealing": {
    "word": "appealing",
    "level": "toeic860",
    "seed": 3642325300
   },
+  "appetite": {
+   "word": "appetite",
+   "level": "school-hs1",
+   "seed": 2620567718
+  },
   "appetizer": {
    "word": "appetizer",
    "level": "toeic600",
    "seed": 2506212556
+  },
+  "apple": {
+   "word": "apple",
+   "level": "school-jhs1",
+   "seed": 3502124484
   },
   "applicable": {
    "word": "applicable",
@@ -412,6 +662,16 @@
    "level": "toeic730",
    "seed": 2791443087
   },
+  "approach": {
+   "word": "approach",
+   "level": "school-hs1",
+   "seed": 295606744
+  },
+  "appropriate": {
+   "word": "appropriate",
+   "level": "school-hs1",
+   "seed": 4069588378
+  },
   "appropriation": {
    "word": "appropriation",
    "level": "toeic860",
@@ -447,6 +707,16 @@
    "level": "toeic730",
    "seed": 2493984884
   },
+  "archaeology": {
+   "word": "archaeology",
+   "level": "school-hs1",
+   "seed": 3862004775
+  },
+  "are": {
+   "word": "are",
+   "level": "school-jhs1",
+   "seed": 1604212738
+  },
   "arrange": {
    "word": "arrange",
    "level": "toeic600",
@@ -472,6 +742,21 @@
    "level": "toeic600",
    "seed": 372244962
   },
+  "arrogant": {
+   "word": "arrogant",
+   "level": "school-hs1",
+   "seed": 1294286515
+  },
+  "art": {
+   "word": "art",
+   "level": "school-jhs1",
+   "seed": 1330023016
+  },
+  "aspect": {
+   "word": "aspect",
+   "level": "school-hs1",
+   "seed": 1264118155
+  },
   "assess": {
    "word": "assess",
    "level": "toeic730",
@@ -487,6 +772,11 @@
    "level": "toeic600",
    "seed": 2416555824
   },
+  "assignment": {
+   "word": "assignment",
+   "level": "school-hs1",
+   "seed": 4067124182
+  },
   "assist": {
    "word": "assist",
    "level": "toeic600",
@@ -497,10 +787,35 @@
    "level": "toeic600",
    "seed": 665411883
   },
+  "associate": {
+   "word": "associate",
+   "level": "school-hs1",
+   "seed": 2914530220
+  },
+  "assume": {
+   "word": "assume",
+   "level": "school-hs1",
+   "seed": 1713259918
+  },
+  "assure": {
+   "word": "assure",
+   "level": "school-hs1",
+   "seed": 2836122913
+  },
+  "astronomy": {
+   "word": "astronomy",
+   "level": "school-hs1",
+   "seed": 1177935595
+  },
   "astute": {
    "word": "astute",
    "level": "toeic860",
    "seed": 3377844289
+  },
+  "at": {
+   "word": "at",
+   "level": "school-jhs1",
+   "seed": 669584890
   },
   "atmosphere": {
    "word": "atmosphere",
@@ -517,6 +832,11 @@
    "level": "toeic860",
    "seed": 1680234362
   },
+  "attempt": {
+   "word": "attempt",
+   "level": "school-hs1",
+   "seed": 954524848
+  },
   "attend": {
    "word": "attend",
    "level": "toeic600",
@@ -531,6 +851,11 @@
    "word": "attendee",
    "level": "toeic730",
    "seed": 268005264
+  },
+  "attention": {
+   "word": "attention",
+   "level": "school-hs1",
+   "seed": 3492253157
   },
   "attest": {
    "word": "attest",
@@ -562,6 +887,11 @@
    "level": "toeic860",
    "seed": 1848277242
   },
+  "authority": {
+   "word": "authority",
+   "level": "school-hs1",
+   "seed": 1727383665
+  },
   "authorize": {
    "word": "authorize",
    "level": "toeic730",
@@ -592,15 +922,40 @@
    "level": "toeic600",
    "seed": 806455969
   },
+  "awkward": {
+   "word": "awkward",
+   "level": "school-hs1",
+   "seed": 4157915877
+  },
+  "baby": {
+   "word": "baby",
+   "level": "school-jhs1",
+   "seed": 1827882837
+  },
+  "background": {
+   "word": "background",
+   "level": "school-hs1",
+   "seed": 613032118
+  },
   "backlog": {
    "word": "backlog",
    "level": "toeic730",
    "seed": 4288581406
   },
+  "bad": {
+   "word": "bad",
+   "level": "school-jhs1",
+   "seed": 419619798
+  },
   "badge": {
    "word": "badge",
    "level": "toeic600",
    "seed": 2913744966
+  },
+  "bag": {
+   "word": "bag",
+   "level": "school-jhs1",
+   "seed": 2605598526
   },
   "baggage": {
    "word": "baggage",
@@ -611,6 +966,21 @@
    "word": "bailout",
    "level": "toeic860",
    "seed": 2993683085
+  },
+  "balance": {
+   "word": "balance",
+   "level": "school-hs1",
+   "seed": 2381983968
+  },
+  "ball": {
+   "word": "ball",
+   "level": "school-jhs1",
+   "seed": 2347500550
+  },
+  "banana": {
+   "word": "banana",
+   "level": "school-jhs1",
+   "seed": 621705201
   },
   "banker": {
    "word": "banker",
@@ -637,6 +1007,46 @@
    "level": "toeic730",
    "seed": 541115321
   },
+  "barely": {
+   "word": "barely",
+   "level": "school-hs1",
+   "seed": 2059625049
+  },
+  "baseball": {
+   "word": "baseball",
+   "level": "school-jhs1",
+   "seed": 2731082184
+  },
+  "basis": {
+   "word": "basis",
+   "level": "school-hs1",
+   "seed": 2285019183
+  },
+  "basketball": {
+   "word": "basketball",
+   "level": "school-jhs1",
+   "seed": 1183770059
+  },
+  "bathroom": {
+   "word": "bathroom",
+   "level": "school-jhs1",
+   "seed": 1925165140
+  },
+  "be": {
+   "word": "be",
+   "level": "school-jhs1",
+   "seed": 2557156289
+  },
+  "beaker": {
+   "word": "beaker",
+   "level": "school-hs1",
+   "seed": 2383446082
+  },
+  "beam": {
+   "word": "beam",
+   "level": "school-hs1",
+   "seed": 806333021
+  },
   "bearer": {
    "word": "bearer",
    "level": "toeic730",
@@ -646,6 +1056,21 @@
    "word": "bearish",
    "level": "toeic860",
    "seed": 3945544612
+  },
+  "beautiful": {
+   "word": "beautiful",
+   "level": "school-jhs1",
+   "seed": 1670626527
+  },
+  "bed": {
+   "word": "bed",
+   "level": "school-jhs1",
+   "seed": 4278068115
+  },
+  "bedroom": {
+   "word": "bedroom",
+   "level": "school-jhs1",
+   "seed": 10356108
   },
   "beforehand": {
    "word": "beforehand",
@@ -662,6 +1087,16 @@
    "level": "toeic860",
    "seed": 575386150
   },
+  "belong": {
+   "word": "belong",
+   "level": "school-hs1",
+   "seed": 4192271347
+  },
+  "belongings": {
+   "word": "belongings",
+   "level": "school-hs1",
+   "seed": 371463341
+  },
   "benchmark": {
    "word": "benchmark",
    "level": "toeic600",
@@ -671,6 +1106,11 @@
    "word": "benchmarking",
    "level": "toeic860",
    "seed": 2481714357
+  },
+  "beneath": {
+   "word": "beneath",
+   "level": "school-hs1",
+   "seed": 163884045
   },
   "beneficiary": {
    "word": "beneficiary",
@@ -682,15 +1122,35 @@
    "level": "toeic600",
    "seed": 556008316
   },
+  "besides": {
+   "word": "besides",
+   "level": "school-hs1",
+   "seed": 2493720059
+  },
   "beverage": {
    "word": "beverage",
    "level": "toeic600",
    "seed": 2713646542
   },
+  "biased": {
+   "word": "biased",
+   "level": "school-hs1",
+   "seed": 285439120
+  },
   "bid": {
    "word": "bid",
    "level": "toeic730",
    "seed": 2791175945
+  },
+  "big": {
+   "word": "big",
+   "level": "school-jhs1",
+   "seed": 2512699041
+  },
+  "bike": {
+   "word": "bike",
+   "level": "school-jhs1",
+   "seed": 1154823824
   },
   "bilateral": {
    "word": "bilateral",
@@ -712,6 +1172,51 @@
    "level": "toeic860",
    "seed": 1251981529
   },
+  "biography": {
+   "word": "biography",
+   "level": "school-hs1",
+   "seed": 3212672642
+  },
+  "biology": {
+   "word": "biology",
+   "level": "school-hs1",
+   "seed": 843914700
+  },
+  "bird": {
+   "word": "bird",
+   "level": "school-jhs1",
+   "seed": 3448930651
+  },
+  "birthday": {
+   "word": "birthday",
+   "level": "school-jhs1",
+   "seed": 3650038872
+  },
+  "bitter": {
+   "word": "bitter",
+   "level": "school-hs1",
+   "seed": 603826065
+  },
+  "black": {
+   "word": "black",
+   "level": "school-jhs1",
+   "seed": 1181468878
+  },
+  "bleed": {
+   "word": "bleed",
+   "level": "school-hs1",
+   "seed": 3729491923
+  },
+  "blood": {
+   "word": "blood",
+   "level": "school-hs1",
+   "seed": 3267668118
+  },
+  "blue": {
+   "word": "blue",
+   "level": "school-jhs1",
+   "seed": 1285194446
+  },
   "board": {
    "word": "board",
    "level": "toeic600",
@@ -721,6 +1226,16 @@
    "word": "boarding",
    "level": "toeic600",
    "seed": 1874131943
+  },
+  "boat": {
+   "word": "boat",
+   "level": "school-jhs1",
+   "seed": 709942777
+  },
+  "bold": {
+   "word": "bold",
+   "level": "school-hs1",
+   "seed": 3384240871
   },
   "bolster": {
    "word": "bolster",
@@ -732,10 +1247,20 @@
    "level": "toeic730",
    "seed": 489405021
   },
+  "bone": {
+   "word": "bone",
+   "level": "school-hs1",
+   "seed": 4292824267
+  },
   "bonus": {
    "word": "bonus",
    "level": "toeic600",
    "seed": 1473920507
+  },
+  "book": {
+   "word": "book",
+   "level": "school-jhs1",
+   "seed": 3890648261
   },
   "boom": {
    "word": "boom",
@@ -752,6 +1277,16 @@
    "level": "toeic600",
    "seed": 2459878538
   },
+  "bored": {
+   "word": "bored",
+   "level": "school-jhs1",
+   "seed": 2858981289
+  },
+  "boring": {
+   "word": "boring",
+   "level": "school-jhs1",
+   "seed": 746568265
+  },
   "borrower": {
    "word": "borrower",
    "level": "toeic730",
@@ -767,6 +1302,16 @@
    "level": "toeic730",
    "seed": 2494446388
   },
+  "box": {
+   "word": "box",
+   "level": "school-jhs1",
+   "seed": 3352864471
+  },
+  "boy": {
+   "word": "boy",
+   "level": "school-jhs1",
+   "seed": 3467418372
+  },
   "bracket": {
    "word": "bracket",
    "level": "toeic860",
@@ -776,6 +1321,11 @@
    "word": "brainstorm",
    "level": "toeic730",
    "seed": 1318389130
+  },
+  "brake": {
+   "word": "brake",
+   "level": "school-hs1",
+   "seed": 969587825
   },
   "branch": {
    "word": "branch",
@@ -792,10 +1342,25 @@
    "level": "toeic860",
    "seed": 2834503364
   },
+  "bread": {
+   "word": "bread",
+   "level": "school-jhs1",
+   "seed": 1878168024
+  },
   "breakdown": {
    "word": "breakdown",
    "level": "toeic730",
    "seed": 126471225
+  },
+  "breakfast": {
+   "word": "breakfast",
+   "level": "school-jhs1",
+   "seed": 2654634533
+  },
+  "breaking": {
+   "word": "breaking",
+   "level": "school-hs1",
+   "seed": 2385210913
   },
   "breakthrough": {
    "word": "breakthrough",
@@ -807,10 +1372,45 @@
    "level": "toeic860",
    "seed": 1872031039
   },
+  "breath": {
+   "word": "breath",
+   "level": "school-hs1",
+   "seed": 2845481985
+  },
+  "breathe": {
+   "word": "breathe",
+   "level": "school-hs1",
+   "seed": 1378156202
+  },
+  "breeze": {
+   "word": "breeze",
+   "level": "school-hs1",
+   "seed": 1848300078
+  },
+  "bridge": {
+   "word": "bridge",
+   "level": "school-jhs1",
+   "seed": 799119387
+  },
+  "brief": {
+   "word": "brief",
+   "level": "school-hs1",
+   "seed": 1472781744
+  },
+  "brilliant": {
+   "word": "brilliant",
+   "level": "school-hs1",
+   "seed": 791323407
+  },
   "brisk": {
    "word": "brisk",
    "level": "toeic730",
    "seed": 1161428813
+  },
+  "broaden": {
+   "word": "broaden",
+   "level": "school-hs1",
+   "seed": 2491661467
   },
   "brochure": {
    "word": "brochure",
@@ -826,6 +1426,16 @@
    "word": "brokerage",
    "level": "toeic860",
    "seed": 3144663326
+  },
+  "brother": {
+   "word": "brother",
+   "level": "school-jhs1",
+   "seed": 3598502490
+  },
+  "bruise": {
+   "word": "bruise",
+   "level": "school-hs1",
+   "seed": 3156965479
   },
   "budget": {
    "word": "budget",
@@ -852,6 +1462,11 @@
    "level": "toeic860",
    "seed": 2599784966
   },
+  "bulletin": {
+   "word": "bulletin",
+   "level": "school-hs1",
+   "seed": 2354352134
+  },
   "bullish": {
    "word": "bullish",
    "level": "toeic860",
@@ -872,15 +1487,40 @@
    "level": "toeic860",
    "seed": 3877454311
   },
+  "bureau": {
+   "word": "bureau",
+   "level": "school-hs1",
+   "seed": 4263687456
+  },
   "burnout": {
    "word": "burnout",
    "level": "toeic860",
    "seed": 1210694380
   },
+  "bus": {
+   "word": "bus",
+   "level": "school-jhs1",
+   "seed": 851905771
+  },
+  "but": {
+   "word": "but",
+   "level": "school-jhs1",
+   "seed": 2020513715
+  },
+  "buy": {
+   "word": "buy",
+   "level": "school-jhs1",
+   "seed": 2691100784
+  },
   "buzzword": {
    "word": "buzzword",
    "level": "toeic860",
    "seed": 1323644414
+  },
+  "by": {
+   "word": "by",
+   "level": "school-jhs1",
+   "seed": 1082218596
   },
   "bypass": {
    "word": "bypass",
@@ -897,6 +1537,16 @@
    "level": "toeic600",
    "seed": 2430637194
   },
+  "cake": {
+   "word": "cake",
+   "level": "school-jhs1",
+   "seed": 1574709985
+  },
+  "calculate": {
+   "word": "calculate",
+   "level": "school-hs1",
+   "seed": 2834759911
+  },
   "calendar": {
    "word": "calendar",
    "level": "toeic600",
@@ -907,10 +1557,30 @@
    "level": "toeic860",
    "seed": 1106454182
   },
+  "call": {
+   "word": "call",
+   "level": "school-jhs1",
+   "seed": 3163391559
+  },
+  "camera": {
+   "word": "camera",
+   "level": "school-jhs1",
+   "seed": 622737455
+  },
   "campaign": {
    "word": "campaign",
    "level": "toeic600",
    "seed": 603208425
+  },
+  "can": {
+   "word": "can",
+   "level": "school-jhs1",
+   "seed": 2123504032
+  },
+  "canal": {
+   "word": "canal",
+   "level": "school-hs1",
+   "seed": 3183981558
   },
   "cancel": {
    "word": "cancel",
@@ -932,15 +1602,50 @@
    "level": "toeic860",
    "seed": 2969474784
   },
+  "cap": {
+   "word": "cap",
+   "level": "school-jhs1",
+   "seed": 2890655148
+  },
+  "capable": {
+   "word": "capable",
+   "level": "school-hs1",
+   "seed": 2768500607
+  },
   "capacity": {
    "word": "capacity",
    "level": "toeic730",
    "seed": 2092037485
   },
+  "capital": {
+   "word": "capital",
+   "level": "school-hs1",
+   "seed": 1569585585
+  },
   "capitalize": {
    "word": "capitalize",
    "level": "toeic730",
    "seed": 3491378199
+  },
+  "caption": {
+   "word": "caption",
+   "level": "school-hs1",
+   "seed": 3855106958
+  },
+  "capture": {
+   "word": "capture",
+   "level": "school-hs1",
+   "seed": 4223818193
+  },
+  "car": {
+   "word": "car",
+   "level": "school-jhs1",
+   "seed": 2654097949
+  },
+  "card": {
+   "word": "card",
+   "level": "school-jhs1",
+   "seed": 716200221
   },
   "career": {
    "word": "career",
@@ -952,10 +1657,20 @@
    "level": "toeic600",
    "seed": 3772165724
   },
+  "carve": {
+   "word": "carve",
+   "level": "school-hs1",
+   "seed": 825359575
+  },
   "cash": {
    "word": "cash",
    "level": "toeic600",
    "seed": 2739701258
+  },
+  "cat": {
+   "word": "cat",
+   "level": "school-jhs1",
+   "seed": 2644024973
   },
   "catalog": {
    "word": "catalog",
@@ -972,15 +1687,35 @@
    "level": "toeic730",
    "seed": 2621512327
   },
+  "cautious": {
+   "word": "cautious",
+   "level": "school-hs1",
+   "seed": 3606044868
+  },
   "cease": {
    "word": "cease",
    "level": "toeic600",
    "seed": 3835897501
   },
+  "celebration": {
+   "word": "celebration",
+   "level": "school-hs1",
+   "seed": 3082679579
+  },
+  "censorship": {
+   "word": "censorship",
+   "level": "school-hs1",
+   "seed": 1737222144
+  },
   "ceremony": {
    "word": "ceremony",
    "level": "toeic600",
    "seed": 2465190097
+  },
+  "certificate": {
+   "word": "certificate",
+   "level": "school-hs1",
+   "seed": 1935332721
   },
   "certified": {
    "word": "certified",
@@ -997,6 +1732,11 @@
    "level": "toeic600",
    "seed": 754339396
   },
+  "chair": {
+   "word": "chair",
+   "level": "school-jhs1",
+   "seed": 2233340838
+  },
   "chairman": {
    "word": "chairman",
    "level": "toeic600",
@@ -1007,35 +1747,160 @@
    "level": "toeic600",
    "seed": 920168228
   },
+  "chamber": {
+   "word": "chamber",
+   "level": "school-hs1",
+   "seed": 1808408743
+  },
+  "chance": {
+   "word": "chance",
+   "level": "school-hs1",
+   "seed": 4104083325
+  },
+  "chaos": {
+   "word": "chaos",
+   "level": "school-hs1",
+   "seed": 2990230413
+  },
   "charge": {
    "word": "charge",
    "level": "toeic600",
    "seed": 1588183880
+  },
+  "charitable": {
+   "word": "charitable",
+   "level": "school-hs1",
+   "seed": 433899413
+  },
+  "charm": {
+   "word": "charm",
+   "level": "school-hs1",
+   "seed": 3376847516
   },
   "chart": {
    "word": "chart",
    "level": "toeic600",
    "seed": 3089842360
   },
+  "chat": {
+   "word": "chat",
+   "level": "school-hs1",
+   "seed": 2127422280
+  },
   "cheap": {
    "word": "cheap",
    "level": "toeic600",
    "seed": 4220384282
+  },
+  "cheat": {
+   "word": "cheat",
+   "level": "school-hs1",
+   "seed": 2383621813
   },
   "checkout": {
    "word": "checkout",
    "level": "toeic600",
    "seed": 3578338942
   },
+  "checkup": {
+   "word": "checkup",
+   "level": "school-hs1",
+   "seed": 620294028
+  },
+  "cheek": {
+   "word": "cheek",
+   "level": "school-hs1",
+   "seed": 3854612091
+  },
+  "cheer": {
+   "word": "cheer",
+   "level": "school-jhs1",
+   "seed": 3674334806
+  },
+  "chemistry": {
+   "word": "chemistry",
+   "level": "school-hs1",
+   "seed": 2183213564
+  },
+  "chew": {
+   "word": "chew",
+   "level": "school-hs1",
+   "seed": 570708397
+  },
   "chief": {
    "word": "chief",
    "level": "toeic600",
    "seed": 3299883216
   },
+  "child": {
+   "word": "child",
+   "level": "school-jhs1",
+   "seed": 244516508
+  },
+  "chill": {
+   "word": "chill",
+   "level": "school-hs1",
+   "seed": 1310205751
+  },
+  "chip": {
+   "word": "chip",
+   "level": "school-hs1",
+   "seed": 3333873418
+  },
+  "choke": {
+   "word": "choke",
+   "level": "school-hs1",
+   "seed": 2670544820
+  },
+  "chromosome": {
+   "word": "chromosome",
+   "level": "school-hs1",
+   "seed": 401105072
+  },
+  "cinema": {
+   "word": "cinema",
+   "level": "school-hs1",
+   "seed": 4014822609
+  },
+  "circle": {
+   "word": "circle",
+   "level": "school-hs1",
+   "seed": 12040209
+  },
+  "circuit": {
+   "word": "circuit",
+   "level": "school-hs1",
+   "seed": 1183897855
+  },
+  "circulation": {
+   "word": "circulation",
+   "level": "school-hs1",
+   "seed": 1253670842
+  },
+  "circumstance": {
+   "word": "circumstance",
+   "level": "school-hs1",
+   "seed": 2752431178
+  },
   "circumvent": {
    "word": "circumvent",
    "level": "toeic860",
    "seed": 1478969964
+  },
+  "city": {
+   "word": "city",
+   "level": "school-jhs1",
+   "seed": 743737644
+  },
+  "civic": {
+   "word": "civic",
+   "level": "school-hs1",
+   "seed": 3100556624
+  },
+  "civil": {
+   "word": "civil",
+   "level": "school-hs1",
+   "seed": 3596700151
   },
   "clarification": {
    "word": "clarification",
@@ -1046,6 +1911,31 @@
    "word": "clarify",
    "level": "toeic730",
    "seed": 4019185538
+  },
+  "clash": {
+   "word": "clash",
+   "level": "school-hs1",
+   "seed": 1166146560
+  },
+  "class": {
+   "word": "class",
+   "level": "school-jhs1",
+   "seed": 2373352437
+  },
+  "classic": {
+   "word": "classic",
+   "level": "school-hs1",
+   "seed": 688616728
+  },
+  "classify": {
+   "word": "classify",
+   "level": "school-hs1",
+   "seed": 1631898974
+  },
+  "classroom": {
+   "word": "classroom",
+   "level": "school-jhs1",
+   "seed": 3192244464
   },
   "clause": {
    "word": "clause",
@@ -1072,15 +1962,50 @@
    "level": "toeic860",
    "seed": 516174042
   },
+  "clip": {
+   "word": "clip",
+   "level": "school-hs1",
+   "seed": 3819519912
+  },
+  "close": {
+   "word": "close",
+   "level": "school-jhs1",
+   "seed": 3661137420
+  },
+  "closet": {
+   "word": "closet",
+   "level": "school-hs1",
+   "seed": 2279378867
+  },
   "closure": {
    "word": "closure",
    "level": "toeic730",
    "seed": 3499216636
   },
+  "club": {
+   "word": "club",
+   "level": "school-jhs1",
+   "seed": 3918741130
+  },
+  "clumsy": {
+   "word": "clumsy",
+   "level": "school-hs1",
+   "seed": 1615431063
+  },
+  "coal": {
+   "word": "coal",
+   "level": "school-hs1",
+   "seed": 1244784872
+  },
   "cognizant": {
    "word": "cognizant",
    "level": "toeic860",
    "seed": 1022573468
+  },
+  "cold": {
+   "word": "cold",
+   "level": "school-jhs1",
+   "seed": 1112515641
   },
   "collaborate": {
    "word": "collaborate",
@@ -1091,6 +2016,11 @@
    "word": "collapse",
    "level": "toeic730",
    "seed": 2262024118
+  },
+  "collar": {
+   "word": "collar",
+   "level": "school-hs1",
+   "seed": 3316404193
   },
   "collateral": {
    "word": "collateral",
@@ -1107,6 +2037,11 @@
    "level": "toeic600",
    "seed": 2900784427
   },
+  "collide": {
+   "word": "collide",
+   "level": "school-hs1",
+   "seed": 3278764200
+  },
   "collude": {
    "word": "collude",
    "level": "toeic860",
@@ -1117,6 +2052,36 @@
    "level": "toeic860",
    "seed": 1285369981
   },
+  "color": {
+   "word": "color",
+   "level": "school-jhs1",
+   "seed": 1842413184
+  },
+  "combat": {
+   "word": "combat",
+   "level": "school-hs1",
+   "seed": 2676492705
+  },
+  "combine": {
+   "word": "combine",
+   "level": "school-hs1",
+   "seed": 2170525592
+  },
+  "come": {
+   "word": "come",
+   "level": "school-jhs1",
+   "seed": 3633137467
+  },
+  "comedian": {
+   "word": "comedian",
+   "level": "school-hs1",
+   "seed": 1193144884
+  },
+  "comforting": {
+   "word": "comforting",
+   "level": "school-hs1",
+   "seed": 3394084403
+  },
   "commence": {
    "word": "commence",
    "level": "toeic730",
@@ -1126,6 +2091,11 @@
    "word": "commend",
    "level": "toeic860",
    "seed": 378702354
+  },
+  "commentary": {
+   "word": "commentary",
+   "level": "school-hs1",
+   "seed": 2777265497
   },
   "commerce": {
    "word": "commerce",
@@ -1157,6 +2127,11 @@
    "level": "toeic860",
    "seed": 315289093
   },
+  "common": {
+   "word": "common",
+   "level": "school-hs1",
+   "seed": 2496184861
+  },
   "communicate": {
    "word": "communicate",
    "level": "toeic600",
@@ -1166,6 +2141,16 @@
    "word": "commute",
    "level": "toeic600",
    "seed": 341523869
+  },
+  "companion": {
+   "word": "companion",
+   "level": "school-hs1",
+   "seed": 3721005709
+  },
+  "company": {
+   "word": "company",
+   "level": "school-hs1",
+   "seed": 1907495265
   },
   "comparative": {
    "word": "comparative",
@@ -1247,6 +2232,11 @@
    "level": "toeic860",
    "seed": 3345384255
   },
+  "complex": {
+   "word": "complex",
+   "level": "school-hs1",
+   "seed": 1878092598
+  },
   "compliance": {
    "word": "compliance",
    "level": "toeic730",
@@ -1267,10 +2257,50 @@
    "level": "toeic860",
    "seed": 2161003923
   },
+  "compound": {
+   "word": "compound",
+   "level": "school-hs1",
+   "seed": 3269654529
+  },
+  "comprehend": {
+   "word": "comprehend",
+   "level": "school-hs1",
+   "seed": 3894944761
+  },
+  "comprehension": {
+   "word": "comprehension",
+   "level": "school-hs1",
+   "seed": 125692543
+  },
   "comprehensive": {
    "word": "comprehensive",
    "level": "toeic730",
    "seed": 2763255366
+  },
+  "compulsory": {
+   "word": "compulsory",
+   "level": "school-hs1",
+   "seed": 3328843730
+  },
+  "computer": {
+   "word": "computer",
+   "level": "school-jhs1",
+   "seed": 3322046120
+  },
+  "conceal": {
+   "word": "conceal",
+   "level": "school-hs1",
+   "seed": 831630135
+  },
+  "concentration": {
+   "word": "concentration",
+   "level": "school-hs1",
+   "seed": 1725435743
+  },
+  "concept": {
+   "word": "concept",
+   "level": "school-hs1",
+   "seed": 1228369052
   },
   "concession": {
    "word": "concession",
@@ -1287,10 +2317,35 @@
    "level": "toeic860",
    "seed": 4127562434
   },
+  "conclude": {
+   "word": "conclude",
+   "level": "school-hs1",
+   "seed": 1545107030
+  },
+  "concrete": {
+   "word": "concrete",
+   "level": "school-hs1",
+   "seed": 2932197610
+  },
+  "condensation": {
+   "word": "condensation",
+   "level": "school-hs1",
+   "seed": 1853867264
+  },
   "conditional": {
    "word": "conditional",
    "level": "toeic730",
    "seed": 2377599057
+  },
+  "conduct": {
+   "word": "conduct",
+   "level": "school-hs1",
+   "seed": 520117667
+  },
+  "cone": {
+   "word": "cone",
+   "level": "school-hs1",
+   "seed": 3194018931
   },
   "conference": {
    "word": "conference",
@@ -1312,6 +2367,16 @@
    "level": "toeic600",
    "seed": 2784521535
   },
+  "congratulate": {
+   "word": "congratulate",
+   "level": "school-hs1",
+   "seed": 3611355666
+  },
+  "connect": {
+   "word": "connect",
+   "level": "school-hs1",
+   "seed": 4045017215
+  },
   "connection": {
    "word": "connection",
    "level": "toeic600",
@@ -1321,6 +2386,11 @@
    "word": "conscientious",
    "level": "toeic860",
    "seed": 1761788015
+  },
+  "conscious": {
+   "word": "conscious",
+   "level": "school-hs1",
+   "seed": 4004949397
   },
   "consensus": {
    "word": "consensus",
@@ -1332,10 +2402,40 @@
    "level": "toeic730",
    "seed": 364255112
   },
+  "consequently": {
+   "word": "consequently",
+   "level": "school-hs1",
+   "seed": 2536713195
+  },
+  "considerable": {
+   "word": "considerable",
+   "level": "school-hs1",
+   "seed": 1925931202
+  },
+  "considerably": {
+   "word": "considerably",
+   "level": "school-hs1",
+   "seed": 2983862774
+  },
+  "considerate": {
+   "word": "considerate",
+   "level": "school-hs1",
+   "seed": 1651623094
+  },
   "consign": {
    "word": "consign",
    "level": "toeic860",
    "seed": 1332434481
+  },
+  "consist": {
+   "word": "consist",
+   "level": "school-hs1",
+   "seed": 2164077886
+  },
+  "consistent": {
+   "word": "consistent",
+   "level": "school-hs1",
+   "seed": 2351979015
   },
   "consolidate": {
    "word": "consolidate",
@@ -1347,6 +2447,11 @@
    "level": "toeic860",
    "seed": 1756987977
   },
+  "constitution": {
+   "word": "constitution",
+   "level": "school-hs1",
+   "seed": 4017451925
+  },
   "constrain": {
    "word": "constrain",
    "level": "toeic730",
@@ -1356,6 +2461,11 @@
    "word": "constraint",
    "level": "toeic730",
    "seed": 2672119764
+  },
+  "construct": {
+   "word": "construct",
+   "level": "school-hs1",
+   "seed": 2953974074
   },
   "consult": {
    "word": "consult",
@@ -1377,15 +2487,40 @@
    "level": "toeic860",
    "seed": 3595248205
   },
+  "consume": {
+   "word": "consume",
+   "level": "school-hs1",
+   "seed": 1270751311
+  },
   "consumer": {
    "word": "consumer",
    "level": "toeic600",
    "seed": 3413803715
   },
+  "consumption": {
+   "word": "consumption",
+   "level": "school-hs1",
+   "seed": 1977104308
+  },
   "contact": {
    "word": "contact",
    "level": "toeic600",
    "seed": 443789214
+  },
+  "contagious": {
+   "word": "contagious",
+   "level": "school-hs1",
+   "seed": 1141764932
+  },
+  "contain": {
+   "word": "contain",
+   "level": "school-hs1",
+   "seed": 3241675508
+  },
+  "container": {
+   "word": "container",
+   "level": "school-hs1",
+   "seed": 626685484
   },
   "contingency": {
    "word": "contingency",
@@ -1412,6 +2547,16 @@
    "level": "toeic730",
    "seed": 2253243551
   },
+  "contrast": {
+   "word": "contrast",
+   "level": "school-hs1",
+   "seed": 4249581617
+  },
+  "contribute": {
+   "word": "contribute",
+   "level": "school-hs1",
+   "seed": 3648969493
+  },
   "convenience": {
    "word": "convenience",
    "level": "toeic600",
@@ -1432,10 +2577,35 @@
    "level": "toeic860",
    "seed": 570074749
   },
+  "convert": {
+   "word": "convert",
+   "level": "school-hs1",
+   "seed": 547818159
+  },
+  "convey": {
+   "word": "convey",
+   "level": "school-hs1",
+   "seed": 1072102409
+  },
+  "cook": {
+   "word": "cook",
+   "level": "school-jhs1",
+   "seed": 4089073049
+  },
+  "cool": {
+   "word": "cool",
+   "level": "school-jhs1",
+   "seed": 2245580651
+  },
   "cooperate": {
    "word": "cooperate",
    "level": "toeic600",
    "seed": 2948400266
+  },
+  "cooperative": {
+   "word": "cooperative",
+   "level": "school-hs1",
+   "seed": 2028326711
   },
   "coordinate": {
    "word": "coordinate",
@@ -1452,20 +2622,45 @@
    "level": "toeic730",
    "seed": 2981777772
   },
+  "cope": {
+   "word": "cope",
+   "level": "school-hs1",
+   "seed": 3502192777
+  },
   "copyright": {
    "word": "copyright",
    "level": "toeic730",
    "seed": 1376978909
+  },
+  "cord": {
+   "word": "cord",
+   "level": "school-hs1",
+   "seed": 1030927151
+  },
+  "corner": {
+   "word": "corner",
+   "level": "school-jhs1",
+   "seed": 3948162449
   },
   "corporate": {
    "word": "corporate",
    "level": "toeic730",
    "seed": 3799437709
   },
+  "corporation": {
+   "word": "corporation",
+   "level": "school-hs1",
+   "seed": 1651149794
+  },
   "correspondence": {
    "word": "correspondence",
    "level": "toeic730",
    "seed": 4178960644
+  },
+  "corruption": {
+   "word": "corruption",
+   "level": "school-hs1",
+   "seed": 3294133623
   },
   "cost": {
    "word": "cost",
@@ -1476,6 +2671,26 @@
    "word": "costly",
    "level": "toeic730",
    "seed": 3555745068
+  },
+  "cottage": {
+   "word": "cottage",
+   "level": "school-hs1",
+   "seed": 3199095650
+  },
+  "cough": {
+   "word": "cough",
+   "level": "school-hs1",
+   "seed": 463195117
+  },
+  "council": {
+   "word": "council",
+   "level": "school-hs1",
+   "seed": 4294912572
+  },
+  "counsel": {
+   "word": "counsel",
+   "level": "school-hs1",
+   "seed": 3856535244
   },
   "counter": {
    "word": "counter",
@@ -1502,10 +2717,20 @@
    "level": "toeic730",
    "seed": 3429776010
   },
+  "country": {
+   "word": "country",
+   "level": "school-jhs1",
+   "seed": 2389226469
+  },
   "coupon": {
    "word": "coupon",
    "level": "toeic600",
    "seed": 4089997066
+  },
+  "courageous": {
+   "word": "courageous",
+   "level": "school-hs1",
+   "seed": 658382797
   },
   "courteous": {
    "word": "courteous",
@@ -1522,10 +2747,25 @@
    "level": "toeic730",
    "seed": 1840233718
   },
+  "coward": {
+   "word": "coward",
+   "level": "school-hs1",
+   "seed": 2113776851
+  },
   "coworker": {
    "word": "coworker",
    "level": "toeic730",
    "seed": 1780830765
+  },
+  "cram": {
+   "word": "cram",
+   "level": "school-hs1",
+   "seed": 927647463
+  },
+  "crawl": {
+   "word": "crawl",
+   "level": "school-hs1",
+   "seed": 999205623
   },
   "credentials": {
    "word": "credentials",
@@ -1547,15 +2787,85 @@
    "level": "toeic860",
    "seed": 1289138756
   },
+  "crew": {
+   "word": "crew",
+   "level": "school-hs1",
+   "seed": 2756159742
+  },
   "crippling": {
    "word": "crippling",
    "level": "toeic860",
    "seed": 2008868504
   },
+  "crisis": {
+   "word": "crisis",
+   "level": "school-hs1",
+   "seed": 1476881985
+  },
   "criterion": {
    "word": "criterion",
    "level": "toeic730",
    "seed": 2906378202
+  },
+  "critic": {
+   "word": "critic",
+   "level": "school-hs1",
+   "seed": 3412867294
+  },
+  "critical": {
+   "word": "critical",
+   "level": "school-hs1",
+   "seed": 303091199
+  },
+  "criticize": {
+   "word": "criticize",
+   "level": "school-hs1",
+   "seed": 3397538317
+  },
+  "crooked": {
+   "word": "crooked",
+   "level": "school-hs1",
+   "seed": 4245620560
+  },
+  "crop": {
+   "word": "crop",
+   "level": "school-hs1",
+   "seed": 2905304585
+  },
+  "cross": {
+   "word": "cross",
+   "level": "school-jhs1",
+   "seed": 2890039482
+  },
+  "crossing": {
+   "word": "crossing",
+   "level": "school-hs1",
+   "seed": 2725609566
+  },
+  "crucial": {
+   "word": "crucial",
+   "level": "school-hs1",
+   "seed": 3711758992
+  },
+  "cruel": {
+   "word": "cruel",
+   "level": "school-hs1",
+   "seed": 3972974535
+  },
+  "cruise": {
+   "word": "cruise",
+   "level": "school-hs1",
+   "seed": 2978547600
+  },
+  "crush": {
+   "word": "crush",
+   "level": "school-hs1",
+   "seed": 1424859347
+  },
+  "cry": {
+   "word": "cry",
+   "level": "school-jhs1",
+   "seed": 2690467725
   },
   "cuisine": {
    "word": "cuisine",
@@ -1572,6 +2882,26 @@
    "level": "toeic730",
    "seed": 2982943273
   },
+  "cunning": {
+   "word": "cunning",
+   "level": "school-hs1",
+   "seed": 559642166
+  },
+  "cup": {
+   "word": "cup",
+   "level": "school-jhs1",
+   "seed": 2902509200
+  },
+  "cure": {
+   "word": "cure",
+   "level": "school-hs1",
+   "seed": 404797762
+  },
+  "curfew": {
+   "word": "curfew",
+   "level": "school-hs1",
+   "seed": 4225439749
+  },
   "currency": {
    "word": "currency",
    "level": "toeic600",
@@ -1586,6 +2916,16 @@
    "word": "currently",
    "level": "toeic600",
    "seed": 85449749
+  },
+  "curriculum": {
+   "word": "curriculum",
+   "level": "school-hs1",
+   "seed": 1242761964
+  },
+  "curse": {
+   "word": "curse",
+   "level": "school-hs1",
+   "seed": 4029815152
   },
   "curtail": {
    "word": "curtail",
@@ -1602,15 +2942,55 @@
    "level": "toeic600",
    "seed": 2918069559
   },
+  "cute": {
+   "word": "cute",
+   "level": "school-jhs1",
+   "seed": 3324645776
+  },
   "cybersecurity": {
    "word": "cybersecurity",
    "level": "toeic860",
    "seed": 2029870252
   },
+  "cycle": {
+   "word": "cycle",
+   "level": "school-hs1",
+   "seed": 1562653396
+  },
+  "dam": {
+   "word": "dam",
+   "level": "school-hs1",
+   "seed": 695136769
+  },
+  "damage": {
+   "word": "damage",
+   "level": "school-hs1",
+   "seed": 1410958089
+  },
+  "dance": {
+   "word": "dance",
+   "level": "school-jhs1",
+   "seed": 1958025453
+  },
+  "daring": {
+   "word": "daring",
+   "level": "school-hs1",
+   "seed": 4050494382
+  },
+  "data": {
+   "word": "data",
+   "level": "school-hs1",
+   "seed": 2709297834
+  },
   "daunting": {
    "word": "daunting",
    "level": "toeic860",
    "seed": 2507661078
+  },
+  "day": {
+   "word": "day",
+   "level": "school-jhs1",
+   "seed": 2724334780
   },
   "deadline": {
    "word": "deadline",
@@ -1621,6 +3001,11 @@
    "word": "deadlock",
    "level": "toeic860",
    "seed": 808554746
+  },
+  "deadly": {
+   "word": "deadly",
+   "level": "school-hs1",
+   "seed": 2190900933
   },
   "deal": {
    "word": "deal",
@@ -1637,15 +3022,30 @@
    "level": "toeic860",
    "seed": 1530294979
   },
+  "debate": {
+   "word": "debate",
+   "level": "school-hs1",
+   "seed": 654238743
+  },
   "debit": {
    "word": "debit",
    "level": "toeic730",
    "seed": 3782032545
   },
+  "debt": {
+   "word": "debt",
+   "level": "school-hs1",
+   "seed": 3845048225
+  },
   "debtor": {
    "word": "debtor",
    "level": "toeic730",
    "seed": 829196549
+  },
+  "decent": {
+   "word": "decent",
+   "level": "school-hs1",
+   "seed": 34518686
   },
   "decisive": {
    "word": "decisive",
@@ -1656,6 +3056,21 @@
    "word": "declare",
    "level": "toeic600",
    "seed": 2693860295
+  },
+  "decline": {
+   "word": "decline",
+   "level": "school-hs1",
+   "seed": 1441953101
+  },
+  "dedicate": {
+   "word": "dedicate",
+   "level": "school-hs1",
+   "seed": 2165512390
+  },
+  "dedicated": {
+   "word": "dedicated",
+   "level": "school-hs1",
+   "seed": 221278511
   },
   "deduct": {
    "word": "deduct",
@@ -1677,6 +3092,21 @@
    "level": "toeic860",
    "seed": 3536623937
   },
+  "deficit": {
+   "word": "deficit",
+   "level": "school-hs1",
+   "seed": 3809164764
+  },
+  "define": {
+   "word": "define",
+   "level": "school-hs1",
+   "seed": 2720819863
+  },
+  "definition": {
+   "word": "definition",
+   "level": "school-hs1",
+   "seed": 4092714291
+  },
   "deflate": {
    "word": "deflate",
    "level": "toeic860",
@@ -1686,6 +3116,11 @@
    "word": "deflect",
    "level": "toeic860",
    "seed": 2255273688
+  },
+  "defy": {
+   "word": "defy",
+   "level": "school-hs1",
+   "seed": 237542468
   },
   "delay": {
    "word": "delay",
@@ -1701,6 +3136,21 @@
    "word": "delete",
    "level": "toeic600",
    "seed": 2491783327
+  },
+  "delicious": {
+   "word": "delicious",
+   "level": "school-jhs1",
+   "seed": 2058998152
+  },
+  "delighted": {
+   "word": "delighted",
+   "level": "school-jhs1",
+   "seed": 399568087
+  },
+  "delightful": {
+   "word": "delightful",
+   "level": "school-hs1",
+   "seed": 445220192
   },
   "delineate": {
    "word": "delineate",
@@ -1732,6 +3182,16 @@
    "level": "toeic730",
    "seed": 1705664425
   },
+  "demolish": {
+   "word": "demolish",
+   "level": "school-hs1",
+   "seed": 3711917321
+  },
+  "demonstrate": {
+   "word": "demonstrate",
+   "level": "school-hs1",
+   "seed": 1219595028
+  },
   "demoralize": {
    "word": "demoralize",
    "level": "toeic860",
@@ -1741,6 +3201,21 @@
    "word": "denomination",
    "level": "toeic860",
    "seed": 1618453684
+  },
+  "density": {
+   "word": "density",
+   "level": "school-hs1",
+   "seed": 3149866657
+  },
+  "dental": {
+   "word": "dental",
+   "level": "school-hs1",
+   "seed": 1081948930
+  },
+  "dentist": {
+   "word": "dentist",
+   "level": "school-hs1",
+   "seed": 3774429014
   },
   "depart": {
    "word": "depart",
@@ -1787,10 +3262,30 @@
    "level": "toeic860",
    "seed": 4054838006
   },
+  "descend": {
+   "word": "descend",
+   "level": "school-hs1",
+   "seed": 3546543082
+  },
   "designate": {
    "word": "designate",
    "level": "toeic730",
    "seed": 148962890
+  },
+  "desire": {
+   "word": "desire",
+   "level": "school-hs1",
+   "seed": 3284683760
+  },
+  "desk": {
+   "word": "desk",
+   "level": "school-jhs1",
+   "seed": 1189597088
+  },
+  "despair": {
+   "word": "despair",
+   "level": "school-hs1",
+   "seed": 2540868474
   },
   "dessert": {
    "word": "dessert",
@@ -1802,10 +3297,25 @@
    "level": "toeic600",
    "seed": 217169028
   },
+  "destroy": {
+   "word": "destroy",
+   "level": "school-hs1",
+   "seed": 1752170760
+  },
+  "determined": {
+   "word": "determined",
+   "level": "school-hs1",
+   "seed": 1044278395
+  },
   "devalue": {
    "word": "devalue",
    "level": "toeic860",
    "seed": 703518400
+  },
+  "device": {
+   "word": "device",
+   "level": "school-hs1",
+   "seed": 4087949747
   },
   "devious": {
    "word": "devious",
@@ -1822,10 +3332,25 @@
    "level": "toeic600",
    "seed": 1075260763
   },
+  "diagnose": {
+   "word": "diagnose",
+   "level": "school-hs1",
+   "seed": 2011635912
+  },
+  "diameter": {
+   "word": "diameter",
+   "level": "school-hs1",
+   "seed": 735970747
+  },
   "dictate": {
    "word": "dictate",
    "level": "toeic600",
    "seed": 2672480078
+  },
+  "dictionary": {
+   "word": "dictionary",
+   "level": "school-jhs1",
+   "seed": 4052482932
   },
   "dietary": {
    "word": "dietary",
@@ -1847,15 +3372,65 @@
    "level": "toeic730",
    "seed": 2688641072
   },
+  "dignity": {
+   "word": "dignity",
+   "level": "school-hs1",
+   "seed": 879509832
+  },
   "diligence": {
    "word": "diligence",
    "level": "toeic860",
    "seed": 412301940
   },
+  "diligent": {
+   "word": "diligent",
+   "level": "school-hs1",
+   "seed": 1962235446
+  },
   "diligently": {
    "word": "diligently",
    "level": "toeic860",
    "seed": 2867510464
+  },
+  "dim": {
+   "word": "dim",
+   "level": "school-hs1",
+   "seed": 1209388744
+  },
+  "dimension": {
+   "word": "dimension",
+   "level": "school-hs1",
+   "seed": 774378968
+  },
+  "diminish": {
+   "word": "diminish",
+   "level": "school-hs1",
+   "seed": 149809067
+  },
+  "dine": {
+   "word": "dine",
+   "level": "school-hs1",
+   "seed": 1084110314
+  },
+  "dinner": {
+   "word": "dinner",
+   "level": "school-jhs1",
+   "seed": 2026620799
+  },
+  "dip": {
+   "word": "dip",
+   "level": "school-hs1",
+   "seed": 1801870985
+  },
+  "diploma": {
+   "word": "diploma",
+   "level": "school-hs1",
+   "seed": 3265768882
+  },
+  "diplomat": {
+   "word": "diplomat",
+   "level": "school-hs1",
+   "seed": 3846360121
   },
   "directions": {
    "word": "directions",
@@ -1866,6 +3441,11 @@
    "word": "directly",
    "level": "toeic600",
    "seed": 2051852274
+  },
+  "disaster": {
+   "word": "disaster",
+   "level": "school-hs1",
+   "seed": 2891497231
   },
   "disband": {
    "word": "disband",
@@ -1882,6 +3462,11 @@
    "level": "toeic860",
    "seed": 4118689798
   },
+  "discipline": {
+   "word": "discipline",
+   "level": "school-hs1",
+   "seed": 757037833
+  },
   "discontent": {
    "word": "discontent",
    "level": "toeic860",
@@ -1897,6 +3482,11 @@
    "level": "toeic600",
    "seed": 3295136271
   },
+  "discouraged": {
+   "word": "discouraged",
+   "level": "school-hs1",
+   "seed": 2024986680
+  },
   "discourteous": {
    "word": "discourteous",
    "level": "toeic860",
@@ -1911,6 +3501,16 @@
    "word": "disembark",
    "level": "toeic730",
    "seed": 3467453301
+  },
+  "disguise": {
+   "word": "disguise",
+   "level": "school-hs1",
+   "seed": 2043419548
+  },
+  "dish": {
+   "word": "dish",
+   "level": "school-hs1",
+   "seed": 1482859697
   },
   "dismiss": {
    "word": "dismiss",
@@ -1972,10 +3572,30 @@
    "level": "toeic860",
    "seed": 372120602
   },
+  "dissatisfied": {
+   "word": "dissatisfied",
+   "level": "school-hs1",
+   "seed": 2476119708
+  },
   "disseminate": {
    "word": "disseminate",
    "level": "toeic860",
    "seed": 1216349715
+  },
+  "dissolve": {
+   "word": "dissolve",
+   "level": "school-hs1",
+   "seed": 16611879
+  },
+  "distant": {
+   "word": "distant",
+   "level": "school-hs1",
+   "seed": 2030416130
+  },
+  "distract": {
+   "word": "distract",
+   "level": "school-hs1",
+   "seed": 4025304048
   },
   "distribute": {
    "word": "distribute",
@@ -1986,6 +3606,11 @@
    "word": "distribution",
    "level": "toeic730",
    "seed": 3338386632
+  },
+  "district": {
+   "word": "district",
+   "level": "school-hs1",
+   "seed": 3753633773
   },
   "divergence": {
    "word": "divergence",
@@ -2027,10 +3652,25 @@
    "level": "toeic860",
    "seed": 3165732614
   },
+  "dizzy": {
+   "word": "dizzy",
+   "level": "school-hs1",
+   "seed": 370777478
+  },
+  "do": {
+   "word": "do",
+   "level": "school-jhs1",
+   "seed": 3940342205
+  },
   "dock": {
    "word": "dock",
    "level": "toeic600",
    "seed": 3681016863
+  },
+  "doctor": {
+   "word": "doctor",
+   "level": "school-jhs1",
+   "seed": 520183815
   },
   "document": {
    "word": "document",
@@ -2041,6 +3681,16 @@
    "word": "documentation",
    "level": "toeic730",
    "seed": 3123320400
+  },
+  "dodge": {
+   "word": "dodge",
+   "level": "school-hs1",
+   "seed": 3037583946
+  },
+  "dog": {
+   "word": "dog",
+   "level": "school-jhs1",
+   "seed": 3834974802
   },
   "dogged": {
    "word": "dogged",
@@ -2072,10 +3722,25 @@
    "level": "toeic860",
    "seed": 70184313
   },
+  "door": {
+   "word": "door",
+   "level": "school-jhs1",
+   "seed": 645969524
+  },
+  "dot": {
+   "word": "dot",
+   "level": "school-hs1",
+   "seed": 881474634
+  },
   "double": {
    "word": "double",
    "level": "toeic600",
    "seed": 3182652338
+  },
+  "doubtful": {
+   "word": "doubtful",
+   "level": "school-hs1",
+   "seed": 2792018135
   },
   "downside": {
    "word": "downside",
@@ -2107,6 +3772,56 @@
    "level": "toeic600",
    "seed": 242706100
   },
+  "dramatically": {
+   "word": "dramatically",
+   "level": "school-hs1",
+   "seed": 975243849
+  },
+  "drastic": {
+   "word": "drastic",
+   "level": "school-hs1",
+   "seed": 279347131
+  },
+  "dream": {
+   "word": "dream",
+   "level": "school-jhs1",
+   "seed": 1594140804
+  },
+  "drill": {
+   "word": "drill",
+   "level": "school-hs1",
+   "seed": 316675081
+  },
+  "drink": {
+   "word": "drink",
+   "level": "school-jhs1",
+   "seed": 2091361451
+  },
+  "drive": {
+   "word": "drive",
+   "level": "school-jhs1",
+   "seed": 1232721433
+  },
+  "driver": {
+   "word": "driver",
+   "level": "school-jhs1",
+   "seed": 4258925638
+  },
+  "dual": {
+   "word": "dual",
+   "level": "school-hs1",
+   "seed": 1636209620
+  },
+  "dull": {
+   "word": "dull",
+   "level": "school-hs1",
+   "seed": 1938458063
+  },
+  "dump": {
+   "word": "dump",
+   "level": "school-hs1",
+   "seed": 2506608980
+  },
   "duplicate": {
    "word": "duplicate",
    "level": "toeic860",
@@ -2122,6 +3837,21 @@
    "level": "toeic860",
    "seed": 1564423243
   },
+  "dust": {
+   "word": "dust",
+   "level": "school-hs1",
+   "seed": 2104308291
+  },
+  "dwell": {
+   "word": "dwell",
+   "level": "school-hs1",
+   "seed": 1874959758
+  },
+  "dye": {
+   "word": "dye",
+   "level": "school-hs1",
+   "seed": 689661313
+  },
   "dynamic": {
    "word": "dynamic",
    "level": "toeic730",
@@ -2132,15 +3862,55 @@
    "level": "toeic860",
    "seed": 527402655
   },
+  "eager": {
+   "word": "eager",
+   "level": "school-hs1",
+   "seed": 2779167180
+  },
   "earn": {
    "word": "earn",
    "level": "toeic730",
    "seed": 2926068874
   },
+  "earnestly": {
+   "word": "earnestly",
+   "level": "school-hs1",
+   "seed": 1973892224
+  },
   "earnings": {
    "word": "earnings",
    "level": "toeic730",
    "seed": 2438602270
+  },
+  "easy": {
+   "word": "easy",
+   "level": "school-jhs1",
+   "seed": 2250002279
+  },
+  "eat": {
+   "word": "eat",
+   "level": "school-jhs1",
+   "seed": 3633599861
+  },
+  "economics": {
+   "word": "economics",
+   "level": "school-hs1",
+   "seed": 396884679
+  },
+  "edge": {
+   "word": "edge",
+   "level": "school-hs1",
+   "seed": 2700265114
+  },
+  "editorial": {
+   "word": "editorial",
+   "level": "school-hs1",
+   "seed": 2550828207
+  },
+  "effect": {
+   "word": "effect",
+   "level": "school-hs1",
+   "seed": 1758583521
   },
   "efficiency": {
    "word": "efficiency",
@@ -2157,6 +3927,36 @@
    "level": "toeic730",
    "seed": 1383325519
   },
+  "effortless": {
+   "word": "effortless",
+   "level": "school-hs1",
+   "seed": 1182719134
+  },
+  "egg": {
+   "word": "egg",
+   "level": "school-jhs1",
+   "seed": 1336279631
+  },
+  "eight": {
+   "word": "eight",
+   "level": "school-jhs1",
+   "seed": 3564763662
+  },
+  "election": {
+   "word": "election",
+   "level": "school-hs1",
+   "seed": 3986433002
+  },
+  "element": {
+   "word": "element",
+   "level": "school-hs1",
+   "seed": 3738043720
+  },
+  "elementary": {
+   "word": "elementary",
+   "level": "school-hs1",
+   "seed": 3061753318
+  },
   "elevate": {
    "word": "elevate",
    "level": "toeic860",
@@ -2167,15 +3967,35 @@
    "level": "toeic730",
    "seed": 1590283058
   },
+  "eliminate": {
+   "word": "eliminate",
+   "level": "school-hs1",
+   "seed": 2189968851
+  },
   "embargo": {
    "word": "embargo",
    "level": "toeic860",
    "seed": 1082415417
   },
+  "embarrass": {
+   "word": "embarrass",
+   "level": "school-hs1",
+   "seed": 175585255
+  },
+  "embarrassed": {
+   "word": "embarrassed",
+   "level": "school-hs1",
+   "seed": 3972100066
+  },
   "embezzle": {
    "word": "embezzle",
    "level": "toeic860",
    "seed": 821776225
+  },
+  "embody": {
+   "word": "embody",
+   "level": "school-hs1",
+   "seed": 3623662451
   },
   "emerge": {
    "word": "emerge",
@@ -2187,10 +4007,25 @@
    "level": "toeic600",
    "seed": 2763477375
   },
+  "emission": {
+   "word": "emission",
+   "level": "school-hs1",
+   "seed": 3050972640
+  },
+  "emotional": {
+   "word": "emotional",
+   "level": "school-hs1",
+   "seed": 2787150279
+  },
   "emphasis": {
    "word": "emphasis",
    "level": "toeic860",
    "seed": 2900428611
+  },
+  "emphasize": {
+   "word": "emphasize",
+   "level": "school-hs1",
+   "seed": 2803578499
   },
   "employ": {
    "word": "employ",
@@ -2206,6 +4041,11 @@
    "word": "employer",
    "level": "toeic600",
    "seed": 1892351099
+  },
+  "employment": {
+   "word": "employment",
+   "level": "school-hs1",
+   "seed": 115544656
   },
   "empower": {
    "word": "empower",
@@ -2232,6 +4072,16 @@
    "level": "toeic860",
    "seed": 3076527639
   },
+  "encounter": {
+   "word": "encounter",
+   "level": "school-hs1",
+   "seed": 1128929808
+  },
+  "endangered": {
+   "word": "endangered",
+   "level": "school-hs1",
+   "seed": 2023139807
+  },
   "endeavor": {
    "word": "endeavor",
    "level": "toeic730",
@@ -2252,6 +4102,11 @@
    "level": "toeic860",
    "seed": 1311231479
   },
+  "energetic": {
+   "word": "energetic",
+   "level": "school-hs1",
+   "seed": 272179861
+  },
   "enforce": {
    "word": "enforce",
    "level": "toeic730",
@@ -2267,6 +4122,41 @@
    "level": "toeic600",
    "seed": 2104658357
   },
+  "english": {
+   "word": "english",
+   "level": "school-jhs1",
+   "seed": 459707188
+  },
+  "enhance": {
+   "word": "enhance",
+   "level": "school-hs1",
+   "seed": 1066830159
+  },
+  "enjoy": {
+   "word": "enjoy",
+   "level": "school-jhs1",
+   "seed": 1410209812
+  },
+  "enrich": {
+   "word": "enrich",
+   "level": "school-hs1",
+   "seed": 1174634875
+  },
+  "enroll": {
+   "word": "enroll",
+   "level": "school-hs1",
+   "seed": 402782653
+  },
+  "enrollment": {
+   "word": "enrollment",
+   "level": "school-hs1",
+   "seed": 641162856
+  },
+  "ensure": {
+   "word": "ensure",
+   "level": "school-hs1",
+   "seed": 55590104
+  },
   "enterprise": {
    "word": "enterprise",
    "level": "toeic730",
@@ -2277,10 +4167,30 @@
    "level": "toeic600",
    "seed": 1386259906
   },
+  "enthusiasm": {
+   "word": "enthusiasm",
+   "level": "school-hs1",
+   "seed": 718034798
+  },
+  "enthusiastic": {
+   "word": "enthusiastic",
+   "level": "school-hs1",
+   "seed": 2296447398
+  },
   "entice": {
    "word": "entice",
    "level": "toeic860",
    "seed": 1832831961
+  },
+  "entire": {
+   "word": "entire",
+   "level": "school-hs1",
+   "seed": 1953980840
+  },
+  "entirely": {
+   "word": "entirely",
+   "level": "school-hs1",
+   "seed": 683480608
   },
   "entity": {
    "word": "entity",
@@ -2317,6 +4227,11 @@
    "level": "toeic730",
    "seed": 713358220
   },
+  "enzyme": {
+   "word": "enzyme",
+   "level": "school-hs1",
+   "seed": 505734028
+  },
   "equip": {
    "word": "equip",
    "level": "toeic600",
@@ -2332,15 +4247,50 @@
    "level": "toeic730",
    "seed": 1823086883
   },
+  "erosion": {
+   "word": "erosion",
+   "level": "school-hs1",
+   "seed": 1472046233
+  },
+  "errand": {
+   "word": "errand",
+   "level": "school-hs1",
+   "seed": 13429617
+  },
+  "escalator": {
+   "word": "escalator",
+   "level": "school-hs1",
+   "seed": 3942136996
+  },
   "escrow": {
    "word": "escrow",
    "level": "toeic860",
    "seed": 3605011105
   },
+  "essay": {
+   "word": "essay",
+   "level": "school-hs1",
+   "seed": 1053882622
+  },
+  "essence": {
+   "word": "essence",
+   "level": "school-hs1",
+   "seed": 3542700736
+  },
+  "essential": {
+   "word": "essential",
+   "level": "school-hs1",
+   "seed": 384252874
+  },
   "estimate": {
    "word": "estimate",
    "level": "toeic600",
    "seed": 3409955349
+  },
+  "ethical": {
+   "word": "ethical",
+   "level": "school-hs1",
+   "seed": 39742958
   },
   "ethos": {
    "word": "ethos",
@@ -2357,15 +4307,55 @@
    "level": "toeic730",
    "seed": 923345231
   },
+  "evaporate": {
+   "word": "evaporate",
+   "level": "school-hs1",
+   "seed": 625661820
+  },
+  "evaporation": {
+   "word": "evaporation",
+   "level": "school-hs1",
+   "seed": 2843967125
+  },
   "evasion": {
    "word": "evasion",
    "level": "toeic860",
    "seed": 926667389
   },
+  "evening": {
+   "word": "evening",
+   "level": "school-jhs1",
+   "seed": 3581925654
+  },
+  "event": {
+   "word": "event",
+   "level": "school-jhs1",
+   "seed": 1342631170
+  },
+  "evil": {
+   "word": "evil",
+   "level": "school-hs1",
+   "seed": 3058927889
+  },
   "exaggerate": {
    "word": "exaggerate",
    "level": "toeic860",
    "seed": 341947003
+  },
+  "examination": {
+   "word": "examination",
+   "level": "school-hs1",
+   "seed": 919777443
+  },
+  "exceed": {
+   "word": "exceed",
+   "level": "school-hs1",
+   "seed": 2044231718
+  },
+  "exception": {
+   "word": "exception",
+   "level": "school-hs1",
+   "seed": 1564650775
   },
   "excess": {
    "word": "excess",
@@ -2376,6 +4366,16 @@
    "word": "exchange",
    "level": "toeic600",
    "seed": 2739502910
+  },
+  "exciting": {
+   "word": "exciting",
+   "level": "school-jhs1",
+   "seed": 691160631
+  },
+  "exclude": {
+   "word": "exclude",
+   "level": "school-hs1",
+   "seed": 4088188495
   },
   "exclusive": {
    "word": "exclusive",
@@ -2416,6 +4416,16 @@
    "word": "exemption",
    "level": "toeic860",
    "seed": 2046152668
+  },
+  "exhausted": {
+   "word": "exhausted",
+   "level": "school-hs1",
+   "seed": 1090899933
+  },
+  "exhausting": {
+   "word": "exhausting",
+   "level": "school-hs1",
+   "seed": 1562347304
   },
   "exhibit": {
    "word": "exhibit",
@@ -2502,6 +4512,11 @@
    "level": "toeic730",
    "seed": 551395403
   },
+  "explanation": {
+   "word": "explanation",
+   "level": "school-hs1",
+   "seed": 1941455486
+  },
   "explicitly": {
    "word": "explicitly",
    "level": "toeic860",
@@ -2512,10 +4527,25 @@
    "level": "toeic730",
    "seed": 627751854
   },
+  "explore": {
+   "word": "explore",
+   "level": "school-hs1",
+   "seed": 2648348500
+  },
+  "explosion": {
+   "word": "explosion",
+   "level": "school-hs1",
+   "seed": 3870695633
+  },
   "export": {
    "word": "export",
    "level": "toeic600",
    "seed": 1366373385
+  },
+  "expose": {
+   "word": "expose",
+   "level": "school-hs1",
+   "seed": 220441049
   },
   "express": {
    "word": "express",
@@ -2547,6 +4577,21 @@
    "level": "toeic860",
    "seed": 668711043
   },
+  "eye": {
+   "word": "eye",
+   "level": "school-jhs1",
+   "seed": 2044676887
+  },
+  "fabric": {
+   "word": "fabric",
+   "level": "school-hs1",
+   "seed": 433311481
+  },
+  "face": {
+   "word": "face",
+   "level": "school-jhs1",
+   "seed": 1239162032
+  },
   "facilitate": {
    "word": "facilitate",
    "level": "toeic730",
@@ -2556,6 +4601,11 @@
    "word": "facility",
    "level": "toeic600",
    "seed": 4203750693
+  },
+  "factor": {
+   "word": "factor",
+   "level": "school-hs1",
+   "seed": 2054931529
   },
   "factory": {
    "word": "factory",
@@ -2567,15 +4617,85 @@
    "level": "toeic860",
    "seed": 3627679460
   },
+  "failure": {
+   "word": "failure",
+   "level": "school-hs1",
+   "seed": 3598731707
+  },
+  "faint": {
+   "word": "faint",
+   "level": "school-hs1",
+   "seed": 978652204
+  },
+  "fair": {
+   "word": "fair",
+   "level": "school-hs1",
+   "seed": 410480847
+  },
+  "fairly": {
+   "word": "fairly",
+   "level": "school-hs1",
+   "seed": 3913425329
+  },
+  "faithful": {
+   "word": "faithful",
+   "level": "school-hs1",
+   "seed": 2617104565
+  },
+  "faithfully": {
+   "word": "faithfully",
+   "level": "school-hs1",
+   "seed": 1133888976
+  },
+  "fall": {
+   "word": "fall",
+   "level": "school-jhs1",
+   "seed": 3307767842
+  },
   "fallout": {
    "word": "fallout",
    "level": "toeic860",
    "seed": 3421973194
   },
+  "false": {
+   "word": "false",
+   "level": "school-hs1",
+   "seed": 2092363705
+  },
+  "family": {
+   "word": "family",
+   "level": "school-jhs1",
+   "seed": 3275687323
+  },
+  "fan": {
+   "word": "fan",
+   "level": "school-jhs1",
+   "seed": 681133073
+  },
+  "far": {
+   "word": "far",
+   "level": "school-jhs1",
+   "seed": 1890769802
+  },
   "fare": {
    "word": "fare",
    "level": "toeic600",
    "seed": 3311885974
+  },
+  "fascinating": {
+   "word": "fascinating",
+   "level": "school-hs1",
+   "seed": 4190648641
+  },
+  "fast": {
+   "word": "fast",
+   "level": "school-jhs1",
+   "seed": 184411494
+  },
+  "father": {
+   "word": "father",
+   "level": "school-jhs1",
+   "seed": 852016127
   },
   "faulty": {
    "word": "faulty",
@@ -2586,6 +4706,11 @@
    "word": "favorable",
    "level": "toeic860",
    "seed": 2408204421
+  },
+  "favorite": {
+   "word": "favorite",
+   "level": "school-jhs1",
+   "seed": 1963031094
   },
   "feasibility": {
    "word": "feasibility",
@@ -2607,10 +4732,20 @@
    "level": "toeic600",
    "seed": 4011193484
   },
+  "fellow": {
+   "word": "fellow",
+   "level": "school-hs1",
+   "seed": 76633364
+  },
   "festival": {
    "word": "festival",
    "level": "toeic600",
    "seed": 4044632201
+  },
+  "fever": {
+   "word": "fever",
+   "level": "school-hs1",
+   "seed": 3807594491
   },
   "fiasco": {
    "word": "fiasco",
@@ -2621,6 +4756,11 @@
    "word": "fickle",
    "level": "toeic860",
    "seed": 2901233233
+  },
+  "fierce": {
+   "word": "fierce",
+   "level": "school-hs1",
+   "seed": 3141156921
   },
   "finance": {
    "word": "finance",
@@ -2637,6 +4777,16 @@
    "level": "toeic600",
    "seed": 3544224926
   },
+  "firmly": {
+   "word": "firmly",
+   "level": "school-hs1",
+   "seed": 1277745120
+  },
+  "first": {
+   "word": "first",
+   "level": "school-jhs1",
+   "seed": 3768150583
+  },
   "fiscal": {
    "word": "fiscal",
    "level": "toeic730",
@@ -2646,6 +4796,16 @@
    "word": "fiscally",
    "level": "toeic860",
    "seed": 611985458
+  },
+  "fish": {
+   "word": "fish",
+   "level": "school-jhs1",
+   "seed": 1686593484
+  },
+  "five": {
+   "word": "five",
+   "level": "school-jhs1",
+   "seed": 1303560671
   },
   "fixture": {
    "word": "fixture",
@@ -2657,10 +4817,25 @@
    "level": "toeic600",
    "seed": 2742560808
   },
+  "flask": {
+   "word": "flask",
+   "level": "school-hs1",
+   "seed": 3896744555
+  },
   "flatter": {
    "word": "flatter",
    "level": "toeic860",
    "seed": 22046870
+  },
+  "flavor": {
+   "word": "flavor",
+   "level": "school-hs1",
+   "seed": 47059097
+  },
+  "flee": {
+   "word": "flee",
+   "level": "school-hs1",
+   "seed": 2126013523
   },
   "fleet": {
    "word": "fleet",
@@ -2677,10 +4852,20 @@
    "level": "toeic600",
    "seed": 3234361216
   },
+  "flight": {
+   "word": "flight",
+   "level": "school-jhs1",
+   "seed": 3433366023
+  },
   "flippant": {
    "word": "flippant",
    "level": "toeic860",
    "seed": 2741168173
+  },
+  "flock": {
+   "word": "flock",
+   "level": "school-hs1",
+   "seed": 1142057590
   },
   "flounder": {
    "word": "flounder",
@@ -2692,6 +4877,16 @@
    "level": "toeic730",
    "seed": 565828987
   },
+  "flower": {
+   "word": "flower",
+   "level": "school-jhs1",
+   "seed": 1514584101
+  },
+  "flu": {
+   "word": "flu",
+   "level": "school-hs1",
+   "seed": 4064667901
+  },
   "fluctuate": {
    "word": "fluctuate",
    "level": "toeic730",
@@ -2702,20 +4897,75 @@
    "level": "toeic860",
    "seed": 2308870802
   },
+  "fluency": {
+   "word": "fluency",
+   "level": "school-hs1",
+   "seed": 2034443794
+  },
   "fluent": {
    "word": "fluent",
    "level": "toeic600",
    "seed": 244275072
+  },
+  "fly": {
+   "word": "fly",
+   "level": "school-jhs1",
+   "seed": 1101431498
   },
   "flyer": {
    "word": "flyer",
    "level": "toeic860",
    "seed": 1984779263
   },
+  "fog": {
+   "word": "fog",
+   "level": "school-hs1",
+   "seed": 3756768679
+  },
+  "following": {
+   "word": "following",
+   "level": "school-hs1",
+   "seed": 1824483525
+  },
+  "fond": {
+   "word": "fond",
+   "level": "school-jhs1",
+   "seed": 3204877993
+  },
+  "food": {
+   "word": "food",
+   "level": "school-jhs1",
+   "seed": 969716525
+  },
+  "foolish": {
+   "word": "foolish",
+   "level": "school-hs1",
+   "seed": 237690876
+  },
   "foolproof": {
    "word": "foolproof",
    "level": "toeic860",
    "seed": 3469324254
+  },
+  "foot": {
+   "word": "foot",
+   "level": "school-jhs1",
+   "seed": 852201784
+  },
+  "footage": {
+   "word": "footage",
+   "level": "school-hs1",
+   "seed": 166549901
+  },
+  "for": {
+   "word": "for",
+   "level": "school-jhs1",
+   "seed": 1139734950
+  },
+  "forbid": {
+   "word": "forbid",
+   "level": "school-hs1",
+   "seed": 103484376
   },
   "forecast": {
    "word": "forecast",
@@ -2752,10 +5002,20 @@
    "level": "toeic730",
    "seed": 3677099595
   },
+  "forgive": {
+   "word": "forgive",
+   "level": "school-hs1",
+   "seed": 4264333002
+  },
   "forgo": {
    "word": "forgo",
    "level": "toeic860",
    "seed": 2056781911
+  },
+  "fork": {
+   "word": "fork",
+   "level": "school-jhs1",
+   "seed": 1063730986
   },
   "formal": {
    "word": "formal",
@@ -2782,10 +5042,25 @@
    "level": "toeic860",
    "seed": 1322940251
   },
+  "fortunate": {
+   "word": "fortunate",
+   "level": "school-hs1",
+   "seed": 1428902235
+  },
   "fortune": {
    "word": "fortune",
    "level": "toeic730",
    "seed": 3861437013
+  },
+  "forum": {
+   "word": "forum",
+   "level": "school-hs1",
+   "seed": 1932335335
+  },
+  "fossil": {
+   "word": "fossil",
+   "level": "school-hs1",
+   "seed": 3115567418
   },
   "foster": {
    "word": "foster",
@@ -2797,10 +5072,25 @@
    "level": "toeic600",
    "seed": 658094886
   },
+  "foundation": {
+   "word": "foundation",
+   "level": "school-hs1",
+   "seed": 3969262792
+  },
   "founder": {
    "word": "founder",
    "level": "toeic600",
    "seed": 4013159997
+  },
+  "four": {
+   "word": "four",
+   "level": "school-jhs1",
+   "seed": 2676981484
+  },
+  "fragment": {
+   "word": "fragment",
+   "level": "school-hs1",
+   "seed": 1366478715
   },
   "framework": {
    "word": "framework",
@@ -2811,6 +5101,16 @@
    "word": "franchise",
    "level": "toeic730",
    "seed": 2274499064
+  },
+  "frank": {
+   "word": "frank",
+   "level": "school-hs1",
+   "seed": 2259206874
+  },
+  "frankly": {
+   "word": "frankly",
+   "level": "school-hs1",
+   "seed": 1523998305
   },
   "fraudulent": {
    "word": "fraudulent",
@@ -2827,15 +5127,60 @@
    "level": "toeic860",
    "seed": 640756446
   },
+  "frequency": {
+   "word": "frequency",
+   "level": "school-hs1",
+   "seed": 1219003181
+  },
   "frequent": {
    "word": "frequent",
    "level": "toeic600",
    "seed": 2045450302
   },
+  "frequently": {
+   "word": "frequently",
+   "level": "school-hs1",
+   "seed": 3660532969
+  },
+  "freshman": {
+   "word": "freshman",
+   "level": "school-hs1",
+   "seed": 2022645089
+  },
+  "friction": {
+   "word": "friction",
+   "level": "school-hs1",
+   "seed": 3738492348
+  },
+  "friday": {
+   "word": "friday",
+   "level": "school-jhs1",
+   "seed": 1739979336
+  },
+  "friend": {
+   "word": "friend",
+   "level": "school-jhs1",
+   "seed": 3868747722
+  },
+  "frightened": {
+   "word": "frightened",
+   "level": "school-jhs1",
+   "seed": 2172642851
+  },
   "frivolous": {
    "word": "frivolous",
    "level": "toeic860",
    "seed": 869772856
+  },
+  "from": {
+   "word": "from",
+   "level": "school-jhs1",
+   "seed": 186553807
+  },
+  "frost": {
+   "word": "frost",
+   "level": "school-hs1",
+   "seed": 2005139546
   },
   "frugal": {
    "word": "frugal",
@@ -2847,10 +5192,20 @@
    "level": "toeic860",
    "seed": 833239747
   },
+  "fruit": {
+   "word": "fruit",
+   "level": "school-jhs1",
+   "seed": 4032018614
+  },
   "fruitful": {
    "word": "fruitful",
    "level": "toeic860",
    "seed": 1412959510
+  },
+  "frustrated": {
+   "word": "frustrated",
+   "level": "school-hs1",
+   "seed": 2613747855
   },
   "fulfill": {
    "word": "fulfill",
@@ -2862,20 +5217,70 @@
    "level": "toeic860",
    "seed": 777831998
   },
+  "fun": {
+   "word": "fun",
+   "level": "school-jhs1",
+   "seed": 3360444629
+  },
+  "function": {
+   "word": "function",
+   "level": "school-hs1",
+   "seed": 3256411038
+  },
   "functional": {
    "word": "functional",
    "level": "toeic860",
    "seed": 4083175554
+  },
+  "fund": {
+   "word": "fund",
+   "level": "school-hs1",
+   "seed": 3805362871
   },
   "funding": {
    "word": "funding",
    "level": "toeic730",
    "seed": 2133897495
   },
+  "furious": {
+   "word": "furious",
+   "level": "school-hs1",
+   "seed": 3725185296
+  },
+  "further": {
+   "word": "further",
+   "level": "school-hs1",
+   "seed": 2330980989
+  },
+  "furthermore": {
+   "word": "furthermore",
+   "level": "school-hs1",
+   "seed": 3368622156
+  },
+  "gain": {
+   "word": "gain",
+   "level": "school-hs1",
+   "seed": 1608538704
+  },
+  "game": {
+   "word": "game",
+   "level": "school-jhs1",
+   "seed": 3449835977
+  },
+  "garden": {
+   "word": "garden",
+   "level": "school-jhs1",
+   "seed": 2980963633
+  },
   "garner": {
    "word": "garner",
    "level": "toeic860",
    "seed": 295882992
+  },
+  "gasoline": {
+   "word": "gasoline",
+   "level": "school-hs1",
+   "seed": 2479774526
   },
   "gate": {
    "word": "gate",
@@ -2887,15 +5292,110 @@
    "level": "toeic860",
    "seed": 2114847120
   },
+  "generally": {
+   "word": "generally",
+   "level": "school-hs1",
+   "seed": 3942485276
+  },
   "generate": {
    "word": "generate",
    "level": "toeic730",
    "seed": 2656687141
   },
+  "generator": {
+   "word": "generator",
+   "level": "school-hs1",
+   "seed": 1147725278
+  },
+  "generosity": {
+   "word": "generosity",
+   "level": "school-hs1",
+   "seed": 4255234052
+  },
+  "generous": {
+   "word": "generous",
+   "level": "school-hs1",
+   "seed": 4273569038
+  },
+  "genius": {
+   "word": "genius",
+   "level": "school-hs1",
+   "seed": 1036703035
+  },
+  "gentle": {
+   "word": "gentle",
+   "level": "school-hs1",
+   "seed": 1192822946
+  },
+  "genuine": {
+   "word": "genuine",
+   "level": "school-hs1",
+   "seed": 1862871348
+  },
+  "geography": {
+   "word": "geography",
+   "level": "school-hs1",
+   "seed": 2994483047
+  },
+  "geology": {
+   "word": "geology",
+   "level": "school-hs1",
+   "seed": 2669037483
+  },
+  "germ": {
+   "word": "germ",
+   "level": "school-hs1",
+   "seed": 914118082
+  },
+  "get": {
+   "word": "get",
+   "level": "school-jhs1",
+   "seed": 2017010661
+  },
+  "gigantic": {
+   "word": "gigantic",
+   "level": "school-hs1",
+   "seed": 392263631
+  },
+  "girl": {
+   "word": "girl",
+   "level": "school-jhs1",
+   "seed": 632763059
+  },
+  "glance": {
+   "word": "glance",
+   "level": "school-hs1",
+   "seed": 174893085
+  },
+  "glory": {
+   "word": "glory",
+   "level": "school-hs1",
+   "seed": 1753746459
+  },
+  "glow": {
+   "word": "glow",
+   "level": "school-hs1",
+   "seed": 1793435171
+  },
+  "go": {
+   "word": "go",
+   "level": "school-jhs1",
+   "seed": 516249766
+  },
   "goal": {
    "word": "goal",
    "level": "toeic600",
    "seed": 3684303403
+  },
+  "good": {
+   "word": "good",
+   "level": "school-jhs1",
+   "seed": 4229509517
+  },
+  "goodbye": {
+   "word": "goodbye",
+   "level": "school-jhs1",
+   "seed": 1015989383
   },
   "goods": {
    "word": "goods",
@@ -2912,10 +5412,75 @@
    "level": "toeic600",
    "seed": 1454958267
   },
+  "grab": {
+   "word": "grab",
+   "level": "school-hs1",
+   "seed": 3645389603
+  },
   "gradually": {
    "word": "gradually",
    "level": "toeic600",
    "seed": 2058798598
+  },
+  "graduate": {
+   "word": "graduate",
+   "level": "school-hs1",
+   "seed": 745171885
+  },
+  "graduation": {
+   "word": "graduation",
+   "level": "school-hs1",
+   "seed": 2774622355
+  },
+  "grammar": {
+   "word": "grammar",
+   "level": "school-hs1",
+   "seed": 864941533
+  },
+  "grandfather": {
+   "word": "grandfather",
+   "level": "school-jhs1",
+   "seed": 3714517213
+  },
+  "grandmother": {
+   "word": "grandmother",
+   "level": "school-jhs1",
+   "seed": 3929612554
+  },
+  "grant": {
+   "word": "grant",
+   "level": "school-hs1",
+   "seed": 1969346486
+  },
+  "grasp": {
+   "word": "grasp",
+   "level": "school-hs1",
+   "seed": 2604647336
+  },
+  "gravity": {
+   "word": "gravity",
+   "level": "school-hs1",
+   "seed": 2913500012
+  },
+  "great": {
+   "word": "great",
+   "level": "school-jhs1",
+   "seed": 4224252646
+  },
+  "greedy": {
+   "word": "greedy",
+   "level": "school-hs1",
+   "seed": 127121269
+  },
+  "green": {
+   "word": "green",
+   "level": "school-jhs1",
+   "seed": 3161781488
+  },
+  "grid": {
+   "word": "grid",
+   "level": "school-hs1",
+   "seed": 4089791405
   },
   "grievance": {
    "word": "grievance",
@@ -2937,15 +5502,40 @@
    "level": "toeic600",
    "seed": 883398178
   },
+  "grumpy": {
+   "word": "grumpy",
+   "level": "school-hs1",
+   "seed": 3389289498
+  },
   "guarantee": {
    "word": "guarantee",
    "level": "toeic600",
    "seed": 3824903064
   },
+  "guide": {
+   "word": "guide",
+   "level": "school-jhs1",
+   "seed": 1230437085
+  },
   "guideline": {
    "word": "guideline",
    "level": "toeic730",
    "seed": 2457782938
+  },
+  "guilty": {
+   "word": "guilty",
+   "level": "school-hs1",
+   "seed": 1363787936
+  },
+  "guitar": {
+   "word": "guitar",
+   "level": "school-jhs1",
+   "seed": 580135804
+  },
+  "gulf": {
+   "word": "gulf",
+   "level": "school-hs1",
+   "seed": 555735962
   },
   "gym": {
    "word": "gym",
@@ -2957,20 +5547,80 @@
    "level": "toeic860",
    "seed": 2848086631
   },
+  "hand": {
+   "word": "hand",
+   "level": "school-jhs1",
+   "seed": 2518786628
+  },
   "handle": {
    "word": "handle",
    "level": "toeic600",
    "seed": 2732424902
+  },
+  "handsome": {
+   "word": "handsome",
+   "level": "school-hs1",
+   "seed": 300011745
+  },
+  "happy": {
+   "word": "happy",
+   "level": "school-jhs1",
+   "seed": 964218889
+  },
+  "hard": {
+   "word": "hard",
+   "level": "school-jhs1",
+   "seed": 3404044047
+  },
+  "harsh": {
+   "word": "harsh",
+   "level": "school-hs1",
+   "seed": 631897155
+  },
+  "harvest": {
+   "word": "harvest",
+   "level": "school-hs1",
+   "seed": 656525135
+  },
+  "hate": {
+   "word": "hate",
+   "level": "school-jhs1",
+   "seed": 3282887040
   },
   "haul": {
    "word": "haul",
    "level": "toeic730",
    "seed": 2589484494
   },
+  "have": {
+   "word": "have",
+   "level": "school-jhs1",
+   "seed": 4287090340
+  },
+  "he": {
+   "word": "he",
+   "level": "school-jhs1",
+   "seed": 821070058
+  },
+  "head": {
+   "word": "head",
+   "level": "school-jhs1",
+   "seed": 445990440
+  },
+  "headache": {
+   "word": "headache",
+   "level": "school-hs1",
+   "seed": 2418261147
+  },
   "headcount": {
    "word": "headcount",
    "level": "toeic730",
    "seed": 3398672606
+  },
+  "headphone": {
+   "word": "headphone",
+   "level": "school-hs1",
+   "seed": 1761638780
   },
   "headquarters": {
    "word": "headquarters",
@@ -2981,6 +5631,21 @@
    "word": "headway",
    "level": "toeic860",
    "seed": 2866154465
+  },
+  "heal": {
+   "word": "heal",
+   "level": "school-hs1",
+   "seed": 219788454
+  },
+  "healthy": {
+   "word": "healthy",
+   "level": "school-hs1",
+   "seed": 3726167290
+  },
+  "heatwave": {
+   "word": "heatwave",
+   "level": "school-hs1",
+   "seed": 478660866
   },
   "hectic": {
    "word": "hectic",
@@ -2997,25 +5662,75 @@
    "level": "toeic860",
    "seed": 3460078911
   },
+  "hello": {
+   "word": "hello",
+   "level": "school-jhs1",
+   "seed": 2868168221
+  },
+  "help": {
+   "word": "help",
+   "level": "school-jhs1",
+   "seed": 2449497807
+  },
+  "hence": {
+   "word": "hence",
+   "level": "school-hs1",
+   "seed": 2946382731
+  },
+  "her": {
+   "word": "her",
+   "level": "school-jhs1",
+   "seed": 2576613477
+  },
+  "here": {
+   "word": "here",
+   "level": "school-jhs1",
+   "seed": 22331610
+  },
+  "hesitant": {
+   "word": "hesitant",
+   "level": "school-hs1",
+   "seed": 2087035950
+  },
   "hesitate": {
    "word": "hesitate",
    "level": "toeic600",
    "seed": 2177623270
+  },
+  "hi": {
+   "word": "hi",
+   "level": "school-jhs1",
+   "seed": 3257622417
   },
   "hierarchy": {
    "word": "hierarchy",
    "level": "toeic730",
    "seed": 4284082361
   },
+  "high": {
+   "word": "high",
+   "level": "school-jhs1",
+   "seed": 2452991955
+  },
   "highlight": {
    "word": "highlight",
    "level": "toeic860",
    "seed": 3383614116
   },
+  "highly": {
+   "word": "highly",
+   "level": "school-hs1",
+   "seed": 2375597473
+  },
   "hike": {
    "word": "hike",
    "level": "toeic860",
    "seed": 3974896980
+  },
+  "him": {
+   "word": "him",
+   "level": "school-jhs1",
+   "seed": 855840699
   },
   "hindrance": {
    "word": "hindrance",
@@ -3027,30 +5742,175 @@
    "level": "toeic600",
    "seed": 3298340457
   },
+  "his": {
+   "word": "his",
+   "level": "school-jhs1",
+   "seed": 2978458093
+  },
+  "history": {
+   "word": "history",
+   "level": "school-jhs1",
+   "seed": 1727503754
+  },
+  "home": {
+   "word": "home",
+   "level": "school-jhs1",
+   "seed": 3895609789
+  },
+  "homesick": {
+   "word": "homesick",
+   "level": "school-jhs1",
+   "seed": 3564690562
+  },
+  "homework": {
+   "word": "homework",
+   "level": "school-jhs1",
+   "seed": 2724516663
+  },
   "hone": {
    "word": "hone",
    "level": "toeic860",
    "seed": 3305471245
+  },
+  "honestly": {
+   "word": "honestly",
+   "level": "school-hs1",
+   "seed": 3525793120
+  },
+  "honor": {
+   "word": "honor",
+   "level": "school-hs1",
+   "seed": 1218219988
+  },
+  "hopeful": {
+   "word": "hopeful",
+   "level": "school-jhs1",
+   "seed": 94544301
+  },
+  "horizon": {
+   "word": "horizon",
+   "level": "school-hs1",
+   "seed": 773456052
+  },
+  "horrify": {
+   "word": "horrify",
+   "level": "school-hs1",
+   "seed": 898680501
+  },
+  "horse": {
+   "word": "horse",
+   "level": "school-jhs1",
+   "seed": 152784949
+  },
+  "hospital": {
+   "word": "hospital",
+   "level": "school-jhs1",
+   "seed": 724369502
   },
   "hospitality": {
    "word": "hospitality",
    "level": "toeic730",
    "seed": 1748093707
   },
+  "hot": {
+   "word": "hot",
+   "level": "school-jhs1",
+   "seed": 1272507866
+  },
+  "hotel": {
+   "word": "hotel",
+   "level": "school-jhs1",
+   "seed": 350761813
+  },
+  "hour": {
+   "word": "hour",
+   "level": "school-jhs1",
+   "seed": 1386972840
+  },
+  "house": {
+   "word": "house",
+   "level": "school-jhs1",
+   "seed": 1542009984
+  },
   "housekeeping": {
    "word": "housekeeping",
    "level": "toeic730",
    "seed": 1159394513
+  },
+  "how": {
+   "word": "how",
+   "level": "school-jhs1",
+   "seed": 184959859
+  },
+  "however": {
+   "word": "however",
+   "level": "school-hs1",
+   "seed": 1343194926
   },
   "hub": {
    "word": "hub",
    "level": "toeic860",
    "seed": 1705832615
   },
+  "hug": {
+   "word": "hug",
+   "level": "school-jhs1",
+   "seed": 4045387100
+  },
+  "humanity": {
+   "word": "humanity",
+   "level": "school-hs1",
+   "seed": 4127096287
+  },
+  "humble": {
+   "word": "humble",
+   "level": "school-hs1",
+   "seed": 89889356
+  },
+  "humorous": {
+   "word": "humorous",
+   "level": "school-hs1",
+   "seed": 1799095361
+  },
+  "hundred": {
+   "word": "hundred",
+   "level": "school-jhs1",
+   "seed": 3920640429
+  },
+  "hungry": {
+   "word": "hungry",
+   "level": "school-jhs1",
+   "seed": 4025619563
+  },
   "hurdle": {
    "word": "hurdle",
    "level": "toeic860",
    "seed": 4265291192
+  },
+  "hypothesis": {
+   "word": "hypothesis",
+   "level": "school-hs1",
+   "seed": 3981132652
+  },
+  "i": {
+   "word": "i",
+   "level": "school-jhs1",
+   "seed": 70108241
+  },
+  "icon": {
+   "word": "icon",
+   "level": "school-hs1",
+   "seed": 4170800037
+  },
+  "idea": {
+   "word": "idea",
+   "level": "school-jhs1",
+   "seed": 1986154593
+  },
+  "identical": {
+   "word": "identical",
+   "level": "school-hs1",
+   "seed": 3555864857
   },
   "identify": {
    "word": "identify",
@@ -3062,15 +5922,50 @@
    "level": "toeic860",
    "seed": 450612276
   },
+  "ill": {
+   "word": "ill",
+   "level": "school-hs1",
+   "seed": 3795054724
+  },
+  "illustrate": {
+   "word": "illustrate",
+   "level": "school-hs1",
+   "seed": 4282093721
+  },
+  "illustration": {
+   "word": "illustration",
+   "level": "school-hs1",
+   "seed": 1702079583
+  },
+  "imaginary": {
+   "word": "imaginary",
+   "level": "school-hs1",
+   "seed": 354008134
+  },
+  "imitate": {
+   "word": "imitate",
+   "level": "school-hs1",
+   "seed": 281362540
+  },
   "imitation": {
    "word": "imitation",
    "level": "toeic860",
    "seed": 2484578804
   },
+  "immense": {
+   "word": "immense",
+   "level": "school-hs1",
+   "seed": 2014735442
+  },
   "immigration": {
    "word": "immigration",
    "level": "toeic730",
    "seed": 793212547
+  },
+  "impatient": {
+   "word": "impatient",
+   "level": "school-hs1",
+   "seed": 2664952112
   },
   "implement": {
    "word": "implement",
@@ -3087,6 +5982,16 @@
    "level": "toeic860",
    "seed": 3875092525
   },
+  "impress": {
+   "word": "impress",
+   "level": "school-hs1",
+   "seed": 2909338841
+  },
+  "in": {
+   "word": "in",
+   "level": "school-jhs1",
+   "seed": 2937122592
+  },
   "inability": {
    "word": "inability",
    "level": "toeic860",
@@ -3101,6 +6006,11 @@
    "word": "incentivize",
    "level": "toeic860",
    "seed": 585650740
+  },
+  "incident": {
+   "word": "incident",
+   "level": "school-hs1",
+   "seed": 2213183762
   },
   "income": {
    "word": "income",
@@ -3122,6 +6032,11 @@
    "level": "toeic600",
    "seed": 3145336948
   },
+  "increasingly": {
+   "word": "increasingly",
+   "level": "school-hs1",
+   "seed": 2766022540
+  },
   "incumbent": {
    "word": "incumbent",
    "level": "toeic860",
@@ -3141,6 +6056,11 @@
    "word": "indefinite",
    "level": "toeic860",
    "seed": 876347098
+  },
+  "independent": {
+   "word": "independent",
+   "level": "school-hs1",
+   "seed": 1979810638
   },
   "index": {
    "word": "index",
@@ -3177,6 +6097,16 @@
    "level": "toeic600",
    "seed": 428094335
   },
+  "inequality": {
+   "word": "inequality",
+   "level": "school-hs1",
+   "seed": 2639549129
+  },
+  "infectious": {
+   "word": "infectious",
+   "level": "school-hs1",
+   "seed": 1789000794
+  },
   "inflate": {
    "word": "inflate",
    "level": "toeic860",
@@ -3197,6 +6127,11 @@
    "level": "toeic600",
    "seed": 2539925645
   },
+  "infrastructure": {
+   "word": "infrastructure",
+   "level": "school-hs1",
+   "seed": 905492294
+  },
   "infringe": {
    "word": "infringe",
    "level": "toeic860",
@@ -3207,6 +6142,11 @@
    "level": "toeic600",
    "seed": 1629104817
   },
+  "inhabitant": {
+   "word": "inhabitant",
+   "level": "school-hs1",
+   "seed": 3997962243
+  },
   "initiate": {
    "word": "initiate",
    "level": "toeic730",
@@ -3216,6 +6156,21 @@
    "word": "initiative",
    "level": "toeic730",
    "seed": 1879905376
+  },
+  "injure": {
+   "word": "injure",
+   "level": "school-hs1",
+   "seed": 1786588915
+  },
+  "injury": {
+   "word": "injury",
+   "level": "school-hs1",
+   "seed": 3316695402
+  },
+  "innocent": {
+   "word": "innocent",
+   "level": "school-hs1",
+   "seed": 3780119258
   },
   "innovate": {
    "word": "innovate",
@@ -3247,6 +6202,11 @@
    "level": "toeic600",
    "seed": 1584137808
   },
+  "insight": {
+   "word": "insight",
+   "level": "school-hs1",
+   "seed": 4135268425
+  },
   "insistence": {
    "word": "insistence",
    "level": "toeic860",
@@ -3267,6 +6227,11 @@
    "level": "toeic860",
    "seed": 2711793176
   },
+  "inspire": {
+   "word": "inspire",
+   "level": "school-hs1",
+   "seed": 1684162540
+  },
   "instability": {
    "word": "instability",
    "level": "toeic860",
@@ -3281,6 +6246,26 @@
    "word": "installment",
    "level": "toeic730",
    "seed": 3617162701
+  },
+  "institution": {
+   "word": "institution",
+   "level": "school-hs1",
+   "seed": 450659235
+  },
+  "instruct": {
+   "word": "instruct",
+   "level": "school-hs1",
+   "seed": 3127009856
+  },
+  "instruction": {
+   "word": "instruction",
+   "level": "school-hs1",
+   "seed": 2169675709
+  },
+  "instructor": {
+   "word": "instructor",
+   "level": "school-hs1",
+   "seed": 1572012125
   },
   "insufficient": {
    "word": "insufficient",
@@ -3307,15 +6292,50 @@
    "level": "toeic730",
    "seed": 869529357
   },
+  "intellectual": {
+   "word": "intellectual",
+   "level": "school-hs1",
+   "seed": 1009349019
+  },
+  "intelligence": {
+   "word": "intelligence",
+   "level": "school-hs1",
+   "seed": 1211005917
+  },
+  "intelligent": {
+   "word": "intelligent",
+   "level": "school-hs1",
+   "seed": 106841024
+  },
   "intend": {
    "word": "intend",
    "level": "toeic600",
    "seed": 4146887543
   },
+  "intensify": {
+   "word": "intensify",
+   "level": "school-hs1",
+   "seed": 2983135920
+  },
+  "intention": {
+   "word": "intention",
+   "level": "school-hs1",
+   "seed": 1102226246
+  },
+  "interact": {
+   "word": "interact",
+   "level": "school-hs1",
+   "seed": 3232712475
+  },
   "interest": {
    "word": "interest",
    "level": "toeic600",
    "seed": 1586145503
+  },
+  "interesting": {
+   "word": "interesting",
+   "level": "school-jhs1",
+   "seed": 1760908625
   },
   "interim": {
    "word": "interim",
@@ -3331,6 +6351,16 @@
    "word": "international",
    "level": "toeic600",
    "seed": 1341611904
+  },
+  "interpret": {
+   "word": "interpret",
+   "level": "school-hs1",
+   "seed": 344497682
+  },
+  "interpretation": {
+   "word": "interpretation",
+   "level": "school-hs1",
+   "seed": 2969188499
   },
   "interpreter": {
    "word": "interpreter",
@@ -3372,6 +6402,16 @@
    "level": "toeic600",
    "seed": 1918007368
   },
+  "investigate": {
+   "word": "investigate",
+   "level": "school-hs1",
+   "seed": 4281126259
+  },
+  "investigation": {
+   "word": "investigation",
+   "level": "school-hs1",
+   "seed": 3064952465
+  },
   "investment": {
    "word": "investment",
    "level": "toeic730",
@@ -3397,10 +6437,35 @@
    "level": "toeic860",
    "seed": 2506308186
   },
+  "ironic": {
+   "word": "ironic",
+   "level": "school-hs1",
+   "seed": 148976602
+  },
+  "irritate": {
+   "word": "irritate",
+   "level": "school-hs1",
+   "seed": 2859535085
+  },
+  "is": {
+   "word": "is",
+   "level": "school-jhs1",
+   "seed": 3028235838
+  },
+  "isolate": {
+   "word": "isolate",
+   "level": "school-hs1",
+   "seed": 3948378594
+  },
   "issue": {
    "word": "issue",
    "level": "toeic600",
    "seed": 8494094
+  },
+  "it": {
+   "word": "it",
+   "level": "school-jhs1",
+   "seed": 1817518794
   },
   "item": {
    "word": "item",
@@ -3416,6 +6481,46 @@
    "word": "itinerary",
    "level": "toeic730",
    "seed": 1650044524
+  },
+  "jam": {
+   "word": "jam",
+   "level": "school-hs1",
+   "seed": 3661485506
+  },
+  "january": {
+   "word": "january",
+   "level": "school-jhs1",
+   "seed": 1419537576
+  },
+  "japan": {
+   "word": "japan",
+   "level": "school-jhs1",
+   "seed": 3935619964
+  },
+  "japanese": {
+   "word": "japanese",
+   "level": "school-jhs1",
+   "seed": 146804162
+  },
+  "jealous": {
+   "word": "jealous",
+   "level": "school-hs1",
+   "seed": 2972694511
+  },
+  "joke": {
+   "word": "joke",
+   "level": "school-jhs1",
+   "seed": 895251156
+  },
+  "joyful": {
+   "word": "joyful",
+   "level": "school-jhs1",
+   "seed": 2933376213
+  },
+  "judge": {
+   "word": "judge",
+   "level": "school-hs1",
+   "seed": 3519090608
   },
   "judgment": {
    "word": "judgment",
@@ -3447,10 +6552,45 @@
    "level": "toeic860",
    "seed": 763579854
   },
+  "kind": {
+   "word": "kind",
+   "level": "school-jhs1",
+   "seed": 250764000
+  },
+  "kit": {
+   "word": "kit",
+   "level": "school-hs1",
+   "seed": 2977870226
+  },
+  "kitchen": {
+   "word": "kitchen",
+   "level": "school-jhs1",
+   "seed": 794214572
+  },
+  "knot": {
+   "word": "knot",
+   "level": "school-hs1",
+   "seed": 1084369482
+  },
+  "know": {
+   "word": "know",
+   "level": "school-jhs1",
+   "seed": 2544683771
+  },
+  "knowledgeable": {
+   "word": "knowledgeable",
+   "level": "school-hs1",
+   "seed": 2611653673
+  },
   "kudos": {
    "word": "kudos",
    "level": "toeic860",
    "seed": 1101582257
+  },
+  "label": {
+   "word": "label",
+   "level": "school-hs1",
+   "seed": 1690719092
   },
   "labor": {
    "word": "labor",
@@ -3472,15 +6612,35 @@
    "level": "toeic600",
    "seed": 1027301554
   },
+  "landfill": {
+   "word": "landfill",
+   "level": "school-hs1",
+   "seed": 669881285
+  },
   "landmark": {
    "word": "landmark",
    "level": "toeic600",
    "seed": 2477529600
   },
+  "lane": {
+   "word": "lane",
+   "level": "school-hs1",
+   "seed": 3536180762
+  },
   "lapse": {
    "word": "lapse",
    "level": "toeic860",
    "seed": 2280080954
+  },
+  "latter": {
+   "word": "latter",
+   "level": "school-hs1",
+   "seed": 3768609838
+  },
+  "laughter": {
+   "word": "laughter",
+   "level": "school-jhs1",
+   "seed": 2879208605
   },
   "launch": {
    "word": "launch",
@@ -3502,6 +6662,11 @@
    "level": "toeic730",
    "seed": 355464388
   },
+  "lazy": {
+   "word": "lazy",
+   "level": "school-hs1",
+   "seed": 276352833
+  },
   "leadership": {
    "word": "leadership",
    "level": "toeic600",
@@ -3516,6 +6681,21 @@
    "word": "leaflet",
    "level": "toeic860",
    "seed": 1599428084
+  },
+  "leak": {
+   "word": "leak",
+   "level": "school-hs1",
+   "seed": 106716201
+  },
+  "learn": {
+   "word": "learn",
+   "level": "school-jhs1",
+   "seed": 2110414156
+  },
+  "lecture": {
+   "word": "lecture",
+   "level": "school-hs1",
+   "seed": 2936660732
   },
   "ledger": {
    "word": "ledger",
@@ -3537,6 +6717,21 @@
    "level": "toeic730",
    "seed": 678183822
   },
+  "lessen": {
+   "word": "lessen",
+   "level": "school-hs1",
+   "seed": 3537783861
+  },
+  "lesson": {
+   "word": "lesson",
+   "level": "school-jhs1",
+   "seed": 2970896803
+  },
+  "letter": {
+   "word": "letter",
+   "level": "school-jhs1",
+   "seed": 416056620
+  },
   "leverage": {
    "word": "leverage",
    "level": "toeic600",
@@ -3546,6 +6741,11 @@
    "word": "levy",
    "level": "toeic860",
    "seed": 1351938404
+  },
+  "liability": {
+   "word": "liability",
+   "level": "school-hs1",
+   "seed": 3480902608
   },
   "liable": {
    "word": "liable",
@@ -3557,15 +6757,40 @@
    "level": "toeic860",
    "seed": 1774636990
   },
+  "liberty": {
+   "word": "liberty",
+   "level": "school-hs1",
+   "seed": 2882954102
+  },
+  "library": {
+   "word": "library",
+   "level": "school-jhs1",
+   "seed": 2726464
+  },
   "license": {
    "word": "license",
    "level": "toeic600",
    "seed": 591753513
   },
+  "lifestyle": {
+   "word": "lifestyle",
+   "level": "school-hs1",
+   "seed": 506426909
+  },
   "lift": {
    "word": "lift",
    "level": "toeic860",
    "seed": 3641248765
+  },
+  "like": {
+   "word": "like",
+   "level": "school-jhs1",
+   "seed": 3303767423
+  },
+  "likewise": {
+   "word": "likewise",
+   "level": "school-hs1",
+   "seed": 900569024
   },
   "limited": {
    "word": "limited",
@@ -3576,6 +6801,11 @@
    "word": "linchpin",
    "level": "toeic860",
    "seed": 1104330104
+  },
+  "linguistics": {
+   "word": "linguistics",
+   "level": "school-hs1",
+   "seed": 3975131144
   },
   "liquidate": {
    "word": "liquidate",
@@ -3591,6 +6821,26 @@
    "word": "list",
    "level": "toeic600",
    "seed": 951462884
+  },
+  "listen": {
+   "word": "listen",
+   "level": "school-jhs1",
+   "seed": 558344677
+  },
+  "literacy": {
+   "word": "literacy",
+   "level": "school-hs1",
+   "seed": 345603093
+  },
+  "literature": {
+   "word": "literature",
+   "level": "school-hs1",
+   "seed": 4020289833
+  },
+  "live": {
+   "word": "live",
+   "level": "school-jhs1",
+   "seed": 2561334071
   },
   "loan": {
    "word": "loan",
@@ -3612,6 +6862,16 @@
    "level": "toeic600",
    "seed": 2087672482
   },
+  "logic": {
+   "word": "logic",
+   "level": "school-hs1",
+   "seed": 745032071
+  },
+  "logical": {
+   "word": "logical",
+   "level": "school-hs1",
+   "seed": 954033810
+  },
   "logistical": {
    "word": "logistical",
    "level": "toeic860",
@@ -3627,10 +6887,25 @@
    "level": "toeic600",
    "seed": 1476910432
   },
+  "long": {
+   "word": "long",
+   "level": "school-jhs1",
+   "seed": 3174049786
+  },
+  "look": {
+   "word": "look",
+   "level": "school-jhs1",
+   "seed": 3767735802
+  },
   "loophole": {
    "word": "loophole",
    "level": "toeic860",
    "seed": 22706948
+  },
+  "loss": {
+   "word": "loss",
+   "level": "school-hs1",
+   "seed": 3374817033
   },
   "lost": {
    "word": "lost",
@@ -3641,6 +6916,16 @@
    "word": "lounge",
    "level": "toeic600",
    "seed": 4142905676
+  },
+  "lovely": {
+   "word": "lovely",
+   "level": "school-jhs1",
+   "seed": 3727974531
+  },
+  "loyal": {
+   "word": "loyal",
+   "level": "school-hs1",
+   "seed": 1756191566
   },
   "loyalty": {
    "word": "loyalty",
@@ -3667,6 +6952,11 @@
    "level": "toeic730",
    "seed": 2571051783
   },
+  "lunch": {
+   "word": "lunch",
+   "level": "school-jhs1",
+   "seed": 155529300
+  },
   "lure": {
    "word": "lure",
    "level": "toeic730",
@@ -3677,10 +6967,25 @@
    "level": "toeic600",
    "seed": 1206296035
   },
+  "mad": {
+   "word": "mad",
+   "level": "school-jhs1",
+   "seed": 456969434
+  },
   "magnate": {
    "word": "magnate",
    "level": "toeic860",
    "seed": 2494039742
+  },
+  "magnet": {
+   "word": "magnet",
+   "level": "school-hs1",
+   "seed": 2992090949
+  },
+  "magnetic": {
+   "word": "magnetic",
+   "level": "school-hs1",
+   "seed": 1795658266
   },
   "mail": {
    "word": "mail",
@@ -3712,10 +7017,30 @@
    "level": "toeic600",
    "seed": 1529930437
   },
+  "major": {
+   "word": "major",
+   "level": "school-hs1",
+   "seed": 415880290
+  },
+  "make": {
+   "word": "make",
+   "level": "school-jhs1",
+   "seed": 1478617895
+  },
+  "man": {
+   "word": "man",
+   "level": "school-jhs1",
+   "seed": 2171986888
+  },
   "manage": {
    "word": "manage",
    "level": "toeic600",
    "seed": 1059598283
+  },
+  "management": {
+   "word": "management",
+   "level": "school-hs1",
+   "seed": 2553104082
   },
   "manager": {
    "word": "manager",
@@ -3737,6 +7062,11 @@
    "level": "toeic860",
    "seed": 3144597687
   },
+  "manner": {
+   "word": "manner",
+   "level": "school-hs1",
+   "seed": 1321018591
+  },
   "manual": {
    "word": "manual",
    "level": "toeic600",
@@ -3746,6 +7076,16 @@
    "word": "manufacturer",
    "level": "toeic730",
    "seed": 2888504326
+  },
+  "many": {
+   "word": "many",
+   "level": "school-jhs1",
+   "seed": 4065620000
+  },
+  "map": {
+   "word": "map",
+   "level": "school-jhs1",
+   "seed": 930373335
   },
   "margin": {
    "word": "margin",
@@ -3767,6 +7107,21 @@
    "level": "toeic860",
    "seed": 782626202
   },
+  "mass": {
+   "word": "mass",
+   "level": "school-hs1",
+   "seed": 2531062691
+  },
+  "math": {
+   "word": "math",
+   "level": "school-jhs1",
+   "seed": 2051572624
+  },
+  "mathematics": {
+   "word": "mathematics",
+   "level": "school-hs1",
+   "seed": 2248867006
+  },
   "mature": {
    "word": "mature",
    "level": "toeic600",
@@ -3782,6 +7137,41 @@
    "level": "toeic730",
    "seed": 4205546438
   },
+  "maximum": {
+   "word": "maximum",
+   "level": "school-hs1",
+   "seed": 3883544921
+  },
+  "me": {
+   "word": "me",
+   "level": "school-jhs1",
+   "seed": 2982271091
+  },
+  "means": {
+   "word": "means",
+   "level": "school-hs1",
+   "seed": 1632686073
+  },
+  "meanwhile": {
+   "word": "meanwhile",
+   "level": "school-hs1",
+   "seed": 1814327115
+  },
+  "measure": {
+   "word": "measure",
+   "level": "school-hs1",
+   "seed": 239301246
+  },
+  "measurement": {
+   "word": "measurement",
+   "level": "school-hs1",
+   "seed": 3816993246
+  },
+  "meat": {
+   "word": "meat",
+   "level": "school-jhs1",
+   "seed": 3141597018
+  },
   "mechanism": {
    "word": "mechanism",
    "level": "toeic730",
@@ -3792,6 +7182,11 @@
    "level": "toeic600",
    "seed": 548356486
   },
+  "meet": {
+   "word": "meet",
+   "level": "school-jhs1",
+   "seed": 959281265
+  },
   "membership": {
    "word": "membership",
    "level": "toeic600",
@@ -3801,6 +7196,11 @@
    "word": "memo",
    "level": "toeic600",
    "seed": 3317746598
+  },
+  "memorize": {
+   "word": "memorize",
+   "level": "school-hs1",
+   "seed": 153170765
   },
   "menial": {
    "word": "menial",
@@ -3832,6 +7232,11 @@
    "level": "toeic600",
    "seed": 2945469903
   },
+  "merely": {
+   "word": "merely",
+   "level": "school-hs1",
+   "seed": 2370210553
+  },
   "merge": {
    "word": "merge",
    "level": "toeic600",
@@ -3841,6 +7246,16 @@
    "word": "merger",
    "level": "toeic730",
    "seed": 2143322264
+  },
+  "merry": {
+   "word": "merry",
+   "level": "school-jhs1",
+   "seed": 3292598550
+  },
+  "method": {
+   "word": "method",
+   "level": "school-hs1",
+   "seed": 3216701618
   },
   "meticulously": {
    "word": "meticulously",
@@ -3852,6 +7267,11 @@
    "level": "toeic860",
    "seed": 3315833402
   },
+  "migration": {
+   "word": "migration",
+   "level": "school-hs1",
+   "seed": 3310947094
+  },
   "mileage": {
    "word": "mileage",
    "level": "toeic730",
@@ -3862,10 +7282,45 @@
    "level": "toeic600",
    "seed": 2411450495
   },
+  "milk": {
+   "word": "milk",
+   "level": "school-jhs1",
+   "seed": 3479027470
+  },
+  "mindful": {
+   "word": "mindful",
+   "level": "school-hs1",
+   "seed": 3265439246
+  },
+  "mineral": {
+   "word": "mineral",
+   "level": "school-hs1",
+   "seed": 1435344575
+  },
   "minibar": {
    "word": "minibar",
    "level": "toeic730",
    "seed": 2856166534
+  },
+  "minimum": {
+   "word": "minimum",
+   "level": "school-hs1",
+   "seed": 3172356058
+  },
+  "minister": {
+   "word": "minister",
+   "level": "school-hs1",
+   "seed": 3195563208
+  },
+  "ministry": {
+   "word": "ministry",
+   "level": "school-hs1",
+   "seed": 386102189
+  },
+  "minor": {
+   "word": "minor",
+   "level": "school-hs1",
+   "seed": 4276501911
   },
   "minute": {
    "word": "minute",
@@ -3887,10 +7342,25 @@
    "level": "toeic860",
    "seed": 3583387687
   },
+  "misery": {
+   "word": "misery",
+   "level": "school-hs1",
+   "seed": 4094390045
+  },
+  "mislead": {
+   "word": "mislead",
+   "level": "school-hs1",
+   "seed": 1506541130
+  },
   "misuse": {
    "word": "misuse",
    "level": "toeic600",
    "seed": 3527675415
+  },
+  "mixture": {
+   "word": "mixture",
+   "level": "school-hs1",
+   "seed": 2873223999
   },
   "model": {
    "word": "model",
@@ -3902,15 +7372,35 @@
    "level": "toeic860",
    "seed": 2046110555
   },
+  "modest": {
+   "word": "modest",
+   "level": "school-hs1",
+   "seed": 169313471
+  },
+  "modify": {
+   "word": "modify",
+   "level": "school-hs1",
+   "seed": 3807101445
+  },
   "modular": {
    "word": "modular",
    "level": "toeic860",
    "seed": 1267382064
   },
+  "moisture": {
+   "word": "moisture",
+   "level": "school-hs1",
+   "seed": 3025944993
+  },
   "momentum": {
    "word": "momentum",
    "level": "toeic730",
    "seed": 1346128631
+  },
+  "monday": {
+   "word": "monday",
+   "level": "school-jhs1",
+   "seed": 2910939103
   },
   "monetary": {
    "word": "monetary",
@@ -3922,6 +7412,11 @@
    "level": "toeic730",
    "seed": 4226870472
   },
+  "money": {
+   "word": "money",
+   "level": "school-jhs1",
+   "seed": 3377617374
+  },
   "monitor": {
    "word": "monitor",
    "level": "toeic600",
@@ -3932,15 +7427,30 @@
    "level": "toeic860",
    "seed": 3422013278
   },
+  "monopoly": {
+   "word": "monopoly",
+   "level": "school-hs1",
+   "seed": 3228733711
+  },
   "monotonous": {
    "word": "monotonous",
    "level": "toeic730",
    "seed": 2617642249
   },
+  "month": {
+   "word": "month",
+   "level": "school-jhs1",
+   "seed": 35066106
+  },
   "monthly": {
    "word": "monthly",
    "level": "toeic600",
    "seed": 1952258328
+  },
+  "moon": {
+   "word": "moon",
+   "level": "school-jhs1",
+   "seed": 1188877533
   },
   "morale": {
    "word": "morale",
@@ -3952,25 +7462,120 @@
    "level": "toeic860",
    "seed": 3261095201
   },
+  "moreover": {
+   "word": "moreover",
+   "level": "school-hs1",
+   "seed": 1395778343
+  },
+  "morning": {
+   "word": "morning",
+   "level": "school-jhs1",
+   "seed": 1168252491
+  },
+  "mortal": {
+   "word": "mortal",
+   "level": "school-hs1",
+   "seed": 3422387976
+  },
   "mortgage": {
    "word": "mortgage",
    "level": "toeic730",
    "seed": 1403407086
+  },
+  "mother": {
+   "word": "mother",
+   "level": "school-jhs1",
+   "seed": 1360454662
+  },
+  "motion": {
+   "word": "motion",
+   "level": "school-hs1",
+   "seed": 727466738
   },
   "motivate": {
    "word": "motivate",
    "level": "toeic600",
    "seed": 1083748
   },
+  "motivated": {
+   "word": "motivated",
+   "level": "school-hs1",
+   "seed": 1488184415
+  },
   "motorway": {
    "word": "motorway",
    "level": "toeic600",
    "seed": 1160975852
   },
+  "motto": {
+   "word": "motto",
+   "level": "school-hs1",
+   "seed": 690404665
+  },
+  "mountain": {
+   "word": "mountain",
+   "level": "school-jhs1",
+   "seed": 3617244322
+  },
+  "movie": {
+   "word": "movie",
+   "level": "school-jhs1",
+   "seed": 2494667280
+  },
+  "much": {
+   "word": "much",
+   "level": "school-jhs1",
+   "seed": 2101298290
+  },
+  "multiply": {
+   "word": "multiply",
+   "level": "school-hs1",
+   "seed": 134009538
+  },
+  "murder": {
+   "word": "murder",
+   "level": "school-hs1",
+   "seed": 3752873583
+  },
+  "muscle": {
+   "word": "muscle",
+   "level": "school-hs1",
+   "seed": 1265197863
+  },
+  "music": {
+   "word": "music",
+   "level": "school-jhs1",
+   "seed": 973192727
+  },
+  "mutation": {
+   "word": "mutation",
+   "level": "school-hs1",
+   "seed": 585013128
+  },
   "mute": {
    "word": "mute",
    "level": "toeic730",
    "seed": 3280656271
+  },
+  "my": {
+   "word": "my",
+   "level": "school-jhs1",
+   "seed": 1053693041
+  },
+  "naive": {
+   "word": "naive",
+   "level": "school-hs1",
+   "seed": 197507183
+  },
+  "name": {
+   "word": "name",
+   "level": "school-jhs1",
+   "seed": 1793694037
+  },
+  "narrowly": {
+   "word": "narrowly",
+   "level": "school-hs1",
+   "seed": 1286645415
   },
   "nationalize": {
    "word": "nationalize",
@@ -3982,15 +7587,35 @@
    "level": "toeic600",
    "seed": 2098636686
   },
+  "native": {
+   "word": "native",
+   "level": "school-hs1",
+   "seed": 1868235096
+  },
+  "nausea": {
+   "word": "nausea",
+   "level": "school-hs1",
+   "seed": 25451616
+  },
   "navigate": {
    "word": "navigate",
    "level": "toeic730",
    "seed": 4218070466
   },
+  "near": {
+   "word": "near",
+   "level": "school-jhs1",
+   "seed": 3636749955
+  },
   "nearby": {
    "word": "nearby",
    "level": "toeic600",
    "seed": 2282291721
+  },
+  "necessity": {
+   "word": "necessity",
+   "level": "school-hs1",
+   "seed": 3924142648
   },
   "negotiable": {
    "word": "negotiable",
@@ -4002,6 +7627,11 @@
    "level": "toeic730",
    "seed": 203056371
   },
+  "negotiation": {
+   "word": "negotiation",
+   "level": "school-hs1",
+   "seed": 2109055528
+  },
   "negotiator": {
    "word": "negotiator",
    "level": "toeic600",
@@ -4012,25 +7642,110 @@
    "level": "toeic600",
    "seed": 3239241857
   },
+  "nevertheless": {
+   "word": "nevertheless",
+   "level": "school-hs1",
+   "seed": 2161617685
+  },
+  "new": {
+   "word": "new",
+   "level": "school-jhs1",
+   "seed": 3265703999
+  },
+  "nice": {
+   "word": "nice",
+   "level": "school-jhs1",
+   "seed": 1495917962
+  },
   "niche": {
    "word": "niche",
    "level": "toeic730",
    "seed": 2432729319
+  },
+  "night": {
+   "word": "night",
+   "level": "school-jhs1",
+   "seed": 467838028
+  },
+  "nine": {
+   "word": "nine",
+   "level": "school-jhs1",
+   "seed": 3034435096
+  },
+  "nitrogen": {
+   "word": "nitrogen",
+   "level": "school-hs1",
+   "seed": 3624774457
+  },
+  "no": {
+   "word": "no",
+   "level": "school-jhs1",
+   "seed": 4245849653
+  },
+  "noisy": {
+   "word": "noisy",
+   "level": "school-jhs1",
+   "seed": 3849381239
   },
   "nominal": {
    "word": "nominal",
    "level": "toeic600",
    "seed": 1483563304
   },
+  "nonetheless": {
+   "word": "nonetheless",
+   "level": "school-hs1",
+   "seed": 3472631103
+  },
+  "not": {
+   "word": "not",
+   "level": "school-jhs1",
+   "seed": 1434395989
+  },
   "note": {
    "word": "note",
    "level": "toeic600",
    "seed": 3306178743
   },
+  "notebook": {
+   "word": "notebook",
+   "level": "school-jhs1",
+   "seed": 1384158012
+  },
   "notify": {
    "word": "notify",
    "level": "toeic600",
    "seed": 1325936669
+  },
+  "notion": {
+   "word": "notion",
+   "level": "school-hs1",
+   "seed": 1344340386
+  },
+  "notorious": {
+   "word": "notorious",
+   "level": "school-hs1",
+   "seed": 939316590
+  },
+  "novelty": {
+   "word": "novelty",
+   "level": "school-hs1",
+   "seed": 1800283522
+  },
+  "now": {
+   "word": "now",
+   "level": "school-jhs1",
+   "seed": 3384575130
+  },
+  "nucleus": {
+   "word": "nucleus",
+   "level": "school-hs1",
+   "seed": 460240913
+  },
+  "object": {
+   "word": "object",
+   "level": "school-hs1",
+   "seed": 370487420
   },
   "objective": {
    "word": "objective",
@@ -4042,10 +7757,25 @@
    "level": "toeic730",
    "seed": 3024697040
   },
+  "observation": {
+   "word": "observation",
+   "level": "school-hs1",
+   "seed": 2080557032
+  },
+  "observer": {
+   "word": "observer",
+   "level": "school-hs1",
+   "seed": 812984258
+  },
   "obsolescence": {
    "word": "obsolescence",
    "level": "toeic860",
    "seed": 782446326
+  },
+  "obstacle": {
+   "word": "obstacle",
+   "level": "school-hs1",
+   "seed": 3514794105
   },
   "obtain": {
    "word": "obtain",
@@ -4067,6 +7797,36 @@
    "level": "toeic600",
    "seed": 1539002959
   },
+  "occurrence": {
+   "word": "occurrence",
+   "level": "school-hs1",
+   "seed": 2108910201
+  },
+  "odd": {
+   "word": "odd",
+   "level": "school-hs1",
+   "seed": 1626842386
+  },
+  "odds": {
+   "word": "odds",
+   "level": "school-hs1",
+   "seed": 3386454234
+  },
+  "odor": {
+   "word": "odor",
+   "level": "school-hs1",
+   "seed": 4125647302
+  },
+  "of": {
+   "word": "of",
+   "level": "school-jhs1",
+   "seed": 3724868110
+  },
+  "offended": {
+   "word": "offended",
+   "level": "school-hs1",
+   "seed": 2927881869
+  },
   "office": {
    "word": "office",
    "level": "toeic600",
@@ -4077,15 +7837,40 @@
    "level": "toeic860",
    "seed": 1403392233
   },
+  "often": {
+   "word": "often",
+   "level": "school-jhs1",
+   "seed": 1803000124
+  },
+  "old": {
+   "word": "old",
+   "level": "school-jhs1",
+   "seed": 3222125513
+  },
+  "on": {
+   "word": "on",
+   "level": "school-jhs1",
+   "seed": 3678224475
+  },
   "onboarding": {
    "word": "onboarding",
    "level": "toeic860",
    "seed": 522269036
   },
+  "one": {
+   "word": "one",
+   "level": "school-jhs1",
+   "seed": 4261788892
+  },
   "onerous": {
    "word": "onerous",
    "level": "toeic860",
    "seed": 2796668334
+  },
+  "open": {
+   "word": "open",
+   "level": "school-jhs1",
+   "seed": 1606935435
   },
   "operate": {
    "word": "operate",
@@ -4102,10 +7887,20 @@
    "level": "toeic600",
    "seed": 4271299897
   },
+  "opposite": {
+   "word": "opposite",
+   "level": "school-hs1",
+   "seed": 2509246544
+  },
   "optimal": {
    "word": "optimal",
    "level": "toeic600",
    "seed": 1212715035
+  },
+  "optimistic": {
+   "word": "optimistic",
+   "level": "school-hs1",
+   "seed": 4052826740
   },
   "optimize": {
    "word": "optimize",
@@ -4122,15 +7917,40 @@
    "level": "toeic600",
    "seed": 1218951304
   },
+  "or": {
+   "word": "or",
+   "level": "school-jhs1",
+   "seed": 391656813
+  },
+  "orange": {
+   "word": "orange",
+   "level": "school-jhs1",
+   "seed": 4010720183
+  },
+  "orbit": {
+   "word": "orbit",
+   "level": "school-hs1",
+   "seed": 3679169227
+  },
   "order": {
    "word": "order",
    "level": "toeic600",
    "seed": 3437583939
   },
+  "organism": {
+   "word": "organism",
+   "level": "school-hs1",
+   "seed": 1162495711
+  },
   "organize": {
    "word": "organize",
    "level": "toeic600",
    "seed": 199325818
+  },
+  "organized": {
+   "word": "organized",
+   "level": "school-hs1",
+   "seed": 77466280
   },
   "otherwise": {
    "word": "otherwise",
@@ -4142,10 +7962,25 @@
    "level": "toeic860",
    "seed": 4201956523
   },
+  "outcome": {
+   "word": "outcome",
+   "level": "school-hs1",
+   "seed": 3754640383
+  },
+  "outdoors": {
+   "word": "outdoors",
+   "level": "school-hs1",
+   "seed": 259362041
+  },
   "outflow": {
    "word": "outflow",
    "level": "toeic860",
    "seed": 1253027948
+  },
+  "outgoing": {
+   "word": "outgoing",
+   "level": "school-hs1",
+   "seed": 1888129448
   },
   "outlast": {
    "word": "outlast",
@@ -4187,6 +8022,11 @@
    "level": "toeic730",
    "seed": 1791379544
   },
+  "outsider": {
+   "word": "outsider",
+   "level": "school-hs1",
+   "seed": 4021809807
+  },
   "outsource": {
    "word": "outsource",
    "level": "toeic730",
@@ -4196,6 +8036,11 @@
    "word": "outstanding",
    "level": "toeic730",
    "seed": 3052393616
+  },
+  "overall": {
+   "word": "overall",
+   "level": "school-hs1",
+   "seed": 1671893447
   },
   "overbooked": {
    "word": "overbooked",
@@ -4282,6 +8127,11 @@
    "level": "toeic860",
    "seed": 3475220631
   },
+  "overwhelmed": {
+   "word": "overwhelmed",
+   "level": "school-hs1",
+   "seed": 3484591612
+  },
   "owe": {
    "word": "owe",
    "level": "toeic730",
@@ -4297,6 +8147,31 @@
    "level": "toeic600",
    "seed": 2682943808
   },
+  "pace": {
+   "word": "pace",
+   "level": "school-hs1",
+   "seed": 1277060566
+  },
+  "pain": {
+   "word": "pain",
+   "level": "school-jhs1",
+   "seed": 1166200066
+  },
+  "pale": {
+   "word": "pale",
+   "level": "school-hs1",
+   "seed": 3252620201
+  },
+  "panda": {
+   "word": "panda",
+   "level": "school-jhs1",
+   "seed": 4179267302
+  },
+  "panel": {
+   "word": "panel",
+   "level": "school-hs1",
+   "seed": 1883294578
+  },
   "paperwork": {
    "word": "paperwork",
    "level": "toeic600",
@@ -4306,6 +8181,11 @@
    "word": "paradigm",
    "level": "toeic860",
    "seed": 2746757500
+  },
+  "paragraph": {
+   "word": "paragraph",
+   "level": "school-hs1",
+   "seed": 4095112316
   },
   "paramount": {
    "word": "paramount",
@@ -4317,10 +8197,25 @@
    "level": "toeic860",
    "seed": 1545065545
   },
+  "parent": {
+   "word": "parent",
+   "level": "school-jhs1",
+   "seed": 3640474064
+  },
+  "park": {
+   "word": "park",
+   "level": "school-jhs1",
+   "seed": 3460387327
+  },
   "parking": {
    "word": "parking",
    "level": "toeic600",
    "seed": 1016996000
+  },
+  "parliament": {
+   "word": "parliament",
+   "level": "school-hs1",
+   "seed": 2107296130
   },
   "participant": {
    "word": "participant",
@@ -4331,6 +8226,31 @@
    "word": "participate",
    "level": "toeic600",
    "seed": 3599070342
+  },
+  "particle": {
+   "word": "particle",
+   "level": "school-hs1",
+   "seed": 2079491926
+  },
+  "partner": {
+   "word": "partner",
+   "level": "school-hs1",
+   "seed": 908385160
+  },
+  "passage": {
+   "word": "passage",
+   "level": "school-hs1",
+   "seed": 2787586550
+  },
+  "passenger": {
+   "word": "passenger",
+   "level": "school-jhs1",
+   "seed": 1442597800
+  },
+  "passionate": {
+   "word": "passionate",
+   "level": "school-hs1",
+   "seed": 650367834
   },
   "passport": {
    "word": "passport",
@@ -4346,6 +8266,11 @@
    "word": "patronage",
    "level": "toeic860",
    "seed": 1132034380
+  },
+  "pattern": {
+   "word": "pattern",
+   "level": "school-hs1",
+   "seed": 2446077586
   },
   "payable": {
    "word": "payable",
@@ -4367,10 +8292,25 @@
    "level": "toeic860",
    "seed": 1306817147
   },
+  "peaceful": {
+   "word": "peaceful",
+   "level": "school-jhs1",
+   "seed": 3132408795
+  },
   "pedestrian": {
    "word": "pedestrian",
    "level": "toeic600",
    "seed": 4204128881
+  },
+  "peer": {
+   "word": "peer",
+   "level": "school-hs1",
+   "seed": 731335588
+  },
+  "pen": {
+   "word": "pen",
+   "level": "school-jhs1",
+   "seed": 833110447
   },
   "penalize": {
    "word": "penalize",
@@ -4382,6 +8322,11 @@
    "level": "toeic600",
    "seed": 3371408818
   },
+  "pencil": {
+   "word": "pencil",
+   "level": "school-jhs1",
+   "seed": 3539751204
+  },
   "pending": {
    "word": "pending",
    "level": "toeic860",
@@ -4392,10 +8337,25 @@
    "level": "toeic860",
    "seed": 1815629235
   },
+  "peninsula": {
+   "word": "peninsula",
+   "level": "school-hs1",
+   "seed": 1294890099
+  },
   "pension": {
    "word": "pension",
    "level": "toeic600",
    "seed": 1381477195
+  },
+  "people": {
+   "word": "people",
+   "level": "school-jhs1",
+   "seed": 2872888461
+  },
+  "perceive": {
+   "word": "perceive",
+   "level": "school-hs1",
+   "seed": 1214354007
   },
   "performance": {
    "word": "performance",
@@ -4427,15 +8387,30 @@
    "level": "toeic600",
    "seed": 3473882945
   },
+  "persist": {
+   "word": "persist",
+   "level": "school-hs1",
+   "seed": 4045356312
+  },
   "persona": {
    "word": "persona",
    "level": "toeic860",
    "seed": 476063680
   },
+  "personality": {
+   "word": "personality",
+   "level": "school-hs1",
+   "seed": 2407750327
+  },
   "personnel": {
    "word": "personnel",
    "level": "toeic730",
    "seed": 4228435614
+  },
+  "perspective": {
+   "word": "perspective",
+   "level": "school-hs1",
+   "seed": 2859135790
   },
   "persuade": {
    "word": "persuade",
@@ -4462,10 +8437,60 @@
    "level": "toeic860",
    "seed": 2499930646
   },
+  "pessimistic": {
+   "word": "pessimistic",
+   "level": "school-hs1",
+   "seed": 3711054698
+  },
+  "petroleum": {
+   "word": "petroleum",
+   "level": "school-hs1",
+   "seed": 2494002079
+  },
+  "pharmacy": {
+   "word": "pharmacy",
+   "level": "school-hs1",
+   "seed": 2918865356
+  },
   "phase": {
    "word": "phase",
    "level": "toeic730",
    "seed": 4269262891
+  },
+  "philosophy": {
+   "word": "philosophy",
+   "level": "school-hs1",
+   "seed": 11743077
+  },
+  "phone": {
+   "word": "phone",
+   "level": "school-jhs1",
+   "seed": 4139674793
+  },
+  "photosynthesis": {
+   "word": "photosynthesis",
+   "level": "school-hs1",
+   "seed": 4148161737
+  },
+  "physics": {
+   "word": "physics",
+   "level": "school-hs1",
+   "seed": 1092811357
+  },
+  "piano": {
+   "word": "piano",
+   "level": "school-jhs1",
+   "seed": 1544016356
+  },
+  "picture": {
+   "word": "picture",
+   "level": "school-jhs1",
+   "seed": 241611933
+  },
+  "pill": {
+   "word": "pill",
+   "level": "school-hs1",
+   "seed": 2473725098
   },
   "pioneer": {
    "word": "pioneer",
@@ -4482,10 +8507,45 @@
    "level": "toeic860",
    "seed": 3854383397
   },
+  "place": {
+   "word": "place",
+   "level": "school-jhs1",
+   "seed": 2645094906
+  },
+  "plain": {
+   "word": "plain",
+   "level": "school-hs1",
+   "seed": 1757703812
+  },
+  "plate": {
+   "word": "plate",
+   "level": "school-jhs1",
+   "seed": 2417149021
+  },
+  "plateau": {
+   "word": "plateau",
+   "level": "school-hs1",
+   "seed": 3065364592
+  },
   "platform": {
    "word": "platform",
    "level": "toeic600",
    "seed": 1014148030
+  },
+  "play": {
+   "word": "play",
+   "level": "school-jhs1",
+   "seed": 1365649087
+  },
+  "please": {
+   "word": "please",
+   "level": "school-jhs1",
+   "seed": 3403896246
+  },
+  "pleased": {
+   "word": "pleased",
+   "level": "school-jhs1",
+   "seed": 2994865734
   },
   "point": {
    "word": "point",
@@ -4496,6 +8556,11 @@
    "word": "policy",
    "level": "toeic600",
    "seed": 2667641561
+  },
+  "politics": {
+   "word": "politics",
+   "level": "school-hs1",
+   "seed": 1281349710
   },
   "pool": {
    "word": "pool",
@@ -4527,6 +8592,11 @@
    "level": "toeic600",
    "seed": 2428376664
   },
+  "possibly": {
+   "word": "possibly",
+   "level": "school-hs1",
+   "seed": 4161461416
+  },
   "post": {
    "word": "post",
    "level": "toeic600",
@@ -4542,20 +8612,50 @@
    "level": "toeic730",
    "seed": 253321481
   },
+  "practical": {
+   "word": "practical",
+   "level": "school-hs1",
+   "seed": 2136320649
+  },
   "pragmatic": {
    "word": "pragmatic",
    "level": "toeic860",
    "seed": 3121487133
+  },
+  "precaution": {
+   "word": "precaution",
+   "level": "school-hs1",
+   "seed": 639504234
+  },
+  "precipitation": {
+   "word": "precipitation",
+   "level": "school-hs1",
+   "seed": 1020180095
+  },
+  "precise": {
+   "word": "precise",
+   "level": "school-hs1",
+   "seed": 3577367650
   },
   "preclude": {
    "word": "preclude",
    "level": "toeic860",
    "seed": 140224309
   },
+  "predator": {
+   "word": "predator",
+   "level": "school-hs1",
+   "seed": 3923556921
+  },
   "predecessor": {
    "word": "predecessor",
    "level": "toeic600",
    "seed": 2302290651
+  },
+  "predict": {
+   "word": "predict",
+   "level": "school-hs1",
+   "seed": 1378273397
   },
   "predictive": {
    "word": "predictive",
@@ -4566,6 +8666,11 @@
    "word": "preliminary",
    "level": "toeic860",
    "seed": 2120325537
+  },
+  "premature": {
+   "word": "premature",
+   "level": "school-hs1",
+   "seed": 2291135157
   },
   "premiere": {
    "word": "premiere",
@@ -4582,25 +8687,65 @@
    "level": "toeic860",
    "seed": 4100911746
   },
+  "prescribe": {
+   "word": "prescribe",
+   "level": "school-hs1",
+   "seed": 975820144
+  },
+  "prescription": {
+   "word": "prescription",
+   "level": "school-hs1",
+   "seed": 2681215716
+  },
   "presence": {
    "word": "presence",
    "level": "toeic600",
    "seed": 4133066732
+  },
+  "present": {
+   "word": "present",
+   "level": "school-jhs1",
+   "seed": 1348748417
   },
   "presentation": {
    "word": "presentation",
    "level": "toeic600",
    "seed": 3838368081
   },
+  "preserve": {
+   "word": "preserve",
+   "level": "school-hs1",
+   "seed": 3909130317
+  },
+  "pressure": {
+   "word": "pressure",
+   "level": "school-hs1",
+   "seed": 994839653
+  },
   "prevalent": {
    "word": "prevalent",
    "level": "toeic860",
    "seed": 671653443
   },
+  "previous": {
+   "word": "previous",
+   "level": "school-hs1",
+   "seed": 895428850
+  },
   "price": {
    "word": "price",
    "level": "toeic730",
    "seed": 546816823
+  },
+  "primary": {
+   "word": "primary",
+   "level": "school-hs1",
+   "seed": 3820472704
+  },
+  "principle": {
+   "word": "principle",
+   "level": "school-hs1",
+   "seed": 48387669
   },
   "print": {
    "word": "print",
@@ -4662,6 +8807,16 @@
    "level": "toeic860",
    "seed": 668118356
   },
+  "production": {
+   "word": "production",
+   "level": "school-hs1",
+   "seed": 2426962765
+  },
+  "productive": {
+   "word": "productive",
+   "level": "school-hs1",
+   "seed": 4093117985
+  },
   "productivity": {
    "word": "productivity",
    "level": "toeic730",
@@ -4696,6 +8851,11 @@
    "word": "profitless",
    "level": "toeic600",
    "seed": 3833533159
+  },
+  "progress": {
+   "word": "progress",
+   "level": "school-hs1",
+   "seed": 1521453317
   },
   "progressive": {
    "word": "progressive",
@@ -4737,10 +8897,40 @@
    "level": "toeic730",
    "seed": 468392019
   },
+  "prone": {
+   "word": "prone",
+   "level": "school-hs1",
+   "seed": 3875282332
+  },
+  "pronunciation": {
+   "word": "pronunciation",
+   "level": "school-hs1",
+   "seed": 168797820
+  },
+  "propaganda": {
+   "word": "propaganda",
+   "level": "school-hs1",
+   "seed": 4204684101
+  },
+  "properly": {
+   "word": "properly",
+   "level": "school-hs1",
+   "seed": 1665718886
+  },
+  "proportion": {
+   "word": "proportion",
+   "level": "school-hs1",
+   "seed": 1131692110
+  },
   "proposal": {
    "word": "proposal",
    "level": "toeic600",
    "seed": 1113670900
+  },
+  "propose": {
+   "word": "propose",
+   "level": "school-hs1",
+   "seed": 1606860179
   },
   "proposition": {
    "word": "proposition",
@@ -4787,20 +8977,40 @@
    "level": "toeic600",
    "seed": 2709129733
   },
+  "protest": {
+   "word": "protest",
+   "level": "school-hs1",
+   "seed": 811655057
+  },
   "protracted": {
    "word": "protracted",
    "level": "toeic860",
    "seed": 774297214
+  },
+  "prove": {
+   "word": "prove",
+   "level": "school-hs1",
+   "seed": 2197801283
   },
   "provide": {
    "word": "provide",
    "level": "toeic600",
    "seed": 1253481759
   },
+  "provided": {
+   "word": "provided",
+   "level": "school-hs1",
+   "seed": 2358091108
+  },
   "provider": {
    "word": "provider",
    "level": "toeic730",
    "seed": 2428883253
+  },
+  "province": {
+   "word": "province",
+   "level": "school-hs1",
+   "seed": 2249302623
   },
   "provision": {
    "word": "provision",
@@ -4832,6 +9042,11 @@
    "level": "toeic860",
    "seed": 555104699
   },
+  "psychology": {
+   "word": "psychology",
+   "level": "school-hs1",
+   "seed": 65990971
+  },
   "publicity": {
    "word": "publicity",
    "level": "toeic730",
@@ -4842,6 +9057,16 @@
    "level": "toeic730",
    "seed": 1750091053
   },
+  "publicly": {
+   "word": "publicly",
+   "level": "school-hs1",
+   "seed": 2060232347
+  },
+  "publish": {
+   "word": "publish",
+   "level": "school-hs1",
+   "seed": 1580183746
+  },
   "punctual": {
    "word": "punctual",
    "level": "toeic730",
@@ -4851,6 +9076,21 @@
    "word": "punctuality",
    "level": "toeic600",
    "seed": 879632013
+  },
+  "punish": {
+   "word": "punish",
+   "level": "school-hs1",
+   "seed": 4099858756
+  },
+  "punishment": {
+   "word": "punishment",
+   "level": "school-hs1",
+   "seed": 1652942301
+  },
+  "pupil": {
+   "word": "pupil",
+   "level": "school-hs1",
+   "seed": 535815261
   },
   "purchase": {
    "word": "purchase",
@@ -4872,10 +9112,20 @@
    "level": "toeic730",
    "seed": 2085076023
   },
+  "pursuit": {
+   "word": "pursuit",
+   "level": "school-hs1",
+   "seed": 1317799497
+  },
   "qualification": {
    "word": "qualification",
    "level": "toeic730",
    "seed": 6570675
+  },
+  "qualify": {
+   "word": "qualify",
+   "level": "school-hs1",
+   "seed": 2653806325
   },
   "quality": {
    "word": "quality",
@@ -4887,10 +9137,30 @@
    "level": "toeic860",
    "seed": 621874846
   },
+  "quantity": {
+   "word": "quantity",
+   "level": "school-hs1",
+   "seed": 1782604020
+  },
   "quarter": {
    "word": "quarter",
    "level": "toeic600",
    "seed": 2141321539
+  },
+  "question": {
+   "word": "question",
+   "level": "school-jhs1",
+   "seed": 992731874
+  },
+  "questionnaire": {
+   "word": "questionnaire",
+   "level": "school-hs1",
+   "seed": 1685528790
+  },
+  "quiz": {
+   "word": "quiz",
+   "level": "school-hs1",
+   "seed": 3573666796
   },
   "quota": {
    "word": "quota",
@@ -4907,25 +9177,85 @@
    "level": "toeic730",
    "seed": 4124675546
   },
+  "rabbit": {
+   "word": "rabbit",
+   "level": "school-jhs1",
+   "seed": 1829682109
+  },
+  "racket": {
+   "word": "racket",
+   "level": "school-hs1",
+   "seed": 464832688
+  },
+  "radical": {
+   "word": "radical",
+   "level": "school-hs1",
+   "seed": 1570824829
+  },
+  "radio": {
+   "word": "radio",
+   "level": "school-hs1",
+   "seed": 3560096594
+  },
+  "rain": {
+   "word": "rain",
+   "level": "school-jhs1",
+   "seed": 4226553803
+  },
   "range": {
    "word": "range",
    "level": "toeic600",
    "seed": 1297461047
+  },
+  "rapidly": {
+   "word": "rapidly",
+   "level": "school-hs1",
+   "seed": 3349558331
   },
   "rapport": {
    "word": "rapport",
    "level": "toeic860",
    "seed": 3606541048
   },
+  "rash": {
+   "word": "rash",
+   "level": "school-hs1",
+   "seed": 1973314171
+  },
   "rate": {
    "word": "rate",
    "level": "toeic600",
    "seed": 503435797
   },
+  "rather": {
+   "word": "rather",
+   "level": "school-hs1",
+   "seed": 2123069457
+  },
   "ratio": {
    "word": "ratio",
    "level": "toeic730",
    "seed": 1264794042
+  },
+  "rational": {
+   "word": "rational",
+   "level": "school-hs1",
+   "seed": 75682289
+  },
+  "ray": {
+   "word": "ray",
+   "level": "school-hs1",
+   "seed": 2136101204
+  },
+  "reaction": {
+   "word": "reaction",
+   "level": "school-hs1",
+   "seed": 2835628030
+  },
+  "read": {
+   "word": "read",
+   "level": "school-jhs1",
+   "seed": 2813320630
   },
   "reaffirm": {
    "word": "reaffirm",
@@ -4937,10 +9267,25 @@
    "level": "toeic600",
    "seed": 2059768627
   },
+  "realistic": {
+   "word": "realistic",
+   "level": "school-hs1",
+   "seed": 1303210025
+  },
+  "really": {
+   "word": "really",
+   "level": "school-jhs1",
+   "seed": 139113481
+  },
   "reasonable": {
    "word": "reasonable",
    "level": "toeic600",
    "seed": 1973209098
+  },
+  "reasoning": {
+   "word": "reasoning",
+   "level": "school-hs1",
+   "seed": 2523047173
   },
   "rebate": {
    "word": "rebate",
@@ -4961,6 +9306,11 @@
    "word": "receivable",
    "level": "toeic860",
    "seed": 2986865500
+  },
+  "recent": {
+   "word": "recent",
+   "level": "school-hs1",
+   "seed": 2055019402
   },
   "reception": {
    "word": "reception",
@@ -4987,6 +9337,11 @@
    "level": "toeic860",
    "seed": 500068810
   },
+  "reckless": {
+   "word": "reckless",
+   "level": "school-hs1",
+   "seed": 3652735839
+  },
   "recommend": {
    "word": "recommend",
    "level": "toeic600",
@@ -5007,6 +9362,11 @@
    "level": "toeic860",
    "seed": 2578202589
   },
+  "record": {
+   "word": "record",
+   "level": "school-hs1",
+   "seed": 660238336
+  },
   "recoup": {
    "word": "recoup",
    "level": "toeic860",
@@ -5016,6 +9376,16 @@
    "word": "recourse",
    "level": "toeic860",
    "seed": 4107903167
+  },
+  "recover": {
+   "word": "recover",
+   "level": "school-hs1",
+   "seed": 1438408164
+  },
+  "recovery": {
+   "word": "recovery",
+   "level": "school-hs1",
+   "seed": 2338384343
   },
   "recruit": {
    "word": "recruit",
@@ -5031,6 +9401,16 @@
    "word": "rectify",
    "level": "toeic860",
    "seed": 3357309860
+  },
+  "recycle": {
+   "word": "recycle",
+   "level": "school-hs1",
+   "seed": 144657974
+  },
+  "red": {
+   "word": "red",
+   "level": "school-jhs1",
+   "seed": 2023260176
   },
   "redeem": {
    "word": "redeem",
@@ -5072,6 +9452,21 @@
    "level": "toeic860",
    "seed": 1990321177
   },
+  "reflect": {
+   "word": "reflect",
+   "level": "school-hs1",
+   "seed": 1520730983
+  },
+  "reflex": {
+   "word": "reflex",
+   "level": "school-hs1",
+   "seed": 2153729670
+  },
+  "reform": {
+   "word": "reform",
+   "level": "school-hs1",
+   "seed": 2677179631
+  },
   "refreshment": {
    "word": "refreshment",
    "level": "toeic600",
@@ -5086,6 +9481,11 @@
    "word": "refurbishment",
    "level": "toeic860",
    "seed": 1078393613
+  },
+  "regarding": {
+   "word": "regarding",
+   "level": "school-hs1",
+   "seed": 3815948070
   },
   "register": {
    "word": "register",
@@ -5147,15 +9547,35 @@
    "level": "toeic600",
    "seed": 2427435201
   },
+  "release": {
+   "word": "release",
+   "level": "school-hs1",
+   "seed": 32858540
+  },
   "reliable": {
    "word": "reliable",
    "level": "toeic600",
    "seed": 3320369063
   },
+  "religion": {
+   "word": "religion",
+   "level": "school-hs1",
+   "seed": 3258354227
+  },
+  "religious": {
+   "word": "religious",
+   "level": "school-hs1",
+   "seed": 4208541565
+  },
   "relinquish": {
    "word": "relinquish",
    "level": "toeic860",
    "seed": 897802846
+  },
+  "reluctant": {
+   "word": "reluctant",
+   "level": "school-hs1",
+   "seed": 1681316976
   },
   "remind": {
    "word": "remind",
@@ -5262,6 +9682,16 @@
    "level": "toeic600",
    "seed": 2725418941
   },
+  "represent": {
+   "word": "represent",
+   "level": "school-hs1",
+   "seed": 2120914885
+  },
+  "representative": {
+   "word": "representative",
+   "level": "school-hs1",
+   "seed": 2320111731
+  },
   "reprimand": {
    "word": "reprimand",
    "level": "toeic860",
@@ -5302,6 +9732,11 @@
    "level": "toeic860",
    "seed": 4149883117
   },
+  "resent": {
+   "word": "resent",
+   "level": "school-hs1",
+   "seed": 693184500
+  },
   "reservation": {
    "word": "reservation",
    "level": "toeic600",
@@ -5337,15 +9772,35 @@
    "level": "toeic860",
    "seed": 4022122848
   },
+  "respectful": {
+   "word": "respectful",
+   "level": "school-hs1",
+   "seed": 1928063298
+  },
   "respective": {
    "word": "respective",
    "level": "toeic730",
    "seed": 3804190054
   },
+  "respond": {
+   "word": "respond",
+   "level": "school-hs1",
+   "seed": 3233253782
+  },
   "responsibility": {
    "word": "responsibility",
    "level": "toeic600",
    "seed": 213722693
+  },
+  "restaurant": {
+   "word": "restaurant",
+   "level": "school-jhs1",
+   "seed": 850172189
+  },
+  "restless": {
+   "word": "restless",
+   "level": "school-hs1",
+   "seed": 1980851810
   },
   "restructure": {
    "word": "restructure",
@@ -5382,10 +9837,25 @@
    "level": "toeic600",
    "seed": 4121438274
   },
+  "return": {
+   "word": "return",
+   "level": "school-jhs1",
+   "seed": 1662270319
+  },
+  "reuse": {
+   "word": "reuse",
+   "level": "school-hs1",
+   "seed": 532900213
+  },
   "revamp": {
    "word": "revamp",
    "level": "toeic860",
    "seed": 4260379352
+  },
+  "reveal": {
+   "word": "reveal",
+   "level": "school-hs1",
+   "seed": 1703707270
   },
   "revenue": {
    "word": "revenue",
@@ -5397,6 +9867,16 @@
    "level": "toeic600",
    "seed": 1642474273
   },
+  "revise": {
+   "word": "revise",
+   "level": "school-hs1",
+   "seed": 2768645974
+  },
+  "revision": {
+   "word": "revision",
+   "level": "school-hs1",
+   "seed": 3941047662
+  },
   "revitalize": {
    "word": "revitalize",
    "level": "toeic860",
@@ -5407,20 +9887,70 @@
    "level": "toeic860",
    "seed": 3898216265
   },
+  "revolution": {
+   "word": "revolution",
+   "level": "school-hs1",
+   "seed": 1976968481
+  },
+  "rice": {
+   "word": "rice",
+   "level": "school-jhs1",
+   "seed": 1765353357
+  },
+  "ridiculous": {
+   "word": "ridiculous",
+   "level": "school-hs1",
+   "seed": 2108143095
+  },
+  "right": {
+   "word": "right",
+   "level": "school-hs1",
+   "seed": 3531218705
+  },
+  "rights": {
+   "word": "rights",
+   "level": "school-hs1",
+   "seed": 336055075
+  },
   "rivalry": {
    "word": "rivalry",
    "level": "toeic730",
    "seed": 2890724814
+  },
+  "river": {
+   "word": "river",
+   "level": "school-jhs1",
+   "seed": 150726050
+  },
+  "road": {
+   "word": "road",
+   "level": "school-jhs1",
+   "seed": 1256170873
   },
   "roadmap": {
    "word": "roadmap",
    "level": "toeic860",
    "seed": 44890555
   },
+  "roar": {
+   "word": "roar",
+   "level": "school-hs1",
+   "seed": 3764532361
+  },
+  "rob": {
+   "word": "rob",
+   "level": "school-hs1",
+   "seed": 2114570707
+  },
   "robust": {
    "word": "robust",
    "level": "toeic730",
    "seed": 1478143518
+  },
+  "room": {
+   "word": "room",
+   "level": "school-jhs1",
+   "seed": 665165916
   },
   "roughly": {
    "word": "roughly",
@@ -5431,6 +9961,31 @@
    "word": "route",
    "level": "toeic600",
    "seed": 4229328568
+  },
+  "rude": {
+   "word": "rude",
+   "level": "school-hs1",
+   "seed": 105221579
+  },
+  "run": {
+   "word": "run",
+   "level": "school-jhs1",
+   "seed": 3748319632
+  },
+  "runway": {
+   "word": "runway",
+   "level": "school-hs1",
+   "seed": 3915893412
+  },
+  "rural": {
+   "word": "rural",
+   "level": "school-hs1",
+   "seed": 2611573554
+  },
+  "sad": {
+   "word": "sad",
+   "level": "school-jhs1",
+   "seed": 3029419520
   },
   "salaried": {
    "word": "salaried",
@@ -5446,6 +10001,11 @@
    "word": "salvage",
    "level": "toeic860",
    "seed": 2926530990
+  },
+  "sample": {
+   "word": "sample",
+   "level": "school-hs1",
+   "seed": 2169582173
   },
   "satisfactory": {
    "word": "satisfactory",
@@ -5467,6 +10027,11 @@
    "level": "toeic860",
    "seed": 2848170354
   },
+  "saturday": {
+   "word": "saturday",
+   "level": "school-jhs1",
+   "seed": 2438328159
+  },
   "saver": {
    "word": "saver",
    "level": "toeic730",
@@ -5477,10 +10042,45 @@
    "level": "toeic730",
    "seed": 2259456284
   },
+  "say": {
+   "word": "say",
+   "level": "school-jhs1",
+   "seed": 3691103927
+  },
   "scalable": {
    "word": "scalable",
    "level": "toeic600",
    "seed": 2149058452
+  },
+  "scale": {
+   "word": "scale",
+   "level": "school-hs1",
+   "seed": 1610747163
+  },
+  "scandal": {
+   "word": "scandal",
+   "level": "school-hs1",
+   "seed": 3591010405
+  },
+  "scarce": {
+   "word": "scarce",
+   "level": "school-hs1",
+   "seed": 3520445460
+  },
+  "scared": {
+   "word": "scared",
+   "level": "school-jhs1",
+   "seed": 875584609
+  },
+  "scary": {
+   "word": "scary",
+   "level": "school-jhs1",
+   "seed": 283161229
+  },
+  "scatter": {
+   "word": "scatter",
+   "level": "school-hs1",
+   "seed": 1006102078
   },
   "scenario": {
    "word": "scenario",
@@ -5496,6 +10096,31 @@
    "word": "scheme",
    "level": "toeic730",
    "seed": 2594068205
+  },
+  "scholar": {
+   "word": "scholar",
+   "level": "school-hs1",
+   "seed": 39713621
+  },
+  "scholarship": {
+   "word": "scholarship",
+   "level": "school-hs1",
+   "seed": 3140388016
+  },
+  "school": {
+   "word": "school",
+   "level": "school-jhs1",
+   "seed": 1700758462
+  },
+  "science": {
+   "word": "science",
+   "level": "school-jhs1",
+   "seed": 3106092706
+  },
+  "scold": {
+   "word": "scold",
+   "level": "school-hs1",
+   "seed": 1181908144
   },
   "scope": {
    "word": "scope",
@@ -5517,6 +10142,11 @@
    "level": "toeic860",
    "seed": 1082731547
   },
+  "sea": {
+   "word": "sea",
+   "level": "school-jhs1",
+   "seed": 1872830386
+  },
   "seal": {
    "word": "seal",
    "level": "toeic730",
@@ -5537,6 +10167,16 @@
    "level": "toeic600",
    "seed": 905184434
   },
+  "second": {
+   "word": "second",
+   "level": "school-jhs1",
+   "seed": 892303401
+  },
+  "secondary": {
+   "word": "secondary",
+   "level": "school-hs1",
+   "seed": 3763993705
+  },
   "sector": {
    "word": "sector",
    "level": "toeic730",
@@ -5552,6 +10192,16 @@
    "level": "toeic600",
    "seed": 2397862852
   },
+  "sediment": {
+   "word": "sediment",
+   "level": "school-hs1",
+   "seed": 1987211796
+  },
+  "see": {
+   "word": "see",
+   "level": "school-jhs1",
+   "seed": 1029930950
+  },
   "seek": {
    "word": "seek",
    "level": "toeic600",
@@ -5562,20 +10212,60 @@
    "level": "toeic730",
    "seed": 1786833832
   },
+  "seize": {
+   "word": "seize",
+   "level": "school-hs1",
+   "seed": 1152736940
+  },
+  "select": {
+   "word": "select",
+   "level": "school-hs1",
+   "seed": 2168754146
+  },
   "selection": {
    "word": "selection",
    "level": "toeic600",
    "seed": 1869212541
+  },
+  "selfish": {
+   "word": "selfish",
+   "level": "school-hs1",
+   "seed": 4085597510
+  },
+  "semester": {
+   "word": "semester",
+   "level": "school-hs1",
+   "seed": 2141995912
   },
   "seminar": {
    "word": "seminar",
    "level": "toeic600",
    "seed": 1687998212
   },
+  "senator": {
+   "word": "senator",
+   "level": "school-hs1",
+   "seed": 2554635185
+  },
+  "sensible": {
+   "word": "sensible",
+   "level": "school-hs1",
+   "seed": 665342384
+  },
+  "sensitive": {
+   "word": "sensitive",
+   "level": "school-hs1",
+   "seed": 2057016271
+  },
   "sentiment": {
    "word": "sentiment",
    "level": "toeic860",
    "seed": 1347051112
+  },
+  "sentimental": {
+   "word": "sentimental",
+   "level": "school-hs1",
+   "seed": 1558293484
   },
   "serial": {
    "word": "serial",
@@ -5597,25 +10287,65 @@
    "level": "toeic730",
    "seed": 2702975641
   },
+  "seven": {
+   "word": "seven",
+   "level": "school-jhs1",
+   "seed": 2685124182
+  },
   "severance": {
    "word": "severance",
    "level": "toeic860",
    "seed": 3373396609
+  },
+  "severe": {
+   "word": "severe",
+   "level": "school-hs1",
+   "seed": 3255142556
+  },
+  "sewage": {
+   "word": "sewage",
+   "level": "school-hs1",
+   "seed": 1251758026
   },
   "shareholder": {
    "word": "shareholder",
    "level": "toeic730",
    "seed": 1628928684
   },
+  "she": {
+   "word": "she",
+   "level": "school-jhs1",
+   "seed": 1243877056
+  },
   "shift": {
    "word": "shift",
    "level": "toeic600",
    "seed": 3688340273
   },
+  "ship": {
+   "word": "ship",
+   "level": "school-jhs1",
+   "seed": 3980634272
+  },
   "shipment": {
    "word": "shipment",
    "level": "toeic730",
    "seed": 4112134855
+  },
+  "shop": {
+   "word": "shop",
+   "level": "school-jhs1",
+   "seed": 1346556230
+  },
+  "short": {
+   "word": "short",
+   "level": "school-jhs1",
+   "seed": 2700405373
+  },
+  "shortage": {
+   "word": "shortage",
+   "level": "school-hs1",
+   "seed": 4190108455
   },
   "shortfall": {
    "word": "shortfall",
@@ -5652,10 +10382,40 @@
    "level": "toeic600",
    "seed": 4106224953
   },
+  "significance": {
+   "word": "significance",
+   "level": "school-hs1",
+   "seed": 1436322605
+  },
+  "significant": {
+   "word": "significant",
+   "level": "school-hs1",
+   "seed": 1671385615
+  },
   "significantly": {
    "word": "significantly",
    "level": "toeic730",
    "seed": 2897231759
+  },
+  "silly": {
+   "word": "silly",
+   "level": "school-jhs1",
+   "seed": 3901863252
+  },
+  "sincere": {
+   "word": "sincere",
+   "level": "school-hs1",
+   "seed": 2505501813
+  },
+  "sincerely": {
+   "word": "sincerely",
+   "level": "school-hs1",
+   "seed": 2865250352
+  },
+  "sing": {
+   "word": "sing",
+   "level": "school-jhs1",
+   "seed": 4190042562
   },
   "single": {
    "word": "single",
@@ -5667,15 +10427,45 @@
    "level": "toeic860",
    "seed": 2491288836
   },
+  "sister": {
+   "word": "sister",
+   "level": "school-jhs1",
+   "seed": 500210602
+  },
+  "sit": {
+   "word": "sit",
+   "level": "school-jhs1",
+   "seed": 2883378790
+  },
+  "six": {
+   "word": "six",
+   "level": "school-jhs1",
+   "seed": 3200872511
+  },
   "skill": {
    "word": "skill",
    "level": "toeic600",
    "seed": 884162048
   },
+  "skillful": {
+   "word": "skillful",
+   "level": "school-hs1",
+   "seed": 3415350705
+  },
+  "skin": {
+   "word": "skin",
+   "level": "school-hs1",
+   "seed": 3502975693
+  },
   "skittish": {
    "word": "skittish",
    "level": "toeic860",
    "seed": 3732447601
+  },
+  "sky": {
+   "word": "sky",
+   "level": "school-jhs1",
+   "seed": 1463283464
   },
   "slack": {
    "word": "slack",
@@ -5692,6 +10482,11 @@
    "level": "toeic860",
    "seed": 3202483768
   },
+  "sleepy": {
+   "word": "sleepy",
+   "level": "school-jhs1",
+   "seed": 1835498192
+  },
   "slide": {
    "word": "slide",
    "level": "toeic860",
@@ -5701,6 +10496,11 @@
    "word": "slogan",
    "level": "toeic600",
    "seed": 125893464
+  },
+  "slope": {
+   "word": "slope",
+   "level": "school-hs1",
+   "seed": 4132205609
   },
   "slot": {
    "word": "slot",
@@ -5722,6 +10522,56 @@
    "level": "toeic730",
    "seed": 2769706228
   },
+  "small": {
+   "word": "small",
+   "level": "school-jhs1",
+   "seed": 2314609306
+  },
+  "smile": {
+   "word": "smile",
+   "level": "school-jhs1",
+   "seed": 653623470
+  },
+  "smog": {
+   "word": "smog",
+   "level": "school-hs1",
+   "seed": 1743300660
+  },
+  "sneeze": {
+   "word": "sneeze",
+   "level": "school-hs1",
+   "seed": 1394563846
+  },
+  "snow": {
+   "word": "snow",
+   "level": "school-jhs1",
+   "seed": 3108937533
+  },
+  "so": {
+   "word": "so",
+   "level": "school-jhs1",
+   "seed": 3441124462
+  },
+  "soar": {
+   "word": "soar",
+   "level": "school-hs1",
+   "seed": 1906219558
+  },
+  "soccer": {
+   "word": "soccer",
+   "level": "school-jhs1",
+   "seed": 1545075203
+  },
+  "sociology": {
+   "word": "sociology",
+   "level": "school-hs1",
+   "seed": 2529989594
+  },
+  "solar": {
+   "word": "solar",
+   "level": "school-hs1",
+   "seed": 251750936
+  },
   "sole": {
    "word": "sole",
    "level": "toeic730",
@@ -5742,10 +10592,30 @@
    "level": "toeic860",
    "seed": 220738457
   },
+  "some": {
+   "word": "some",
+   "level": "school-jhs1",
+   "seed": 3951515666
+  },
+  "song": {
+   "word": "song",
+   "level": "school-jhs1",
+   "seed": 3939050495
+  },
   "sophisticated": {
    "word": "sophisticated",
    "level": "toeic730",
    "seed": 3001885215
+  },
+  "sore": {
+   "word": "sore",
+   "level": "school-hs1",
+   "seed": 4158324930
+  },
+  "sorry": {
+   "word": "sorry",
+   "level": "school-jhs1",
+   "seed": 3715833090
   },
   "souvenir": {
    "word": "souvenir",
@@ -5761,6 +10631,11 @@
    "word": "spawn",
    "level": "toeic860",
    "seed": 1646727690
+  },
+  "speak": {
+   "word": "speak",
+   "level": "school-jhs1",
+   "seed": 2790417812
   },
   "spearhead": {
    "word": "spearhead",
@@ -5817,6 +10692,16 @@
    "level": "toeic730",
    "seed": 1942762425
   },
+  "spill": {
+   "word": "spill",
+   "level": "school-hs1",
+   "seed": 3380343380
+  },
+  "spoil": {
+   "word": "spoil",
+   "level": "school-hs1",
+   "seed": 3728748706
+  },
   "spokesperson": {
    "word": "spokesperson",
    "level": "toeic860",
@@ -5827,10 +10712,25 @@
    "level": "toeic600",
    "seed": 2871080944
   },
+  "spoon": {
+   "word": "spoon",
+   "level": "school-jhs1",
+   "seed": 4116179241
+  },
+  "sport": {
+   "word": "sport",
+   "level": "school-jhs1",
+   "seed": 2327226528
+  },
   "spreadsheet": {
    "word": "spreadsheet",
    "level": "toeic860",
    "seed": 1184055926
+  },
+  "spring": {
+   "word": "spring",
+   "level": "school-jhs1",
+   "seed": 612958739
   },
   "spur": {
    "word": "spur",
@@ -5887,6 +10787,11 @@
    "level": "toeic600",
    "seed": 1847356574
   },
+  "stand": {
+   "word": "stand",
+   "level": "school-jhs1",
+   "seed": 1453243842
+  },
   "standby": {
    "word": "standby",
    "level": "toeic730",
@@ -5896,6 +10801,21 @@
    "word": "standpoint",
    "level": "toeic730",
    "seed": 2515350515
+  },
+  "star": {
+   "word": "star",
+   "level": "school-jhs1",
+   "seed": 1312686521
+  },
+  "start": {
+   "word": "start",
+   "level": "school-jhs1",
+   "seed": 721553703
+  },
+  "startle": {
+   "word": "startle",
+   "level": "school-hs1",
+   "seed": 4011669479
   },
   "startup": {
    "word": "startup",
@@ -5911,6 +10831,26 @@
    "word": "static",
    "level": "toeic860",
    "seed": 2743162410
+  },
+  "station": {
+   "word": "station",
+   "level": "school-jhs1",
+   "seed": 765685747
+  },
+  "statistics": {
+   "word": "statistics",
+   "level": "school-hs1",
+   "seed": 1025028842
+  },
+  "steep": {
+   "word": "steep",
+   "level": "school-hs1",
+   "seed": 4150431936
+  },
+  "step": {
+   "word": "step",
+   "level": "school-hs1",
+   "seed": 3174501659
   },
   "stimulate": {
    "word": "stimulate",
@@ -5937,20 +10877,60 @@
    "level": "toeic860",
    "seed": 3207012250
   },
+  "stir": {
+   "word": "stir",
+   "level": "school-hs1",
+   "seed": 409948909
+  },
   "stock": {
    "word": "stock",
    "level": "toeic600",
    "seed": 3980951070
+  },
+  "stockholder": {
+   "word": "stockholder",
+   "level": "school-hs1",
+   "seed": 1157551391
   },
   "stockpile": {
    "word": "stockpile",
    "level": "toeic860",
    "seed": 1481998414
   },
+  "stomach": {
+   "word": "stomach",
+   "level": "school-hs1",
+   "seed": 3483901273
+  },
+  "stomachache": {
+   "word": "stomachache",
+   "level": "school-hs1",
+   "seed": 2444280507
+  },
+  "stop": {
+   "word": "stop",
+   "level": "school-jhs1",
+   "seed": 457703768
+  },
   "stopover": {
    "word": "stopover",
    "level": "toeic730",
    "seed": 493292699
+  },
+  "store": {
+   "word": "store",
+   "level": "school-jhs1",
+   "seed": 975251805
+  },
+  "storm": {
+   "word": "storm",
+   "level": "school-hs1",
+   "seed": 1792256327
+  },
+  "story": {
+   "word": "story",
+   "level": "school-jhs1",
+   "seed": 3491074983
   },
   "straightforward": {
    "word": "straightforward",
@@ -5977,10 +10957,40 @@
    "level": "toeic600",
    "seed": 3397133303
   },
+  "street": {
+   "word": "street",
+   "level": "school-jhs1",
+   "seed": 3551132423
+  },
+  "stressful": {
+   "word": "stressful",
+   "level": "school-hs1",
+   "seed": 2190360038
+  },
   "stringent": {
    "word": "stringent",
    "level": "toeic860",
    "seed": 3300583380
+  },
+  "structure": {
+   "word": "structure",
+   "level": "school-hs1",
+   "seed": 758160617
+  },
+  "stubborn": {
+   "word": "stubborn",
+   "level": "school-hs1",
+   "seed": 114930792
+  },
+  "student": {
+   "word": "student",
+   "level": "school-jhs1",
+   "seed": 541079201
+  },
+  "study": {
+   "word": "study",
+   "level": "school-jhs1",
+   "seed": 2287285441
   },
   "subdued": {
    "word": "subdued",
@@ -5997,6 +11007,11 @@
    "level": "toeic730",
    "seed": 3948417665
   },
+  "subscribe": {
+   "word": "subscribe",
+   "level": "school-hs1",
+   "seed": 1284584204
+  },
   "subscription": {
    "word": "subscription",
    "level": "toeic730",
@@ -6012,10 +11027,30 @@
    "level": "toeic860",
    "seed": 618058170
   },
+  "subsidy": {
+   "word": "subsidy",
+   "level": "school-hs1",
+   "seed": 2096733741
+  },
+  "substance": {
+   "word": "substance",
+   "level": "school-hs1",
+   "seed": 1422701273
+  },
   "substantial": {
    "word": "substantial",
    "level": "toeic730",
    "seed": 3376246865
+  },
+  "substitute": {
+   "word": "substitute",
+   "level": "school-hs1",
+   "seed": 1787521363
+  },
+  "subway": {
+   "word": "subway",
+   "level": "school-jhs1",
+   "seed": 2993577661
   },
   "succession": {
    "word": "succession",
@@ -6037,6 +11072,16 @@
    "level": "toeic860",
    "seed": 3452930554
   },
+  "suitable": {
+   "word": "suitable",
+   "level": "school-hs1",
+   "seed": 3481718292
+  },
+  "suitcase": {
+   "word": "suitcase",
+   "level": "school-jhs1",
+   "seed": 3067189320
+  },
   "suite": {
    "word": "suite",
    "level": "toeic730",
@@ -6046,6 +11091,31 @@
    "word": "sum",
    "level": "toeic730",
    "seed": 3923768149
+  },
+  "summarize": {
+   "word": "summarize",
+   "level": "school-hs1",
+   "seed": 3890596655
+  },
+  "summary": {
+   "word": "summary",
+   "level": "school-hs1",
+   "seed": 89349839
+  },
+  "summer": {
+   "word": "summer",
+   "level": "school-jhs1",
+   "seed": 1679879501
+  },
+  "sun": {
+   "word": "sun",
+   "level": "school-jhs1",
+   "seed": 586834209
+  },
+  "sunday": {
+   "word": "sunday",
+   "level": "school-jhs1",
+   "seed": 328222476
   },
   "superintendent": {
    "word": "superintendent",
@@ -6092,6 +11162,11 @@
    "level": "toeic600",
    "seed": 1541198784
   },
+  "suppose": {
+   "word": "suppose",
+   "level": "school-hs1",
+   "seed": 3884667607
+  },
   "surcharge": {
    "word": "surcharge",
    "level": "toeic730",
@@ -6102,10 +11177,25 @@
    "level": "toeic860",
    "seed": 3347797820
   },
+  "surplus": {
+   "word": "surplus",
+   "level": "school-hs1",
+   "seed": 422019045
+  },
+  "surprisingly": {
+   "word": "surprisingly",
+   "level": "school-hs1",
+   "seed": 148300865
+  },
   "survey": {
    "word": "survey",
    "level": "toeic600",
    "seed": 1647841227
+  },
+  "survival": {
+   "word": "survival",
+   "level": "school-hs1",
+   "seed": 4030440452
   },
   "suspend": {
    "word": "suspend",
@@ -6122,15 +11212,50 @@
    "level": "toeic860",
    "seed": 2917343605
   },
+  "sweet": {
+   "word": "sweet",
+   "level": "school-jhs1",
+   "seed": 1165456582
+  },
+  "swift": {
+   "word": "swift",
+   "level": "school-hs1",
+   "seed": 1239070057
+  },
+  "swim": {
+   "word": "swim",
+   "level": "school-jhs1",
+   "seed": 3097465075
+  },
+  "swimming": {
+   "word": "swimming",
+   "level": "school-jhs1",
+   "seed": 3142586318
+  },
   "switch": {
    "word": "switch",
    "level": "toeic600",
    "seed": 28998034
   },
+  "swollen": {
+   "word": "swollen",
+   "level": "school-hs1",
+   "seed": 647591613
+  },
   "synergy": {
    "word": "synergy",
    "level": "toeic600",
    "seed": 2882112354
+  },
+  "table": {
+   "word": "table",
+   "level": "school-jhs1",
+   "seed": 3287159677
+  },
+  "tabloid": {
+   "word": "tabloid",
+   "level": "school-hs1",
+   "seed": 3496867483
   },
   "tactic": {
    "word": "tactic",
@@ -6157,10 +11282,25 @@
    "level": "toeic600",
    "seed": 1733452075
   },
+  "talk": {
+   "word": "talk",
+   "level": "school-jhs1",
+   "seed": 3848180146
+  },
+  "tall": {
+   "word": "tall",
+   "level": "school-jhs1",
+   "seed": 157585927
+  },
   "tally": {
    "word": "tally",
    "level": "toeic860",
    "seed": 3766928512
+  },
+  "tame": {
+   "word": "tame",
+   "level": "school-hs1",
+   "seed": 2658293184
   },
   "tangible": {
    "word": "tangible",
@@ -6171,6 +11311,11 @@
    "word": "tangibly",
    "level": "toeic860",
    "seed": 97118460
+  },
+  "tap": {
+   "word": "tap",
+   "level": "school-hs1",
+   "seed": 636685621
   },
   "target": {
    "word": "target",
@@ -6207,15 +11352,45 @@
    "level": "toeic860",
    "seed": 309498572
   },
+  "tea": {
+   "word": "tea",
+   "level": "school-jhs1",
+   "seed": 1967722290
+  },
+  "teacher": {
+   "word": "teacher",
+   "level": "school-jhs1",
+   "seed": 1250085741
+  },
+  "team": {
+   "word": "team",
+   "level": "school-jhs1",
+   "seed": 3528558556
+  },
   "temporary": {
    "word": "temporary",
    "level": "toeic600",
    "seed": 3705441069
   },
+  "ten": {
+   "word": "ten",
+   "level": "school-jhs1",
+   "seed": 3711263300
+  },
+  "tend": {
+   "word": "tend",
+   "level": "school-hs1",
+   "seed": 1654440254
+  },
   "tender": {
    "word": "tender",
    "level": "toeic730",
    "seed": 610082442
+  },
+  "tennis": {
+   "word": "tennis",
+   "level": "school-jhs1",
+   "seed": 2626165723
   },
   "tentative": {
    "word": "tentative",
@@ -6242,15 +11417,125 @@
    "level": "toeic730",
    "seed": 3798072274
   },
+  "terrified": {
+   "word": "terrified",
+   "level": "school-hs1",
+   "seed": 3904693999
+  },
+  "test": {
+   "word": "test",
+   "level": "school-jhs1",
+   "seed": 2840236005
+  },
   "testimonial": {
    "word": "testimonial",
    "level": "toeic860",
    "seed": 3029054806
   },
+  "thank": {
+   "word": "thank",
+   "level": "school-jhs1",
+   "seed": 3289522026
+  },
+  "that": {
+   "word": "that",
+   "level": "school-jhs1",
+   "seed": 867705345
+  },
+  "the": {
+   "word": "the",
+   "level": "school-jhs1",
+   "seed": 3150765870
+  },
+  "them": {
+   "word": "them",
+   "level": "school-jhs1",
+   "seed": 2559642222
+  },
+  "theme": {
+   "word": "theme",
+   "level": "school-hs1",
+   "seed": 3692370522
+  },
+  "theoretical": {
+   "word": "theoretical",
+   "level": "school-hs1",
+   "seed": 3399699720
+  },
+  "there": {
+   "word": "there",
+   "level": "school-jhs1",
+   "seed": 1225074931
+  },
+  "therefore": {
+   "word": "therefore",
+   "level": "school-hs1",
+   "seed": 18903511
+  },
+  "thermometer": {
+   "word": "thermometer",
+   "level": "school-hs1",
+   "seed": 3538257856
+  },
+  "thesis": {
+   "word": "thesis",
+   "level": "school-hs1",
+   "seed": 881751664
+  },
+  "they": {
+   "word": "they",
+   "level": "school-jhs1",
+   "seed": 4059944045
+  },
+  "thing": {
+   "word": "thing",
+   "level": "school-jhs1",
+   "seed": 2252129140
+  },
+  "think": {
+   "word": "think",
+   "level": "school-jhs1",
+   "seed": 3083213952
+  },
+  "third": {
+   "word": "third",
+   "level": "school-jhs1",
+   "seed": 888877824
+  },
+  "thirsty": {
+   "word": "thirsty",
+   "level": "school-jhs1",
+   "seed": 832580857
+  },
+  "this": {
+   "word": "this",
+   "level": "school-jhs1",
+   "seed": 3260301311
+  },
   "thorough": {
    "word": "thorough",
    "level": "toeic860",
    "seed": 3523991771
+  },
+  "thoughtful": {
+   "word": "thoughtful",
+   "level": "school-hs1",
+   "seed": 3029520708
+  },
+  "threat": {
+   "word": "threat",
+   "level": "school-hs1",
+   "seed": 1316071353
+  },
+  "threaten": {
+   "word": "threaten",
+   "level": "school-hs1",
+   "seed": 2228125363
+  },
+  "three": {
+   "word": "three",
+   "level": "school-jhs1",
+   "seed": 3087201156
   },
   "threshold": {
    "word": "threshold",
@@ -6262,20 +11547,55 @@
    "level": "toeic860",
    "seed": 864820822
   },
+  "thrilled": {
+   "word": "thrilled",
+   "level": "school-jhs1",
+   "seed": 2337712648
+  },
   "thrive": {
    "word": "thrive",
    "level": "toeic730",
    "seed": 1249007327
+  },
+  "throat": {
+   "word": "throat",
+   "level": "school-hs1",
+   "seed": 963864185
+  },
+  "throughout": {
+   "word": "throughout",
+   "level": "school-hs1",
+   "seed": 856538951
+  },
+  "thursday": {
+   "word": "thursday",
+   "level": "school-jhs1",
+   "seed": 2850508
+  },
+  "thus": {
+   "word": "thus",
+   "level": "school-hs1",
+   "seed": 777245181
   },
   "ticket": {
    "word": "ticket",
    "level": "toeic600",
    "seed": 879572128
   },
+  "tide": {
+   "word": "tide",
+   "level": "school-hs1",
+   "seed": 398947030
+  },
   "tighten": {
    "word": "tighten",
    "level": "toeic730",
    "seed": 302758203
+  },
+  "time": {
+   "word": "time",
+   "level": "school-jhs1",
+   "seed": 1900997135
   },
   "timetable": {
    "word": "timetable",
@@ -6292,15 +11612,90 @@
    "level": "toeic600",
    "seed": 450183640
   },
+  "tired": {
+   "word": "tired",
+   "level": "school-jhs1",
+   "seed": 1360959761
+  },
+  "to": {
+   "word": "to",
+   "level": "school-jhs1",
+   "seed": 1131719406
+  },
+  "today": {
+   "word": "today",
+   "level": "school-jhs1",
+   "seed": 768786135
+  },
+  "together": {
+   "word": "together",
+   "level": "school-jhs1",
+   "seed": 2419392414
+  },
+  "tolerant": {
+   "word": "tolerant",
+   "level": "school-hs1",
+   "seed": 3292721575
+  },
+  "tolerate": {
+   "word": "tolerate",
+   "level": "school-hs1",
+   "seed": 281110246
+  },
   "toll": {
    "word": "toll",
    "level": "toeic600",
    "seed": 1019751271
   },
+  "tomato": {
+   "word": "tomato",
+   "level": "school-jhs1",
+   "seed": 840919934
+  },
+  "tomorrow": {
+   "word": "tomorrow",
+   "level": "school-jhs1",
+   "seed": 766280150
+  },
+  "too": {
+   "word": "too",
+   "level": "school-jhs1",
+   "seed": 373972004
+  },
+  "topic": {
+   "word": "topic",
+   "level": "school-hs1",
+   "seed": 3021332847
+  },
+  "tornado": {
+   "word": "tornado",
+   "level": "school-hs1",
+   "seed": 1195656877
+  },
+  "tourism": {
+   "word": "tourism",
+   "level": "school-hs1",
+   "seed": 2106003662
+  },
   "tout": {
    "word": "tout",
    "level": "toeic860",
    "seed": 72394791
+  },
+  "town": {
+   "word": "town",
+   "level": "school-jhs1",
+   "seed": 215003538
+  },
+  "trace": {
+   "word": "trace",
+   "level": "school-hs1",
+   "seed": 3506066760
+  },
+  "trade": {
+   "word": "trade",
+   "level": "school-hs1",
+   "seed": 1866381059
   },
   "trademark": {
    "word": "trademark",
@@ -6312,6 +11707,11 @@
    "level": "toeic860",
    "seed": 2752525584
   },
+  "train": {
+   "word": "train",
+   "level": "school-jhs1",
+   "seed": 2498747759
+  },
   "transaction": {
    "word": "transaction",
    "level": "toeic730",
@@ -6321,6 +11721,11 @@
    "word": "transfer",
    "level": "toeic600",
    "seed": 876743925
+  },
+  "transform": {
+   "word": "transform",
+   "level": "school-hs1",
+   "seed": 3716997434
   },
   "transit": {
    "word": "transit",
@@ -6337,15 +11742,85 @@
    "level": "toeic600",
    "seed": 1054429363
   },
+  "transparency": {
+   "word": "transparency",
+   "level": "school-hs1",
+   "seed": 3456361224
+  },
   "transparent": {
    "word": "transparent",
    "level": "toeic730",
    "seed": 59666232
   },
+  "transport": {
+   "word": "transport",
+   "level": "school-hs1",
+   "seed": 2833645870
+  },
   "treasury": {
    "word": "treasury",
    "level": "toeic860",
    "seed": 2667441855
+  },
+  "treatment": {
+   "word": "treatment",
+   "level": "school-hs1",
+   "seed": 1395078609
+  },
+  "tree": {
+   "word": "tree",
+   "level": "school-jhs1",
+   "seed": 2154126760
+  },
+  "tremendous": {
+   "word": "tremendous",
+   "level": "school-hs1",
+   "seed": 3871929118
+  },
+  "trim": {
+   "word": "trim",
+   "level": "school-hs1",
+   "seed": 2058662056
+  },
+  "trip": {
+   "word": "trip",
+   "level": "school-jhs1",
+   "seed": 4258865082
+  },
+  "truck": {
+   "word": "truck",
+   "level": "school-jhs1",
+   "seed": 2051892145
+  },
+  "truly": {
+   "word": "truly",
+   "level": "school-hs1",
+   "seed": 2416548654
+  },
+  "trustworthy": {
+   "word": "trustworthy",
+   "level": "school-hs1",
+   "seed": 2763898698
+  },
+  "tube": {
+   "word": "tube",
+   "level": "school-hs1",
+   "seed": 182645788
+  },
+  "tuesday": {
+   "word": "tuesday",
+   "level": "school-jhs1",
+   "seed": 267460528
+  },
+  "tunnel": {
+   "word": "tunnel",
+   "level": "school-hs1",
+   "seed": 3922025106
+  },
+  "turbine": {
+   "word": "turbine",
+   "level": "school-hs1",
+   "seed": 3807713772
   },
   "turbulence": {
    "word": "turbulence",
@@ -6362,6 +11837,16 @@
    "level": "toeic730",
    "seed": 2212821947
   },
+  "tutor": {
+   "word": "tutor",
+   "level": "school-hs1",
+   "seed": 2847767131
+  },
+  "tv": {
+   "word": "tv",
+   "level": "school-jhs1",
+   "seed": 4279093690
+  },
   "tweak": {
    "word": "tweak",
    "level": "toeic860",
@@ -6371,6 +11856,21 @@
    "word": "twin",
    "level": "toeic600",
    "seed": 3193985411
+  },
+  "two": {
+   "word": "two",
+   "level": "school-jhs1",
+   "seed": 2910334669
+  },
+  "typically": {
+   "word": "typically",
+   "level": "school-hs1",
+   "seed": 4245960522
+  },
+  "ugly": {
+   "word": "ugly",
+   "level": "school-jhs1",
+   "seed": 1400371088
   },
   "unable": {
    "word": "unable",
@@ -6391,6 +11891,11 @@
    "word": "uncertainty",
    "level": "toeic730",
    "seed": 708417365
+  },
+  "under": {
+   "word": "under",
+   "level": "school-jhs1",
+   "seed": 3671477446
   },
   "underfund": {
    "word": "underfund",
@@ -6432,10 +11937,40 @@
    "level": "toeic860",
    "seed": 3018303704
   },
+  "undoubtedly": {
+   "word": "undoubtedly",
+   "level": "school-hs1",
+   "seed": 1675793832
+  },
+  "unemployment": {
+   "word": "unemployment",
+   "level": "school-hs1",
+   "seed": 4287769970
+  },
+  "unexpected": {
+   "word": "unexpected",
+   "level": "school-hs1",
+   "seed": 4247398244
+  },
   "unforeseen": {
    "word": "unforeseen",
    "level": "toeic730",
    "seed": 1301082331
+  },
+  "unhealthy": {
+   "word": "unhealthy",
+   "level": "school-hs1",
+   "seed": 1925539748
+  },
+  "unknown": {
+   "word": "unknown",
+   "level": "school-hs1",
+   "seed": 1356379305
+  },
+  "unlikely": {
+   "word": "unlikely",
+   "level": "school-hs1",
+   "seed": 4026067984
   },
   "unpaid": {
    "word": "unpaid",
@@ -6482,15 +12017,40 @@
    "level": "toeic860",
    "seed": 2005539309
   },
+  "urban": {
+   "word": "urban",
+   "level": "school-hs1",
+   "seed": 3128591017
+  },
   "urgent": {
    "word": "urgent",
    "level": "toeic600",
    "seed": 2366430880
   },
+  "us": {
+   "word": "us",
+   "level": "school-jhs1",
+   "seed": 3660255880
+  },
+  "use": {
+   "word": "use",
+   "level": "school-jhs1",
+   "seed": 71866898
+  },
+  "useless": {
+   "word": "useless",
+   "level": "school-hs1",
+   "seed": 2474957754
+  },
   "utility": {
    "word": "utility",
    "level": "toeic730",
    "seed": 2290416944
+  },
+  "utilize": {
+   "word": "utilize",
+   "level": "school-hs1",
+   "seed": 3351172823
   },
   "vacancy": {
    "word": "vacancy",
@@ -6522,10 +12082,35 @@
    "level": "toeic860",
    "seed": 4090569607
   },
+  "vapor": {
+   "word": "vapor",
+   "level": "school-hs1",
+   "seed": 643092196
+  },
+  "vast": {
+   "word": "vast",
+   "level": "school-hs1",
+   "seed": 1786691525
+  },
   "vegetarian": {
    "word": "vegetarian",
    "level": "toeic600",
    "seed": 899762964
+  },
+  "vegetation": {
+   "word": "vegetation",
+   "level": "school-hs1",
+   "seed": 2422646957
+  },
+  "vehicle": {
+   "word": "vehicle",
+   "level": "school-hs1",
+   "seed": 184914182
+  },
+  "velocity": {
+   "word": "velocity",
+   "level": "school-hs1",
+   "seed": 3405266494
   },
   "vendor": {
    "word": "vendor",
@@ -6552,10 +12137,20 @@
    "level": "toeic730",
    "seed": 2258904605
   },
+  "very": {
+   "word": "very",
+   "level": "school-jhs1",
+   "seed": 3879900607
+  },
   "viable": {
    "word": "viable",
    "level": "toeic730",
    "seed": 2816496998
+  },
+  "vibrate": {
+   "word": "vibrate",
+   "level": "school-hs1",
+   "seed": 3454980187
   },
   "vie": {
    "word": "vie",
@@ -6566,6 +12161,11 @@
    "word": "vigilance",
    "level": "toeic860",
    "seed": 1006256511
+  },
+  "viral": {
+   "word": "viral",
+   "level": "school-hs1",
+   "seed": 2243087829
   },
   "visa": {
    "word": "visa",
@@ -6581,6 +12181,21 @@
    "word": "visionary",
    "level": "toeic600",
    "seed": 3499552259
+  },
+  "vital": {
+   "word": "vital",
+   "level": "school-hs1",
+   "seed": 399205864
+  },
+  "vivid": {
+   "word": "vivid",
+   "level": "school-hs1",
+   "seed": 2698461026
+  },
+  "vocabulary": {
+   "word": "vocabulary",
+   "level": "school-hs1",
+   "seed": 562434643
   },
   "vocation": {
    "word": "vocation",
@@ -6607,6 +12222,16 @@
    "level": "toeic860",
    "seed": 1505523677
   },
+  "voltage": {
+   "word": "voltage",
+   "level": "school-hs1",
+   "seed": 3415064505
+  },
+  "volume": {
+   "word": "volume",
+   "level": "school-hs1",
+   "seed": 3548904589
+  },
   "voluntary": {
    "word": "voluntary",
    "level": "toeic730",
@@ -6617,15 +12242,30 @@
    "level": "toeic600",
    "seed": 23549481
   },
+  "vomit": {
+   "word": "vomit",
+   "level": "school-hs1",
+   "seed": 1975411289
+  },
   "voucher": {
    "word": "voucher",
    "level": "toeic860",
    "seed": 4031638341
   },
+  "voyage": {
+   "word": "voyage",
+   "level": "school-hs1",
+   "seed": 2945664550
+  },
   "wage": {
    "word": "wage",
    "level": "toeic600",
    "seed": 737537724
+  },
+  "wait": {
+   "word": "wait",
+   "level": "school-jhs1",
+   "seed": 3668628278
   },
   "waiter": {
    "word": "waiter",
@@ -6642,25 +12282,175 @@
    "level": "toeic860",
    "seed": 2142448339
   },
+  "walk": {
+   "word": "walk",
+   "level": "school-jhs1",
+   "seed": 3741757767
+  },
+  "wall": {
+   "word": "wall",
+   "level": "school-jhs1",
+   "seed": 3950697078
+  },
+  "want": {
+   "word": "want",
+   "level": "school-jhs1",
+   "seed": 3052551114
+  },
   "warehouse": {
    "word": "warehouse",
    "level": "toeic600",
    "seed": 1245036644
+  },
+  "warm": {
+   "word": "warm",
+   "level": "school-jhs1",
+   "seed": 3628057478
+  },
+  "warming": {
+   "word": "warming",
+   "level": "school-hs1",
+   "seed": 1523866885
   },
   "warranty": {
    "word": "warranty",
    "level": "toeic730",
    "seed": 217446861
   },
+  "watch": {
+   "word": "watch",
+   "level": "school-jhs1",
+   "seed": 690686209
+  },
+  "water": {
+   "word": "water",
+   "level": "school-jhs1",
+   "seed": 1834632594
+  },
+  "wavelength": {
+   "word": "wavelength",
+   "level": "school-hs1",
+   "seed": 218446530
+  },
+  "we": {
+   "word": "we",
+   "level": "school-jhs1",
+   "seed": 1735290677
+  },
+  "weakness": {
+   "word": "weakness",
+   "level": "school-hs1",
+   "seed": 807199637
+  },
+  "weapon": {
+   "word": "weapon",
+   "level": "school-hs1",
+   "seed": 962411340
+  },
+  "weary": {
+   "word": "weary",
+   "level": "school-hs1",
+   "seed": 1262041815
+  },
+  "weather": {
+   "word": "weather",
+   "level": "school-jhs1",
+   "seed": 4186335692
+  },
+  "wednesday": {
+   "word": "wednesday",
+   "level": "school-jhs1",
+   "seed": 3250102148
+  },
+  "week": {
+   "word": "week",
+   "level": "school-jhs1",
+   "seed": 3236836056
+  },
+  "weird": {
+   "word": "weird",
+   "level": "school-jhs1",
+   "seed": 4293477663
+  },
+  "welcome": {
+   "word": "welcome",
+   "level": "school-jhs1",
+   "seed": 3232839678
+  },
   "welfare": {
    "word": "welfare",
    "level": "toeic600",
    "seed": 1242958310
   },
+  "well": {
+   "word": "well",
+   "level": "school-jhs1",
+   "seed": 3179578152
+  },
+  "what": {
+   "word": "what",
+   "level": "school-jhs1",
+   "seed": 2702239417
+  },
+  "whatever": {
+   "word": "whatever",
+   "level": "school-hs1",
+   "seed": 3630816127
+  },
+  "when": {
+   "word": "when",
+   "level": "school-jhs1",
+   "seed": 811614121
+  },
+  "whenever": {
+   "word": "whenever",
+   "level": "school-hs1",
+   "seed": 1536246599
+  },
+  "where": {
+   "word": "where",
+   "level": "school-jhs1",
+   "seed": 1175751875
+  },
+  "whereas": {
+   "word": "whereas",
+   "level": "school-hs1",
+   "seed": 2642159131
+  },
   "whereby": {
    "word": "whereby",
    "level": "toeic730",
    "seed": 202151336
+  },
+  "wherever": {
+   "word": "wherever",
+   "level": "school-hs1",
+   "seed": 4204906845
+  },
+  "which": {
+   "word": "which",
+   "level": "school-jhs1",
+   "seed": 3976527693
+  },
+  "whichever": {
+   "word": "whichever",
+   "level": "school-hs1",
+   "seed": 4040483366
+  },
+  "white": {
+   "word": "white",
+   "level": "school-jhs1",
+   "seed": 1384968071
+  },
+  "who": {
+   "word": "who",
+   "level": "school-jhs1",
+   "seed": 3081631609
+  },
+  "whoever": {
+   "word": "whoever",
+   "level": "school-hs1",
+   "seed": 2855883278
   },
   "wholehearted": {
    "word": "wholehearted",
@@ -6677,6 +12467,26 @@
    "level": "toeic860",
    "seed": 2359735948
   },
+  "whose": {
+   "word": "whose",
+   "level": "school-jhs1",
+   "seed": 2310592387
+  },
+  "why": {
+   "word": "why",
+   "level": "school-jhs1",
+   "seed": 282063875
+  },
+  "wildfire": {
+   "word": "wildfire",
+   "level": "school-hs1",
+   "seed": 1952257190
+  },
+  "wildlife": {
+   "word": "wildlife",
+   "level": "school-hs1",
+   "seed": 3185149804
+  },
   "willingly": {
    "word": "willingly",
    "level": "toeic860",
@@ -6687,10 +12497,45 @@
    "level": "toeic600",
    "seed": 1437182565
   },
+  "wind": {
+   "word": "wind",
+   "level": "school-jhs1",
+   "seed": 3875574247
+  },
   "windfall": {
    "word": "windfall",
    "level": "toeic860",
    "seed": 2262880173
+  },
+  "windmill": {
+   "word": "windmill",
+   "level": "school-hs1",
+   "seed": 1361860702
+  },
+  "window": {
+   "word": "window",
+   "level": "school-jhs1",
+   "seed": 839570023
+  },
+  "winter": {
+   "word": "winter",
+   "level": "school-jhs1",
+   "seed": 519314164
+  },
+  "wise": {
+   "word": "wise",
+   "level": "school-hs1",
+   "seed": 3406994717
+  },
+  "wish": {
+   "word": "wish",
+   "level": "school-jhs1",
+   "seed": 2066053060
+  },
+  "with": {
+   "word": "with",
+   "level": "school-jhs1",
+   "seed": 2412586403
   },
   "withdraw": {
    "word": "withdraw",
@@ -6707,15 +12552,40 @@
    "level": "toeic860",
    "seed": 1333994166
   },
+  "within": {
+   "word": "within",
+   "level": "school-hs1",
+   "seed": 4096718369
+  },
+  "witness": {
+   "word": "witness",
+   "level": "school-hs1",
+   "seed": 1250351903
+  },
+  "woman": {
+   "word": "woman",
+   "level": "school-jhs1",
+   "seed": 3987862570
+  },
   "woo": {
    "word": "woo",
    "level": "toeic860",
    "seed": 1251533885
   },
+  "word": {
+   "word": "word",
+   "level": "school-jhs1",
+   "seed": 1019009290
+  },
   "workday": {
    "word": "workday",
    "level": "toeic600",
    "seed": 323883161
+  },
+  "workforce": {
+   "word": "workforce",
+   "level": "school-hs1",
+   "seed": 2448670267
   },
   "workload": {
    "word": "workload",
@@ -6727,6 +12597,11 @@
    "level": "toeic600",
    "seed": 106354045
   },
+  "world": {
+   "word": "world",
+   "level": "school-jhs1",
+   "seed": 2082542643
+  },
   "worldwide": {
    "word": "worldwide",
    "level": "toeic600",
@@ -6736,6 +12611,26 @@
    "word": "worth",
    "level": "toeic730",
    "seed": 3314649958
+  },
+  "worthy": {
+   "word": "worthy",
+   "level": "school-hs1",
+   "seed": 3688898770
+  },
+  "wound": {
+   "word": "wound",
+   "level": "school-hs1",
+   "seed": 283162799
+  },
+  "wreck": {
+   "word": "wreck",
+   "level": "school-hs1",
+   "seed": 3750568477
+  },
+  "write": {
+   "word": "write",
+   "level": "school-jhs1",
+   "seed": 3788555969
   },
   "wrongful": {
    "word": "wrongful",
@@ -6747,10 +12642,45 @@
    "level": "toeic730",
    "seed": 4004745474
   },
+  "yawn": {
+   "word": "yawn",
+   "level": "school-hs1",
+   "seed": 2952253834
+  },
+  "year": {
+   "word": "year",
+   "level": "school-jhs1",
+   "seed": 1341174099
+  },
+  "yellow": {
+   "word": "yellow",
+   "level": "school-jhs1",
+   "seed": 2531153219
+  },
+  "yes": {
+   "word": "yes",
+   "level": "school-jhs1",
+   "seed": 4214624156
+  },
+  "yesterday": {
+   "word": "yesterday",
+   "level": "school-jhs1",
+   "seed": 447310735
+  },
   "yield": {
    "word": "yield",
    "level": "toeic730",
    "seed": 4046331535
+  },
+  "you": {
+   "word": "you",
+   "level": "school-jhs1",
+   "seed": 2331340262
+  },
+  "your": {
+   "word": "your",
+   "level": "school-jhs1",
+   "seed": 1304901441
   }
  }
 }
