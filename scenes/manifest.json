@@ -1,0 +1,6756 @@
+{
+ "version": 2,
+ "style": "flat-scene-v1",
+ "images": {
+  "abeyance": {
+   "word": "abeyance",
+   "level": "toeic860",
+   "seed": 2057666650
+  },
+  "absent": {
+   "word": "absent",
+   "level": "toeic600",
+   "seed": 382367369
+  },
+  "accept": {
+   "word": "accept",
+   "level": "toeic600",
+   "seed": 1605894642
+  },
+  "accessible": {
+   "word": "accessible",
+   "level": "toeic730",
+   "seed": 2064205596
+  },
+  "accommodate": {
+   "word": "accommodate",
+   "level": "toeic730",
+   "seed": 3503958584
+  },
+  "accommodation": {
+   "word": "accommodation",
+   "level": "toeic600",
+   "seed": 1706086306
+  },
+  "accompany": {
+   "word": "accompany",
+   "level": "toeic730",
+   "seed": 2224032950
+  },
+  "accomplish": {
+   "word": "accomplish",
+   "level": "toeic730",
+   "seed": 1381805195
+  },
+  "accordance": {
+   "word": "accordance",
+   "level": "toeic730",
+   "seed": 1539439145
+  },
+  "account": {
+   "word": "account",
+   "level": "toeic600",
+   "seed": 3391124109
+  },
+  "accountable": {
+   "word": "accountable",
+   "level": "toeic600",
+   "seed": 2517745053
+  },
+  "accountant": {
+   "word": "accountant",
+   "level": "toeic600",
+   "seed": 1289088461
+  },
+  "accrue": {
+   "word": "accrue",
+   "level": "toeic860",
+   "seed": 2498384181
+  },
+  "achievable": {
+   "word": "achievable",
+   "level": "toeic600",
+   "seed": 2940053170
+  },
+  "achievement": {
+   "word": "achievement",
+   "level": "toeic600",
+   "seed": 3380214253
+  },
+  "acknowledge": {
+   "word": "acknowledge",
+   "level": "toeic730",
+   "seed": 1332480566
+  },
+  "acquaint": {
+   "word": "acquaint",
+   "level": "toeic860",
+   "seed": 1777324005
+  },
+  "acquire": {
+   "word": "acquire",
+   "level": "toeic600",
+   "seed": 1702706295
+  },
+  "acquisition": {
+   "word": "acquisition",
+   "level": "toeic730",
+   "seed": 3864137671
+  },
+  "acumen": {
+   "word": "acumen",
+   "level": "toeic860",
+   "seed": 3729874260
+  },
+  "adaptable": {
+   "word": "adaptable",
+   "level": "toeic730",
+   "seed": 1173471793
+  },
+  "additional": {
+   "word": "additional",
+   "level": "toeic600",
+   "seed": 541140086
+  },
+  "additionally": {
+   "word": "additionally",
+   "level": "toeic730",
+   "seed": 418941568
+  },
+  "adequate": {
+   "word": "adequate",
+   "level": "toeic730",
+   "seed": 1218915432
+  },
+  "adhere": {
+   "word": "adhere",
+   "level": "toeic730",
+   "seed": 2581773799
+  },
+  "adherence": {
+   "word": "adherence",
+   "level": "toeic860",
+   "seed": 685970554
+  },
+  "adjacent": {
+   "word": "adjacent",
+   "level": "toeic730",
+   "seed": 2099107902
+  },
+  "adjoin": {
+   "word": "adjoin",
+   "level": "toeic730",
+   "seed": 3910090998
+  },
+  "adjoining": {
+   "word": "adjoining",
+   "level": "toeic730",
+   "seed": 994865819
+  },
+  "administration": {
+   "word": "administration",
+   "level": "toeic730",
+   "seed": 91012697
+  },
+  "admission": {
+   "word": "admission",
+   "level": "toeic600",
+   "seed": 873858267
+  },
+  "advertisement": {
+   "word": "advertisement",
+   "level": "toeic600",
+   "seed": 4066699005
+  },
+  "advertiser": {
+   "word": "advertiser",
+   "level": "toeic860",
+   "seed": 1833511123
+  },
+  "advisable": {
+   "word": "advisable",
+   "level": "toeic730",
+   "seed": 3956095907
+  },
+  "advocate": {
+   "word": "advocate",
+   "level": "toeic860",
+   "seed": 1068926748
+  },
+  "affiliate": {
+   "word": "affiliate",
+   "level": "toeic860",
+   "seed": 2745603707
+  },
+  "affiliation": {
+   "word": "affiliation",
+   "level": "toeic860",
+   "seed": 4127299404
+  },
+  "affix": {
+   "word": "affix",
+   "level": "toeic860",
+   "seed": 3627485590
+  },
+  "affluent": {
+   "word": "affluent",
+   "level": "toeic860",
+   "seed": 4221409381
+  },
+  "afford": {
+   "word": "afford",
+   "level": "toeic730",
+   "seed": 365800826
+  },
+  "affordable": {
+   "word": "affordable",
+   "level": "toeic730",
+   "seed": 542536071
+  },
+  "agency": {
+   "word": "agency",
+   "level": "toeic600",
+   "seed": 2357750739
+  },
+  "agenda": {
+   "word": "agenda",
+   "level": "toeic600",
+   "seed": 3674034195
+  },
+  "agent": {
+   "word": "agent",
+   "level": "toeic600",
+   "seed": 101237765
+  },
+  "aggregate": {
+   "word": "aggregate",
+   "level": "toeic860",
+   "seed": 3791631718
+  },
+  "agreement": {
+   "word": "agreement",
+   "level": "toeic600",
+   "seed": 3236262177
+  },
+  "ailing": {
+   "word": "ailing",
+   "level": "toeic860",
+   "seed": 3049585244
+  },
+  "airline": {
+   "word": "airline",
+   "level": "toeic600",
+   "seed": 2535912452
+  },
+  "aisle": {
+   "word": "aisle",
+   "level": "toeic730",
+   "seed": 1484329047
+  },
+  "alert": {
+   "word": "alert",
+   "level": "toeic860",
+   "seed": 2401090166
+  },
+  "align": {
+   "word": "align",
+   "level": "toeic730",
+   "seed": 2921449034
+  },
+  "alignment": {
+   "word": "alignment",
+   "level": "toeic860",
+   "seed": 98560741
+  },
+  "allergic": {
+   "word": "allergic",
+   "level": "toeic600",
+   "seed": 1320942307
+  },
+  "allocate": {
+   "word": "allocate",
+   "level": "toeic730",
+   "seed": 2055317552
+  },
+  "allot": {
+   "word": "allot",
+   "level": "toeic860",
+   "seed": 3558477591
+  },
+  "allotment": {
+   "word": "allotment",
+   "level": "toeic860",
+   "seed": 2431847655
+  },
+  "alongside": {
+   "word": "alongside",
+   "level": "toeic730",
+   "seed": 1421985422
+  },
+  "alternatively": {
+   "word": "alternatively",
+   "level": "toeic730",
+   "seed": 1222679106
+  },
+  "amalgamate": {
+   "word": "amalgamate",
+   "level": "toeic860",
+   "seed": 3142607577
+  },
+  "amenable": {
+   "word": "amenable",
+   "level": "toeic860",
+   "seed": 3698608996
+  },
+  "amenity": {
+   "word": "amenity",
+   "level": "toeic730",
+   "seed": 2097987945
+  },
+  "amortize": {
+   "word": "amortize",
+   "level": "toeic860",
+   "seed": 3755670000
+  },
+  "announce": {
+   "word": "announce",
+   "level": "toeic600",
+   "seed": 1253920668
+  },
+  "annual": {
+   "word": "annual",
+   "level": "toeic600",
+   "seed": 2164222421
+  },
+  "annul": {
+   "word": "annul",
+   "level": "toeic860",
+   "seed": 2262269181
+  },
+  "antagonize": {
+   "word": "antagonize",
+   "level": "toeic860",
+   "seed": 3768208400
+  },
+  "anticipate": {
+   "word": "anticipate",
+   "level": "toeic730",
+   "seed": 1304624604
+  },
+  "antiquated": {
+   "word": "antiquated",
+   "level": "toeic860",
+   "seed": 4242419719
+  },
+  "antitrust": {
+   "word": "antitrust",
+   "level": "toeic860",
+   "seed": 2616993998
+  },
+  "apologize": {
+   "word": "apologize",
+   "level": "toeic600",
+   "seed": 835698852
+  },
+  "apparel": {
+   "word": "apparel",
+   "level": "toeic730",
+   "seed": 1257059734
+  },
+  "appealing": {
+   "word": "appealing",
+   "level": "toeic860",
+   "seed": 3642325300
+  },
+  "appetizer": {
+   "word": "appetizer",
+   "level": "toeic600",
+   "seed": 2506212556
+  },
+  "applicable": {
+   "word": "applicable",
+   "level": "toeic730",
+   "seed": 355511003
+  },
+  "applicant": {
+   "word": "applicant",
+   "level": "toeic860",
+   "seed": 4087684105
+  },
+  "application": {
+   "word": "application",
+   "level": "toeic600",
+   "seed": 3523239106
+  },
+  "appoint": {
+   "word": "appoint",
+   "level": "toeic600",
+   "seed": 455762491
+  },
+  "appointment": {
+   "word": "appointment",
+   "level": "toeic600",
+   "seed": 3644755692
+  },
+  "appraisal": {
+   "word": "appraisal",
+   "level": "toeic860",
+   "seed": 3956602178
+  },
+  "appraise": {
+   "word": "appraise",
+   "level": "toeic860",
+   "seed": 1426230977
+  },
+  "appreciation": {
+   "word": "appreciation",
+   "level": "toeic860",
+   "seed": 3447957418
+  },
+  "apprentice": {
+   "word": "apprentice",
+   "level": "toeic730",
+   "seed": 2791443087
+  },
+  "appropriation": {
+   "word": "appropriation",
+   "level": "toeic860",
+   "seed": 4061844447
+  },
+  "approval": {
+   "word": "approval",
+   "level": "toeic600",
+   "seed": 1497974421
+  },
+  "approve": {
+   "word": "approve",
+   "level": "toeic600",
+   "seed": 3833105290
+  },
+  "approximately": {
+   "word": "approximately",
+   "level": "toeic600",
+   "seed": 939697805
+  },
+  "aptitude": {
+   "word": "aptitude",
+   "level": "toeic860",
+   "seed": 1074482687
+  },
+  "arbitrate": {
+   "word": "arbitrate",
+   "level": "toeic860",
+   "seed": 3991119575
+  },
+  "arbitration": {
+   "word": "arbitration",
+   "level": "toeic730",
+   "seed": 2493984884
+  },
+  "arrange": {
+   "word": "arrange",
+   "level": "toeic600",
+   "seed": 2568932607
+  },
+  "array": {
+   "word": "array",
+   "level": "toeic730",
+   "seed": 435011873
+  },
+  "arrears": {
+   "word": "arrears",
+   "level": "toeic860",
+   "seed": 3195663444
+  },
+  "arrival": {
+   "word": "arrival",
+   "level": "toeic600",
+   "seed": 2033444229
+  },
+  "arrive": {
+   "word": "arrive",
+   "level": "toeic600",
+   "seed": 372244962
+  },
+  "assess": {
+   "word": "assess",
+   "level": "toeic730",
+   "seed": 3910174346
+  },
+  "asset": {
+   "word": "asset",
+   "level": "toeic730",
+   "seed": 100321603
+  },
+  "assign": {
+   "word": "assign",
+   "level": "toeic600",
+   "seed": 2416555824
+  },
+  "assist": {
+   "word": "assist",
+   "level": "toeic600",
+   "seed": 3786946676
+  },
+  "assistant": {
+   "word": "assistant",
+   "level": "toeic600",
+   "seed": 665411883
+  },
+  "astute": {
+   "word": "astute",
+   "level": "toeic860",
+   "seed": 3377844289
+  },
+  "atmosphere": {
+   "word": "atmosphere",
+   "level": "toeic600",
+   "seed": 4288871367
+  },
+  "attach": {
+   "word": "attach",
+   "level": "toeic600",
+   "seed": 332269343
+  },
+  "attainable": {
+   "word": "attainable",
+   "level": "toeic860",
+   "seed": 1680234362
+  },
+  "attend": {
+   "word": "attend",
+   "level": "toeic600",
+   "seed": 1611608348
+  },
+  "attendance": {
+   "word": "attendance",
+   "level": "toeic600",
+   "seed": 4128981940
+  },
+  "attendee": {
+   "word": "attendee",
+   "level": "toeic730",
+   "seed": 268005264
+  },
+  "attest": {
+   "word": "attest",
+   "level": "toeic860",
+   "seed": 911858074
+  },
+  "attractive": {
+   "word": "attractive",
+   "level": "toeic600",
+   "seed": 2394725290
+  },
+  "attrition": {
+   "word": "attrition",
+   "level": "toeic860",
+   "seed": 1357538782
+  },
+  "audit": {
+   "word": "audit",
+   "level": "toeic730",
+   "seed": 2021004602
+  },
+  "augur": {
+   "word": "augur",
+   "level": "toeic860",
+   "seed": 1364181255
+  },
+  "austerity": {
+   "word": "austerity",
+   "level": "toeic860",
+   "seed": 1848277242
+  },
+  "authorize": {
+   "word": "authorize",
+   "level": "toeic730",
+   "seed": 544797639
+  },
+  "autonomy": {
+   "word": "autonomy",
+   "level": "toeic860",
+   "seed": 1156201113
+  },
+  "avail": {
+   "word": "avail",
+   "level": "toeic860",
+   "seed": 626939412
+  },
+  "availability": {
+   "word": "availability",
+   "level": "toeic730",
+   "seed": 4072781677
+  },
+  "available": {
+   "word": "available",
+   "level": "toeic600",
+   "seed": 2065898064
+  },
+  "await": {
+   "word": "await",
+   "level": "toeic600",
+   "seed": 806455969
+  },
+  "backlog": {
+   "word": "backlog",
+   "level": "toeic730",
+   "seed": 4288581406
+  },
+  "badge": {
+   "word": "badge",
+   "level": "toeic600",
+   "seed": 2913744966
+  },
+  "baggage": {
+   "word": "baggage",
+   "level": "toeic600",
+   "seed": 4273283728
+  },
+  "bailout": {
+   "word": "bailout",
+   "level": "toeic860",
+   "seed": 2993683085
+  },
+  "banker": {
+   "word": "banker",
+   "level": "toeic730",
+   "seed": 221862842
+  },
+  "banking": {
+   "word": "banking",
+   "level": "toeic730",
+   "seed": 751741426
+  },
+  "bankruptcy": {
+   "word": "bankruptcy",
+   "level": "toeic730",
+   "seed": 1005365086
+  },
+  "banner": {
+   "word": "banner",
+   "level": "toeic860",
+   "seed": 939080199
+  },
+  "banquet": {
+   "word": "banquet",
+   "level": "toeic730",
+   "seed": 541115321
+  },
+  "bearer": {
+   "word": "bearer",
+   "level": "toeic730",
+   "seed": 3719481662
+  },
+  "bearish": {
+   "word": "bearish",
+   "level": "toeic860",
+   "seed": 3945544612
+  },
+  "beforehand": {
+   "word": "beforehand",
+   "level": "toeic730",
+   "seed": 124760456
+  },
+  "behalf": {
+   "word": "behalf",
+   "level": "toeic730",
+   "seed": 1169838344
+  },
+  "belated": {
+   "word": "belated",
+   "level": "toeic860",
+   "seed": 575386150
+  },
+  "benchmark": {
+   "word": "benchmark",
+   "level": "toeic600",
+   "seed": 4231586990
+  },
+  "benchmarking": {
+   "word": "benchmarking",
+   "level": "toeic860",
+   "seed": 2481714357
+  },
+  "beneficiary": {
+   "word": "beneficiary",
+   "level": "toeic730",
+   "seed": 2913366369
+  },
+  "benefit": {
+   "word": "benefit",
+   "level": "toeic600",
+   "seed": 556008316
+  },
+  "beverage": {
+   "word": "beverage",
+   "level": "toeic600",
+   "seed": 2713646542
+  },
+  "bid": {
+   "word": "bid",
+   "level": "toeic730",
+   "seed": 2791175945
+  },
+  "bilateral": {
+   "word": "bilateral",
+   "level": "toeic860",
+   "seed": 2248206377
+  },
+  "bill": {
+   "word": "bill",
+   "level": "toeic600",
+   "seed": 3331511969
+  },
+  "billion": {
+   "word": "billion",
+   "level": "toeic600",
+   "seed": 2869479175
+  },
+  "binding": {
+   "word": "binding",
+   "level": "toeic860",
+   "seed": 1251981529
+  },
+  "board": {
+   "word": "board",
+   "level": "toeic600",
+   "seed": 2661673341
+  },
+  "boarding": {
+   "word": "boarding",
+   "level": "toeic600",
+   "seed": 1874131943
+  },
+  "bolster": {
+   "word": "bolster",
+   "level": "toeic730",
+   "seed": 1744977045
+  },
+  "bond": {
+   "word": "bond",
+   "level": "toeic730",
+   "seed": 489405021
+  },
+  "bonus": {
+   "word": "bonus",
+   "level": "toeic600",
+   "seed": 1473920507
+  },
+  "boom": {
+   "word": "boom",
+   "level": "toeic730",
+   "seed": 3309121306
+  },
+  "booming": {
+   "word": "booming",
+   "level": "toeic730",
+   "seed": 1500071210
+  },
+  "booth": {
+   "word": "booth",
+   "level": "toeic600",
+   "seed": 2459878538
+  },
+  "borrower": {
+   "word": "borrower",
+   "level": "toeic730",
+   "seed": 3280079788
+  },
+  "borrowing": {
+   "word": "borrowing",
+   "level": "toeic860",
+   "seed": 3160613919
+  },
+  "bottleneck": {
+   "word": "bottleneck",
+   "level": "toeic730",
+   "seed": 2494446388
+  },
+  "bracket": {
+   "word": "bracket",
+   "level": "toeic860",
+   "seed": 3654253486
+  },
+  "brainstorm": {
+   "word": "brainstorm",
+   "level": "toeic730",
+   "seed": 1318389130
+  },
+  "branch": {
+   "word": "branch",
+   "level": "toeic600",
+   "seed": 282539493
+  },
+  "brand": {
+   "word": "brand",
+   "level": "toeic600",
+   "seed": 1672279692
+  },
+  "breach": {
+   "word": "breach",
+   "level": "toeic860",
+   "seed": 2834503364
+  },
+  "breakdown": {
+   "word": "breakdown",
+   "level": "toeic730",
+   "seed": 126471225
+  },
+  "breakthrough": {
+   "word": "breakthrough",
+   "level": "toeic600",
+   "seed": 1497044364
+  },
+  "breakup": {
+   "word": "breakup",
+   "level": "toeic860",
+   "seed": 1872031039
+  },
+  "brisk": {
+   "word": "brisk",
+   "level": "toeic730",
+   "seed": 1161428813
+  },
+  "brochure": {
+   "word": "brochure",
+   "level": "toeic600",
+   "seed": 906297358
+  },
+  "broke": {
+   "word": "broke",
+   "level": "toeic730",
+   "seed": 2771518595
+  },
+  "brokerage": {
+   "word": "brokerage",
+   "level": "toeic860",
+   "seed": 3144663326
+  },
+  "budget": {
+   "word": "budget",
+   "level": "toeic600",
+   "seed": 2179245394
+  },
+  "buffer": {
+   "word": "buffer",
+   "level": "toeic860",
+   "seed": 3845926561
+  },
+  "buffet": {
+   "word": "buffet",
+   "level": "toeic600",
+   "seed": 1832936281
+  },
+  "bulk": {
+   "word": "bulk",
+   "level": "toeic730",
+   "seed": 2225493679
+  },
+  "bulky": {
+   "word": "bulky",
+   "level": "toeic860",
+   "seed": 2599784966
+  },
+  "bullish": {
+   "word": "bullish",
+   "level": "toeic860",
+   "seed": 477669248
+  },
+  "bundle": {
+   "word": "bundle",
+   "level": "toeic860",
+   "seed": 3583481310
+  },
+  "buoyant": {
+   "word": "buoyant",
+   "level": "toeic860",
+   "seed": 2029762877
+  },
+  "burdensome": {
+   "word": "burdensome",
+   "level": "toeic860",
+   "seed": 3877454311
+  },
+  "burnout": {
+   "word": "burnout",
+   "level": "toeic860",
+   "seed": 1210694380
+  },
+  "buzzword": {
+   "word": "buzzword",
+   "level": "toeic860",
+   "seed": 1323644414
+  },
+  "bypass": {
+   "word": "bypass",
+   "level": "toeic730",
+   "seed": 1564051694
+  },
+  "cab": {
+   "word": "cab",
+   "level": "toeic600",
+   "seed": 160342138
+  },
+  "cafeteria": {
+   "word": "cafeteria",
+   "level": "toeic600",
+   "seed": 2430637194
+  },
+  "calendar": {
+   "word": "calendar",
+   "level": "toeic600",
+   "seed": 3841961146
+  },
+  "caliber": {
+   "word": "caliber",
+   "level": "toeic860",
+   "seed": 1106454182
+  },
+  "campaign": {
+   "word": "campaign",
+   "level": "toeic600",
+   "seed": 603208425
+  },
+  "cancel": {
+   "word": "cancel",
+   "level": "toeic600",
+   "seed": 1339057468
+  },
+  "cancellation": {
+   "word": "cancellation",
+   "level": "toeic730",
+   "seed": 55563825
+  },
+  "candidate": {
+   "word": "candidate",
+   "level": "toeic600",
+   "seed": 644794433
+  },
+  "canny": {
+   "word": "canny",
+   "level": "toeic860",
+   "seed": 2969474784
+  },
+  "capacity": {
+   "word": "capacity",
+   "level": "toeic730",
+   "seed": 2092037485
+  },
+  "capitalize": {
+   "word": "capitalize",
+   "level": "toeic730",
+   "seed": 3491378199
+  },
+  "career": {
+   "word": "career",
+   "level": "toeic600",
+   "seed": 636940371
+  },
+  "cargo": {
+   "word": "cargo",
+   "level": "toeic600",
+   "seed": 3772165724
+  },
+  "cash": {
+   "word": "cash",
+   "level": "toeic600",
+   "seed": 2739701258
+  },
+  "catalog": {
+   "word": "catalog",
+   "level": "toeic600",
+   "seed": 1104853735
+  },
+  "catchy": {
+   "word": "catchy",
+   "level": "toeic860",
+   "seed": 2959218347
+  },
+  "catering": {
+   "word": "catering",
+   "level": "toeic730",
+   "seed": 2621512327
+  },
+  "cease": {
+   "word": "cease",
+   "level": "toeic600",
+   "seed": 3835897501
+  },
+  "ceremony": {
+   "word": "ceremony",
+   "level": "toeic600",
+   "seed": 2465190097
+  },
+  "certified": {
+   "word": "certified",
+   "level": "toeic860",
+   "seed": 73949205
+  },
+  "certify": {
+   "word": "certify",
+   "level": "toeic730",
+   "seed": 1064775285
+  },
+  "chain": {
+   "word": "chain",
+   "level": "toeic600",
+   "seed": 754339396
+  },
+  "chairman": {
+   "word": "chairman",
+   "level": "toeic600",
+   "seed": 1814519125
+  },
+  "chairperson": {
+   "word": "chairperson",
+   "level": "toeic600",
+   "seed": 920168228
+  },
+  "charge": {
+   "word": "charge",
+   "level": "toeic600",
+   "seed": 1588183880
+  },
+  "chart": {
+   "word": "chart",
+   "level": "toeic600",
+   "seed": 3089842360
+  },
+  "cheap": {
+   "word": "cheap",
+   "level": "toeic600",
+   "seed": 4220384282
+  },
+  "checkout": {
+   "word": "checkout",
+   "level": "toeic600",
+   "seed": 3578338942
+  },
+  "chief": {
+   "word": "chief",
+   "level": "toeic600",
+   "seed": 3299883216
+  },
+  "circumvent": {
+   "word": "circumvent",
+   "level": "toeic860",
+   "seed": 1478969964
+  },
+  "clarification": {
+   "word": "clarification",
+   "level": "toeic860",
+   "seed": 4137841308
+  },
+  "clarify": {
+   "word": "clarify",
+   "level": "toeic730",
+   "seed": 4019185538
+  },
+  "clause": {
+   "word": "clause",
+   "level": "toeic730",
+   "seed": 1281132831
+  },
+  "clearance": {
+   "word": "clearance",
+   "level": "toeic730",
+   "seed": 4290869633
+  },
+  "clerk": {
+   "word": "clerk",
+   "level": "toeic600",
+   "seed": 4086161973
+  },
+  "client": {
+   "word": "client",
+   "level": "toeic600",
+   "seed": 3533720945
+  },
+  "clientele": {
+   "word": "clientele",
+   "level": "toeic860",
+   "seed": 516174042
+  },
+  "closure": {
+   "word": "closure",
+   "level": "toeic730",
+   "seed": 3499216636
+  },
+  "cognizant": {
+   "word": "cognizant",
+   "level": "toeic860",
+   "seed": 1022573468
+  },
+  "collaborate": {
+   "word": "collaborate",
+   "level": "toeic730",
+   "seed": 3532086816
+  },
+  "collapse": {
+   "word": "collapse",
+   "level": "toeic730",
+   "seed": 2262024118
+  },
+  "collateral": {
+   "word": "collateral",
+   "level": "toeic730",
+   "seed": 4228363599
+  },
+  "collateralize": {
+   "word": "collateralize",
+   "level": "toeic860",
+   "seed": 3210031948
+  },
+  "colleague": {
+   "word": "colleague",
+   "level": "toeic600",
+   "seed": 2900784427
+  },
+  "collude": {
+   "word": "collude",
+   "level": "toeic860",
+   "seed": 2585310078
+  },
+  "collusion": {
+   "word": "collusion",
+   "level": "toeic860",
+   "seed": 1285369981
+  },
+  "commence": {
+   "word": "commence",
+   "level": "toeic730",
+   "seed": 1355153228
+  },
+  "commend": {
+   "word": "commend",
+   "level": "toeic860",
+   "seed": 378702354
+  },
+  "commerce": {
+   "word": "commerce",
+   "level": "toeic600",
+   "seed": 455113635
+  },
+  "commercial": {
+   "word": "commercial",
+   "level": "toeic860",
+   "seed": 4176433920
+  },
+  "commission": {
+   "word": "commission",
+   "level": "toeic730",
+   "seed": 4047032031
+  },
+  "commitment": {
+   "word": "commitment",
+   "level": "toeic730",
+   "seed": 2902886741
+  },
+  "committee": {
+   "word": "committee",
+   "level": "toeic600",
+   "seed": 4205269794
+  },
+  "commodity": {
+   "word": "commodity",
+   "level": "toeic860",
+   "seed": 315289093
+  },
+  "communicate": {
+   "word": "communicate",
+   "level": "toeic600",
+   "seed": 1253201291
+  },
+  "commute": {
+   "word": "commute",
+   "level": "toeic600",
+   "seed": 341523869
+  },
+  "comparative": {
+   "word": "comparative",
+   "level": "toeic860",
+   "seed": 3767093751
+  },
+  "compartment": {
+   "word": "compartment",
+   "level": "toeic730",
+   "seed": 2482369124
+  },
+  "compensation": {
+   "word": "compensation",
+   "level": "toeic730",
+   "seed": 2898675430
+  },
+  "compensatory": {
+   "word": "compensatory",
+   "level": "toeic860",
+   "seed": 3810462139
+  },
+  "compete": {
+   "word": "compete",
+   "level": "toeic600",
+   "seed": 1968335089
+  },
+  "competency": {
+   "word": "competency",
+   "level": "toeic860",
+   "seed": 1569990211
+  },
+  "competent": {
+   "word": "competent",
+   "level": "toeic860",
+   "seed": 1344665379
+  },
+  "competitive": {
+   "word": "competitive",
+   "level": "toeic600",
+   "seed": 3014728060
+  },
+  "competitiveness": {
+   "word": "competitiveness",
+   "level": "toeic730",
+   "seed": 3937534730
+  },
+  "competitor": {
+   "word": "competitor",
+   "level": "toeic730",
+   "seed": 1377057899
+  },
+  "compile": {
+   "word": "compile",
+   "level": "toeic860",
+   "seed": 919640091
+  },
+  "complacency": {
+   "word": "complacency",
+   "level": "toeic860",
+   "seed": 4103077278
+  },
+  "complacent": {
+   "word": "complacent",
+   "level": "toeic860",
+   "seed": 3701854461
+  },
+  "complain": {
+   "word": "complain",
+   "level": "toeic600",
+   "seed": 1787910018
+  },
+  "complaint": {
+   "word": "complaint",
+   "level": "toeic600",
+   "seed": 2419421615
+  },
+  "complementary": {
+   "word": "complementary",
+   "level": "toeic860",
+   "seed": 3345384255
+  },
+  "compliance": {
+   "word": "compliance",
+   "level": "toeic730",
+   "seed": 57456437
+  },
+  "compliant": {
+   "word": "compliant",
+   "level": "toeic860",
+   "seed": 401806695
+  },
+  "complimentary": {
+   "word": "complimentary",
+   "level": "toeic730",
+   "seed": 2761348143
+  },
+  "comply": {
+   "word": "comply",
+   "level": "toeic860",
+   "seed": 2161003923
+  },
+  "comprehensive": {
+   "word": "comprehensive",
+   "level": "toeic730",
+   "seed": 2763255366
+  },
+  "concession": {
+   "word": "concession",
+   "level": "toeic860",
+   "seed": 3280368892
+  },
+  "concierge": {
+   "word": "concierge",
+   "level": "toeic730",
+   "seed": 988075381
+  },
+  "concise": {
+   "word": "concise",
+   "level": "toeic860",
+   "seed": 4127562434
+  },
+  "conditional": {
+   "word": "conditional",
+   "level": "toeic730",
+   "seed": 2377599057
+  },
+  "conference": {
+   "word": "conference",
+   "level": "toeic600",
+   "seed": 144664915
+  },
+  "confidential": {
+   "word": "confidential",
+   "level": "toeic730",
+   "seed": 858435458
+  },
+  "confirm": {
+   "word": "confirm",
+   "level": "toeic600",
+   "seed": 3502507132
+  },
+  "conglomerate": {
+   "word": "conglomerate",
+   "level": "toeic600",
+   "seed": 2784521535
+  },
+  "connection": {
+   "word": "connection",
+   "level": "toeic600",
+   "seed": 2168849862
+  },
+  "conscientious": {
+   "word": "conscientious",
+   "level": "toeic860",
+   "seed": 1761788015
+  },
+  "consensus": {
+   "word": "consensus",
+   "level": "toeic860",
+   "seed": 1326910826
+  },
+  "consent": {
+   "word": "consent",
+   "level": "toeic730",
+   "seed": 364255112
+  },
+  "consign": {
+   "word": "consign",
+   "level": "toeic860",
+   "seed": 1332434481
+  },
+  "consolidate": {
+   "word": "consolidate",
+   "level": "toeic600",
+   "seed": 1202135447
+  },
+  "consortium": {
+   "word": "consortium",
+   "level": "toeic860",
+   "seed": 1756987977
+  },
+  "constrain": {
+   "word": "constrain",
+   "level": "toeic730",
+   "seed": 1976349017
+  },
+  "constraint": {
+   "word": "constraint",
+   "level": "toeic730",
+   "seed": 2672119764
+  },
+  "consult": {
+   "word": "consult",
+   "level": "toeic600",
+   "seed": 420168539
+  },
+  "consultant": {
+   "word": "consultant",
+   "level": "toeic730",
+   "seed": 3712715231
+  },
+  "consultation": {
+   "word": "consultation",
+   "level": "toeic730",
+   "seed": 677614179
+  },
+  "consultative": {
+   "word": "consultative",
+   "level": "toeic860",
+   "seed": 3595248205
+  },
+  "consumer": {
+   "word": "consumer",
+   "level": "toeic600",
+   "seed": 3413803715
+  },
+  "contact": {
+   "word": "contact",
+   "level": "toeic600",
+   "seed": 443789214
+  },
+  "contingency": {
+   "word": "contingency",
+   "level": "toeic860",
+   "seed": 3316944091
+  },
+  "contingent": {
+   "word": "contingent",
+   "level": "toeic730",
+   "seed": 2184358488
+  },
+  "continuity": {
+   "word": "continuity",
+   "level": "toeic860",
+   "seed": 487017964
+  },
+  "contract": {
+   "word": "contract",
+   "level": "toeic600",
+   "seed": 3592219355
+  },
+  "contractor": {
+   "word": "contractor",
+   "level": "toeic730",
+   "seed": 2253243551
+  },
+  "convenience": {
+   "word": "convenience",
+   "level": "toeic600",
+   "seed": 4073580474
+  },
+  "convenient": {
+   "word": "convenient",
+   "level": "toeic600",
+   "seed": 601938235
+  },
+  "conventional": {
+   "word": "conventional",
+   "level": "toeic730",
+   "seed": 1348642362
+  },
+  "conversion": {
+   "word": "conversion",
+   "level": "toeic860",
+   "seed": 570074749
+  },
+  "cooperate": {
+   "word": "cooperate",
+   "level": "toeic600",
+   "seed": 2948400266
+  },
+  "coordinate": {
+   "word": "coordinate",
+   "level": "toeic730",
+   "seed": 3745742923
+  },
+  "coordination": {
+   "word": "coordination",
+   "level": "toeic730",
+   "seed": 3259168955
+  },
+  "coordinator": {
+   "word": "coordinator",
+   "level": "toeic730",
+   "seed": 2981777772
+  },
+  "copyright": {
+   "word": "copyright",
+   "level": "toeic730",
+   "seed": 1376978909
+  },
+  "corporate": {
+   "word": "corporate",
+   "level": "toeic730",
+   "seed": 3799437709
+  },
+  "correspondence": {
+   "word": "correspondence",
+   "level": "toeic730",
+   "seed": 4178960644
+  },
+  "cost": {
+   "word": "cost",
+   "level": "toeic730",
+   "seed": 2287846569
+  },
+  "costly": {
+   "word": "costly",
+   "level": "toeic730",
+   "seed": 3555745068
+  },
+  "counter": {
+   "word": "counter",
+   "level": "toeic600",
+   "seed": 1166513892
+  },
+  "counterfeit": {
+   "word": "counterfeit",
+   "level": "toeic730",
+   "seed": 4114063292
+  },
+  "countermeasure": {
+   "word": "countermeasure",
+   "level": "toeic860",
+   "seed": 166690390
+  },
+  "counterpart": {
+   "word": "counterpart",
+   "level": "toeic730",
+   "seed": 961864751
+  },
+  "counterproductive": {
+   "word": "counterproductive",
+   "level": "toeic730",
+   "seed": 3429776010
+  },
+  "coupon": {
+   "word": "coupon",
+   "level": "toeic600",
+   "seed": 4089997066
+  },
+  "courteous": {
+   "word": "courteous",
+   "level": "toeic860",
+   "seed": 2157256852
+  },
+  "covenant": {
+   "word": "covenant",
+   "level": "toeic860",
+   "seed": 893361648
+  },
+  "coverage": {
+   "word": "coverage",
+   "level": "toeic730",
+   "seed": 1840233718
+  },
+  "coworker": {
+   "word": "coworker",
+   "level": "toeic730",
+   "seed": 1780830765
+  },
+  "credentials": {
+   "word": "credentials",
+   "level": "toeic860",
+   "seed": 3573988690
+  },
+  "credit": {
+   "word": "credit",
+   "level": "toeic600",
+   "seed": 2633361357
+  },
+  "creditor": {
+   "word": "creditor",
+   "level": "toeic730",
+   "seed": 4198757409
+  },
+  "creditworthy": {
+   "word": "creditworthy",
+   "level": "toeic860",
+   "seed": 1289138756
+  },
+  "crippling": {
+   "word": "crippling",
+   "level": "toeic860",
+   "seed": 2008868504
+  },
+  "criterion": {
+   "word": "criterion",
+   "level": "toeic730",
+   "seed": 2906378202
+  },
+  "cuisine": {
+   "word": "cuisine",
+   "level": "toeic600",
+   "seed": 2811343899
+  },
+  "cultivate": {
+   "word": "cultivate",
+   "level": "toeic860",
+   "seed": 2784561975
+  },
+  "cumbersome": {
+   "word": "cumbersome",
+   "level": "toeic730",
+   "seed": 2982943273
+  },
+  "currency": {
+   "word": "currency",
+   "level": "toeic600",
+   "seed": 1382382
+  },
+  "current": {
+   "word": "current",
+   "level": "toeic600",
+   "seed": 1079686610
+  },
+  "currently": {
+   "word": "currently",
+   "level": "toeic600",
+   "seed": 85449749
+  },
+  "curtail": {
+   "word": "curtail",
+   "level": "toeic730",
+   "seed": 2684340157
+  },
+  "customer": {
+   "word": "customer",
+   "level": "toeic600",
+   "seed": 3013542030
+  },
+  "customs": {
+   "word": "customs",
+   "level": "toeic600",
+   "seed": 2918069559
+  },
+  "cybersecurity": {
+   "word": "cybersecurity",
+   "level": "toeic860",
+   "seed": 2029870252
+  },
+  "daunting": {
+   "word": "daunting",
+   "level": "toeic860",
+   "seed": 2507661078
+  },
+  "deadline": {
+   "word": "deadline",
+   "level": "toeic600",
+   "seed": 3795335629
+  },
+  "deadlock": {
+   "word": "deadlock",
+   "level": "toeic860",
+   "seed": 808554746
+  },
+  "deal": {
+   "word": "deal",
+   "level": "toeic600",
+   "seed": 1626709547
+  },
+  "dearth": {
+   "word": "dearth",
+   "level": "toeic860",
+   "seed": 1647975537
+  },
+  "debacle": {
+   "word": "debacle",
+   "level": "toeic860",
+   "seed": 1530294979
+  },
+  "debit": {
+   "word": "debit",
+   "level": "toeic730",
+   "seed": 3782032545
+  },
+  "debtor": {
+   "word": "debtor",
+   "level": "toeic730",
+   "seed": 829196549
+  },
+  "decisive": {
+   "word": "decisive",
+   "level": "toeic600",
+   "seed": 27425773
+  },
+  "declare": {
+   "word": "declare",
+   "level": "toeic600",
+   "seed": 2693860295
+  },
+  "deduct": {
+   "word": "deduct",
+   "level": "toeic730",
+   "seed": 2917903230
+  },
+  "deduction": {
+   "word": "deduction",
+   "level": "toeic730",
+   "seed": 625989282
+  },
+  "default": {
+   "word": "default",
+   "level": "toeic860",
+   "seed": 1963316810
+  },
+  "defer": {
+   "word": "defer",
+   "level": "toeic860",
+   "seed": 3536623937
+  },
+  "deflate": {
+   "word": "deflate",
+   "level": "toeic860",
+   "seed": 447316284
+  },
+  "deflect": {
+   "word": "deflect",
+   "level": "toeic860",
+   "seed": 2255273688
+  },
+  "delay": {
+   "word": "delay",
+   "level": "toeic600",
+   "seed": 2873511682
+  },
+  "delegate": {
+   "word": "delegate",
+   "level": "toeic730",
+   "seed": 1385385001
+  },
+  "delete": {
+   "word": "delete",
+   "level": "toeic600",
+   "seed": 2491783327
+  },
+  "delineate": {
+   "word": "delineate",
+   "level": "toeic860",
+   "seed": 1208605777
+  },
+  "delivery": {
+   "word": "delivery",
+   "level": "toeic600",
+   "seed": 958181856
+  },
+  "deluge": {
+   "word": "deluge",
+   "level": "toeic860",
+   "seed": 3156787108
+  },
+  "demand": {
+   "word": "demand",
+   "level": "toeic600",
+   "seed": 1237500425
+  },
+  "demise": {
+   "word": "demise",
+   "level": "toeic860",
+   "seed": 248831817
+  },
+  "demographic": {
+   "word": "demographic",
+   "level": "toeic730",
+   "seed": 1705664425
+  },
+  "demoralize": {
+   "word": "demoralize",
+   "level": "toeic860",
+   "seed": 2439141352
+  },
+  "denomination": {
+   "word": "denomination",
+   "level": "toeic860",
+   "seed": 1618453684
+  },
+  "depart": {
+   "word": "depart",
+   "level": "toeic600",
+   "seed": 343656321
+  },
+  "department": {
+   "word": "department",
+   "level": "toeic600",
+   "seed": 3946603113
+  },
+  "departure": {
+   "word": "departure",
+   "level": "toeic600",
+   "seed": 2394513710
+  },
+  "deploy": {
+   "word": "deploy",
+   "level": "toeic730",
+   "seed": 2966756255
+  },
+  "deposit": {
+   "word": "deposit",
+   "level": "toeic600",
+   "seed": 536577942
+  },
+  "depreciate": {
+   "word": "depreciate",
+   "level": "toeic860",
+   "seed": 1536928614
+  },
+  "depreciation": {
+   "word": "depreciation",
+   "level": "toeic860",
+   "seed": 686240933
+  },
+  "deputy": {
+   "word": "deputy",
+   "level": "toeic860",
+   "seed": 1969771668
+  },
+  "deregulation": {
+   "word": "deregulation",
+   "level": "toeic860",
+   "seed": 4054838006
+  },
+  "designate": {
+   "word": "designate",
+   "level": "toeic730",
+   "seed": 148962890
+  },
+  "dessert": {
+   "word": "dessert",
+   "level": "toeic600",
+   "seed": 4112075753
+  },
+  "destination": {
+   "word": "destination",
+   "level": "toeic600",
+   "seed": 217169028
+  },
+  "devalue": {
+   "word": "devalue",
+   "level": "toeic860",
+   "seed": 703518400
+  },
+  "devious": {
+   "word": "devious",
+   "level": "toeic860",
+   "seed": 1551825988
+  },
+  "devise": {
+   "word": "devise",
+   "level": "toeic730",
+   "seed": 3267656109
+  },
+  "devote": {
+   "word": "devote",
+   "level": "toeic600",
+   "seed": 1075260763
+  },
+  "dictate": {
+   "word": "dictate",
+   "level": "toeic600",
+   "seed": 2672480078
+  },
+  "dietary": {
+   "word": "dietary",
+   "level": "toeic730",
+   "seed": 2843452703
+  },
+  "differential": {
+   "word": "differential",
+   "level": "toeic860",
+   "seed": 196862116
+  },
+  "differentiate": {
+   "word": "differentiate",
+   "level": "toeic730",
+   "seed": 1308986554
+  },
+  "differentiation": {
+   "word": "differentiation",
+   "level": "toeic730",
+   "seed": 2688641072
+  },
+  "diligence": {
+   "word": "diligence",
+   "level": "toeic860",
+   "seed": 412301940
+  },
+  "diligently": {
+   "word": "diligently",
+   "level": "toeic860",
+   "seed": 2867510464
+  },
+  "directions": {
+   "word": "directions",
+   "level": "toeic600",
+   "seed": 746856817
+  },
+  "directly": {
+   "word": "directly",
+   "level": "toeic600",
+   "seed": 2051852274
+  },
+  "disband": {
+   "word": "disband",
+   "level": "toeic860",
+   "seed": 3020599352
+  },
+  "disbursement": {
+   "word": "disbursement",
+   "level": "toeic860",
+   "seed": 1253877863
+  },
+  "discard": {
+   "word": "discard",
+   "level": "toeic860",
+   "seed": 4118689798
+  },
+  "discontent": {
+   "word": "discontent",
+   "level": "toeic860",
+   "seed": 1507969469
+  },
+  "discontinue": {
+   "word": "discontinue",
+   "level": "toeic730",
+   "seed": 3798395639
+  },
+  "discount": {
+   "word": "discount",
+   "level": "toeic600",
+   "seed": 3295136271
+  },
+  "discourteous": {
+   "word": "discourteous",
+   "level": "toeic860",
+   "seed": 3927574670
+  },
+  "discrepancy": {
+   "word": "discrepancy",
+   "level": "toeic860",
+   "seed": 1052674643
+  },
+  "disembark": {
+   "word": "disembark",
+   "level": "toeic730",
+   "seed": 3467453301
+  },
+  "dismiss": {
+   "word": "dismiss",
+   "level": "toeic730",
+   "seed": 788700287
+  },
+  "dismissive": {
+   "word": "dismissive",
+   "level": "toeic860",
+   "seed": 3648608627
+  },
+  "dispel": {
+   "word": "dispel",
+   "level": "toeic860",
+   "seed": 1786111592
+  },
+  "dispense": {
+   "word": "dispense",
+   "level": "toeic860",
+   "seed": 482195857
+  },
+  "display": {
+   "word": "display",
+   "level": "toeic600",
+   "seed": 1504807175
+  },
+  "disposable": {
+   "word": "disposable",
+   "level": "toeic860",
+   "seed": 357195410
+  },
+  "disproportionate": {
+   "word": "disproportionate",
+   "level": "toeic860",
+   "seed": 4211681862
+  },
+  "dispute": {
+   "word": "dispute",
+   "level": "toeic730",
+   "seed": 3486021812
+  },
+  "disreputable": {
+   "word": "disreputable",
+   "level": "toeic860",
+   "seed": 1177429574
+  },
+  "disrupt": {
+   "word": "disrupt",
+   "level": "toeic730",
+   "seed": 3280372554
+  },
+  "disruption": {
+   "word": "disruption",
+   "level": "toeic860",
+   "seed": 783809998
+  },
+  "dissatisfaction": {
+   "word": "dissatisfaction",
+   "level": "toeic860",
+   "seed": 372120602
+  },
+  "disseminate": {
+   "word": "disseminate",
+   "level": "toeic860",
+   "seed": 1216349715
+  },
+  "distribute": {
+   "word": "distribute",
+   "level": "toeic600",
+   "seed": 3645209320
+  },
+  "distribution": {
+   "word": "distribution",
+   "level": "toeic730",
+   "seed": 3338386632
+  },
+  "divergence": {
+   "word": "divergence",
+   "level": "toeic860",
+   "seed": 2632229894
+  },
+  "diversification": {
+   "word": "diversification",
+   "level": "toeic600",
+   "seed": 3336209301
+  },
+  "diversified": {
+   "word": "diversified",
+   "level": "toeic730",
+   "seed": 3754259506
+  },
+  "diversify": {
+   "word": "diversify",
+   "level": "toeic730",
+   "seed": 1476834890
+  },
+  "divest": {
+   "word": "divest",
+   "level": "toeic860",
+   "seed": 1367876731
+  },
+  "dividend": {
+   "word": "dividend",
+   "level": "toeic730",
+   "seed": 1651223287
+  },
+  "division": {
+   "word": "division",
+   "level": "toeic730",
+   "seed": 1339644464
+  },
+  "divulge": {
+   "word": "divulge",
+   "level": "toeic860",
+   "seed": 3165732614
+  },
+  "dock": {
+   "word": "dock",
+   "level": "toeic600",
+   "seed": 3681016863
+  },
+  "document": {
+   "word": "document",
+   "level": "toeic600",
+   "seed": 1333950664
+  },
+  "documentation": {
+   "word": "documentation",
+   "level": "toeic730",
+   "seed": 3123320400
+  },
+  "dogged": {
+   "word": "dogged",
+   "level": "toeic860",
+   "seed": 2727114656
+  },
+  "domain": {
+   "word": "domain",
+   "level": "toeic730",
+   "seed": 2434816014
+  },
+  "domestic": {
+   "word": "domestic",
+   "level": "toeic600",
+   "seed": 2628288983
+  },
+  "dominance": {
+   "word": "dominance",
+   "level": "toeic600",
+   "seed": 3059047097
+  },
+  "dominate": {
+   "word": "dominate",
+   "level": "toeic730",
+   "seed": 2449777165
+  },
+  "domineering": {
+   "word": "domineering",
+   "level": "toeic860",
+   "seed": 70184313
+  },
+  "double": {
+   "word": "double",
+   "level": "toeic600",
+   "seed": 3182652338
+  },
+  "downside": {
+   "word": "downside",
+   "level": "toeic860",
+   "seed": 722996658
+  },
+  "downsize": {
+   "word": "downsize",
+   "level": "toeic600",
+   "seed": 3952941960
+  },
+  "downsizing": {
+   "word": "downsizing",
+   "level": "toeic860",
+   "seed": 2190945181
+  },
+  "downturn": {
+   "word": "downturn",
+   "level": "toeic730",
+   "seed": 274751515
+  },
+  "downward": {
+   "word": "downward",
+   "level": "toeic730",
+   "seed": 3582389187
+  },
+  "draft": {
+   "word": "draft",
+   "level": "toeic600",
+   "seed": 242706100
+  },
+  "duplicate": {
+   "word": "duplicate",
+   "level": "toeic860",
+   "seed": 1582093823
+  },
+  "durable": {
+   "word": "durable",
+   "level": "toeic860",
+   "seed": 1745013597
+  },
+  "duration": {
+   "word": "duration",
+   "level": "toeic860",
+   "seed": 1564423243
+  },
+  "dynamic": {
+   "word": "dynamic",
+   "level": "toeic730",
+   "seed": 1414668805
+  },
+  "dynamism": {
+   "word": "dynamism",
+   "level": "toeic860",
+   "seed": 527402655
+  },
+  "earn": {
+   "word": "earn",
+   "level": "toeic730",
+   "seed": 2926068874
+  },
+  "earnings": {
+   "word": "earnings",
+   "level": "toeic730",
+   "seed": 2438602270
+  },
+  "efficiency": {
+   "word": "efficiency",
+   "level": "toeic730",
+   "seed": 4294131195
+  },
+  "efficient": {
+   "word": "efficient",
+   "level": "toeic600",
+   "seed": 2233986487
+  },
+  "efficiently": {
+   "word": "efficiently",
+   "level": "toeic730",
+   "seed": 1383325519
+  },
+  "elevate": {
+   "word": "elevate",
+   "level": "toeic860",
+   "seed": 1243155442
+  },
+  "eligible": {
+   "word": "eligible",
+   "level": "toeic730",
+   "seed": 1590283058
+  },
+  "embargo": {
+   "word": "embargo",
+   "level": "toeic860",
+   "seed": 1082415417
+  },
+  "embezzle": {
+   "word": "embezzle",
+   "level": "toeic860",
+   "seed": 821776225
+  },
+  "emerge": {
+   "word": "emerge",
+   "level": "toeic730",
+   "seed": 87786718
+  },
+  "emergency": {
+   "word": "emergency",
+   "level": "toeic600",
+   "seed": 2763477375
+  },
+  "emphasis": {
+   "word": "emphasis",
+   "level": "toeic860",
+   "seed": 2900428611
+  },
+  "employ": {
+   "word": "employ",
+   "level": "toeic600",
+   "seed": 2299889244
+  },
+  "employee": {
+   "word": "employee",
+   "level": "toeic600",
+   "seed": 3404931824
+  },
+  "employer": {
+   "word": "employer",
+   "level": "toeic600",
+   "seed": 1892351099
+  },
+  "empower": {
+   "word": "empower",
+   "level": "toeic600",
+   "seed": 4031944480
+  },
+  "emulate": {
+   "word": "emulate",
+   "level": "toeic860",
+   "seed": 2265606633
+  },
+  "enable": {
+   "word": "enable",
+   "level": "toeic600",
+   "seed": 2567291705
+  },
+  "enclose": {
+   "word": "enclose",
+   "level": "toeic730",
+   "seed": 324213079
+  },
+  "encompass": {
+   "word": "encompass",
+   "level": "toeic860",
+   "seed": 3076527639
+  },
+  "endeavor": {
+   "word": "endeavor",
+   "level": "toeic730",
+   "seed": 746909530
+  },
+  "endorse": {
+   "word": "endorse",
+   "level": "toeic730",
+   "seed": 450240797
+  },
+  "endorsement": {
+   "word": "endorsement",
+   "level": "toeic860",
+   "seed": 2606985815
+  },
+  "endowment": {
+   "word": "endowment",
+   "level": "toeic860",
+   "seed": 1311231479
+  },
+  "enforce": {
+   "word": "enforce",
+   "level": "toeic730",
+   "seed": 163233225
+  },
+  "enforceable": {
+   "word": "enforceable",
+   "level": "toeic860",
+   "seed": 1823907160
+  },
+  "engage": {
+   "word": "engage",
+   "level": "toeic600",
+   "seed": 2104658357
+  },
+  "enterprise": {
+   "word": "enterprise",
+   "level": "toeic730",
+   "seed": 86653974
+  },
+  "entertain": {
+   "word": "entertain",
+   "level": "toeic600",
+   "seed": 1386259906
+  },
+  "entice": {
+   "word": "entice",
+   "level": "toeic860",
+   "seed": 1832831961
+  },
+  "entity": {
+   "word": "entity",
+   "level": "toeic860",
+   "seed": 3876676371
+  },
+  "entree": {
+   "word": "entree",
+   "level": "toeic730",
+   "seed": 242583184
+  },
+  "entrepreneur": {
+   "word": "entrepreneur",
+   "level": "toeic730",
+   "seed": 812003806
+  },
+  "entrust": {
+   "word": "entrust",
+   "level": "toeic860",
+   "seed": 3046860320
+  },
+  "entry": {
+   "word": "entry",
+   "level": "toeic600",
+   "seed": 1640239756
+  },
+  "envisage": {
+   "word": "envisage",
+   "level": "toeic860",
+   "seed": 395058513
+  },
+  "envision": {
+   "word": "envision",
+   "level": "toeic730",
+   "seed": 713358220
+  },
+  "equip": {
+   "word": "equip",
+   "level": "toeic600",
+   "seed": 3089619367
+  },
+  "equipment": {
+   "word": "equipment",
+   "level": "toeic600",
+   "seed": 3202139150
+  },
+  "equity": {
+   "word": "equity",
+   "level": "toeic730",
+   "seed": 1823086883
+  },
+  "escrow": {
+   "word": "escrow",
+   "level": "toeic860",
+   "seed": 3605011105
+  },
+  "estimate": {
+   "word": "estimate",
+   "level": "toeic600",
+   "seed": 3409955349
+  },
+  "ethos": {
+   "word": "ethos",
+   "level": "toeic860",
+   "seed": 488550474
+  },
+  "evade": {
+   "word": "evade",
+   "level": "toeic860",
+   "seed": 1443179171
+  },
+  "evaluate": {
+   "word": "evaluate",
+   "level": "toeic730",
+   "seed": 923345231
+  },
+  "evasion": {
+   "word": "evasion",
+   "level": "toeic860",
+   "seed": 926667389
+  },
+  "exaggerate": {
+   "word": "exaggerate",
+   "level": "toeic860",
+   "seed": 341947003
+  },
+  "excess": {
+   "word": "excess",
+   "level": "toeic600",
+   "seed": 1650902491
+  },
+  "exchange": {
+   "word": "exchange",
+   "level": "toeic600",
+   "seed": 2739502910
+  },
+  "exclusive": {
+   "word": "exclusive",
+   "level": "toeic730",
+   "seed": 874446500
+  },
+  "exclusively": {
+   "word": "exclusively",
+   "level": "toeic730",
+   "seed": 488692149
+  },
+  "execute": {
+   "word": "execute",
+   "level": "toeic730",
+   "seed": 967739872
+  },
+  "execution": {
+   "word": "execution",
+   "level": "toeic730",
+   "seed": 505497413
+  },
+  "executive": {
+   "word": "executive",
+   "level": "toeic730",
+   "seed": 2628257209
+  },
+  "exemplary": {
+   "word": "exemplary",
+   "level": "toeic860",
+   "seed": 3173460242
+  },
+  "exempt": {
+   "word": "exempt",
+   "level": "toeic860",
+   "seed": 1756612712
+  },
+  "exemption": {
+   "word": "exemption",
+   "level": "toeic860",
+   "seed": 2046152668
+  },
+  "exhibit": {
+   "word": "exhibit",
+   "level": "toeic600",
+   "seed": 3619563151
+  },
+  "exhibition": {
+   "word": "exhibition",
+   "level": "toeic600",
+   "seed": 3205335216
+  },
+  "exhibitor": {
+   "word": "exhibitor",
+   "level": "toeic600",
+   "seed": 2587717899
+  },
+  "exorbitant": {
+   "word": "exorbitant",
+   "level": "toeic860",
+   "seed": 1748810462
+  },
+  "expand": {
+   "word": "expand",
+   "level": "toeic600",
+   "seed": 200298050
+  },
+  "expanding": {
+   "word": "expanding",
+   "level": "toeic730",
+   "seed": 1889920888
+  },
+  "expansion": {
+   "word": "expansion",
+   "level": "toeic600",
+   "seed": 1117161641
+  },
+  "expansive": {
+   "word": "expansive",
+   "level": "toeic860",
+   "seed": 2153243
+  },
+  "expedient": {
+   "word": "expedient",
+   "level": "toeic860",
+   "seed": 1835260388
+  },
+  "expedite": {
+   "word": "expedite",
+   "level": "toeic860",
+   "seed": 3444489929
+  },
+  "expend": {
+   "word": "expend",
+   "level": "toeic860",
+   "seed": 906299220
+  },
+  "expenditure": {
+   "word": "expenditure",
+   "level": "toeic730",
+   "seed": 830164028
+  },
+  "expense": {
+   "word": "expense",
+   "level": "toeic600",
+   "seed": 981852944
+  },
+  "expensive": {
+   "word": "expensive",
+   "level": "toeic730",
+   "seed": 3772090318
+  },
+  "experienced": {
+   "word": "experienced",
+   "level": "toeic600",
+   "seed": 2720658578
+  },
+  "expertise": {
+   "word": "expertise",
+   "level": "toeic730",
+   "seed": 3012155548
+  },
+  "expire": {
+   "word": "expire",
+   "level": "toeic730",
+   "seed": 551395403
+  },
+  "explicitly": {
+   "word": "explicitly",
+   "level": "toeic860",
+   "seed": 4070553890
+  },
+  "exploit": {
+   "word": "exploit",
+   "level": "toeic730",
+   "seed": 627751854
+  },
+  "export": {
+   "word": "export",
+   "level": "toeic600",
+   "seed": 1366373385
+  },
+  "express": {
+   "word": "express",
+   "level": "toeic600",
+   "seed": 4089851364
+  },
+  "expressly": {
+   "word": "expressly",
+   "level": "toeic730",
+   "seed": 1282123911
+  },
+  "extend": {
+   "word": "extend",
+   "level": "toeic600",
+   "seed": 3734223405
+  },
+  "extension": {
+   "word": "extension",
+   "level": "toeic600",
+   "seed": 4186530049
+  },
+  "external": {
+   "word": "external",
+   "level": "toeic730",
+   "seed": 1507390444
+  },
+  "exude": {
+   "word": "exude",
+   "level": "toeic860",
+   "seed": 668711043
+  },
+  "facilitate": {
+   "word": "facilitate",
+   "level": "toeic730",
+   "seed": 83818201
+  },
+  "facility": {
+   "word": "facility",
+   "level": "toeic600",
+   "seed": 4203750693
+  },
+  "factory": {
+   "word": "factory",
+   "level": "toeic600",
+   "seed": 2065706327
+  },
+  "fad": {
+   "word": "fad",
+   "level": "toeic860",
+   "seed": 3627679460
+  },
+  "fallout": {
+   "word": "fallout",
+   "level": "toeic860",
+   "seed": 3421973194
+  },
+  "fare": {
+   "word": "fare",
+   "level": "toeic600",
+   "seed": 3311885974
+  },
+  "faulty": {
+   "word": "faulty",
+   "level": "toeic600",
+   "seed": 2701157434
+  },
+  "favorable": {
+   "word": "favorable",
+   "level": "toeic860",
+   "seed": 2408204421
+  },
+  "feasibility": {
+   "word": "feasibility",
+   "level": "toeic730",
+   "seed": 3712351157
+  },
+  "feasible": {
+   "word": "feasible",
+   "level": "toeic730",
+   "seed": 1463133500
+  },
+  "fee": {
+   "word": "fee",
+   "level": "toeic600",
+   "seed": 2618674605
+  },
+  "feedback": {
+   "word": "feedback",
+   "level": "toeic600",
+   "seed": 4011193484
+  },
+  "festival": {
+   "word": "festival",
+   "level": "toeic600",
+   "seed": 4044632201
+  },
+  "fiasco": {
+   "word": "fiasco",
+   "level": "toeic860",
+   "seed": 381030777
+  },
+  "fickle": {
+   "word": "fickle",
+   "level": "toeic860",
+   "seed": 2901233233
+  },
+  "finance": {
+   "word": "finance",
+   "level": "toeic730",
+   "seed": 2714722991
+  },
+  "financial": {
+   "word": "financial",
+   "level": "toeic730",
+   "seed": 1138006292
+  },
+  "firm": {
+   "word": "firm",
+   "level": "toeic600",
+   "seed": 3544224926
+  },
+  "fiscal": {
+   "word": "fiscal",
+   "level": "toeic730",
+   "seed": 2071884827
+  },
+  "fiscally": {
+   "word": "fiscally",
+   "level": "toeic860",
+   "seed": 611985458
+  },
+  "fixture": {
+   "word": "fixture",
+   "level": "toeic860",
+   "seed": 1372582849
+  },
+  "flagship": {
+   "word": "flagship",
+   "level": "toeic600",
+   "seed": 2742560808
+  },
+  "flatter": {
+   "word": "flatter",
+   "level": "toeic860",
+   "seed": 22046870
+  },
+  "fleet": {
+   "word": "fleet",
+   "level": "toeic860",
+   "seed": 4083127311
+  },
+  "flexible": {
+   "word": "flexible",
+   "level": "toeic600",
+   "seed": 2892379875
+  },
+  "flexibly": {
+   "word": "flexibly",
+   "level": "toeic600",
+   "seed": 3234361216
+  },
+  "flippant": {
+   "word": "flippant",
+   "level": "toeic860",
+   "seed": 2741168173
+  },
+  "flounder": {
+   "word": "flounder",
+   "level": "toeic860",
+   "seed": 2834857770
+  },
+  "flourish": {
+   "word": "flourish",
+   "level": "toeic730",
+   "seed": 565828987
+  },
+  "fluctuate": {
+   "word": "fluctuate",
+   "level": "toeic730",
+   "seed": 1138269436
+  },
+  "fluctuating": {
+   "word": "fluctuating",
+   "level": "toeic860",
+   "seed": 2308870802
+  },
+  "fluent": {
+   "word": "fluent",
+   "level": "toeic600",
+   "seed": 244275072
+  },
+  "flyer": {
+   "word": "flyer",
+   "level": "toeic860",
+   "seed": 1984779263
+  },
+  "foolproof": {
+   "word": "foolproof",
+   "level": "toeic860",
+   "seed": 3469324254
+  },
+  "forecast": {
+   "word": "forecast",
+   "level": "toeic600",
+   "seed": 25971192
+  },
+  "foreclose": {
+   "word": "foreclose",
+   "level": "toeic860",
+   "seed": 3511660126
+  },
+  "foreclosure": {
+   "word": "foreclosure",
+   "level": "toeic860",
+   "seed": 2754969068
+  },
+  "forefront": {
+   "word": "forefront",
+   "level": "toeic860",
+   "seed": 3006634867
+  },
+  "foresee": {
+   "word": "foresee",
+   "level": "toeic860",
+   "seed": 1646870509
+  },
+  "foresight": {
+   "word": "foresight",
+   "level": "toeic860",
+   "seed": 1077377885
+  },
+  "forfeit": {
+   "word": "forfeit",
+   "level": "toeic730",
+   "seed": 3677099595
+  },
+  "forgo": {
+   "word": "forgo",
+   "level": "toeic860",
+   "seed": 2056781911
+  },
+  "formal": {
+   "word": "formal",
+   "level": "toeic600",
+   "seed": 1852418140
+  },
+  "format": {
+   "word": "format",
+   "level": "toeic600",
+   "seed": 2019133284
+  },
+  "formulate": {
+   "word": "formulate",
+   "level": "toeic730",
+   "seed": 2236821520
+  },
+  "forthcoming": {
+   "word": "forthcoming",
+   "level": "toeic730",
+   "seed": 3591336344
+  },
+  "forthright": {
+   "word": "forthright",
+   "level": "toeic860",
+   "seed": 1322940251
+  },
+  "fortune": {
+   "word": "fortune",
+   "level": "toeic730",
+   "seed": 3861437013
+  },
+  "foster": {
+   "word": "foster",
+   "level": "toeic730",
+   "seed": 4128226256
+  },
+  "found": {
+   "word": "found",
+   "level": "toeic600",
+   "seed": 658094886
+  },
+  "founder": {
+   "word": "founder",
+   "level": "toeic600",
+   "seed": 4013159997
+  },
+  "framework": {
+   "word": "framework",
+   "level": "toeic730",
+   "seed": 4051207805
+  },
+  "franchise": {
+   "word": "franchise",
+   "level": "toeic730",
+   "seed": 2274499064
+  },
+  "fraudulent": {
+   "word": "fraudulent",
+   "level": "toeic860",
+   "seed": 156514282
+  },
+  "freight": {
+   "word": "freight",
+   "level": "toeic730",
+   "seed": 3084789575
+  },
+  "frenzy": {
+   "word": "frenzy",
+   "level": "toeic860",
+   "seed": 640756446
+  },
+  "frequent": {
+   "word": "frequent",
+   "level": "toeic600",
+   "seed": 2045450302
+  },
+  "frivolous": {
+   "word": "frivolous",
+   "level": "toeic860",
+   "seed": 869772856
+  },
+  "frugal": {
+   "word": "frugal",
+   "level": "toeic860",
+   "seed": 2970222640
+  },
+  "frugality": {
+   "word": "frugality",
+   "level": "toeic860",
+   "seed": 833239747
+  },
+  "fruitful": {
+   "word": "fruitful",
+   "level": "toeic860",
+   "seed": 1412959510
+  },
+  "fulfill": {
+   "word": "fulfill",
+   "level": "toeic600",
+   "seed": 2910172386
+  },
+  "fulfillment": {
+   "word": "fulfillment",
+   "level": "toeic860",
+   "seed": 777831998
+  },
+  "functional": {
+   "word": "functional",
+   "level": "toeic860",
+   "seed": 4083175554
+  },
+  "funding": {
+   "word": "funding",
+   "level": "toeic730",
+   "seed": 2133897495
+  },
+  "garner": {
+   "word": "garner",
+   "level": "toeic860",
+   "seed": 295882992
+  },
+  "gate": {
+   "word": "gate",
+   "level": "toeic600",
+   "seed": 1012615463
+  },
+  "gauge": {
+   "word": "gauge",
+   "level": "toeic860",
+   "seed": 2114847120
+  },
+  "generate": {
+   "word": "generate",
+   "level": "toeic730",
+   "seed": 2656687141
+  },
+  "goal": {
+   "word": "goal",
+   "level": "toeic600",
+   "seed": 3684303403
+  },
+  "goods": {
+   "word": "goods",
+   "level": "toeic600",
+   "seed": 1064706161
+  },
+  "goodwill": {
+   "word": "goodwill",
+   "level": "toeic860",
+   "seed": 208579964
+  },
+  "governance": {
+   "word": "governance",
+   "level": "toeic600",
+   "seed": 1454958267
+  },
+  "gradually": {
+   "word": "gradually",
+   "level": "toeic600",
+   "seed": 2058798598
+  },
+  "grievance": {
+   "word": "grievance",
+   "level": "toeic860",
+   "seed": 393428848
+  },
+  "grocery": {
+   "word": "grocery",
+   "level": "toeic600",
+   "seed": 3787778122
+  },
+  "gross": {
+   "word": "gross",
+   "level": "toeic730",
+   "seed": 3647806061
+  },
+  "growth": {
+   "word": "growth",
+   "level": "toeic600",
+   "seed": 883398178
+  },
+  "guarantee": {
+   "word": "guarantee",
+   "level": "toeic600",
+   "seed": 3824903064
+  },
+  "guideline": {
+   "word": "guideline",
+   "level": "toeic730",
+   "seed": 2457782938
+  },
+  "gym": {
+   "word": "gym",
+   "level": "toeic600",
+   "seed": 567445041
+  },
+  "haggle": {
+   "word": "haggle",
+   "level": "toeic860",
+   "seed": 2848086631
+  },
+  "handle": {
+   "word": "handle",
+   "level": "toeic600",
+   "seed": 2732424902
+  },
+  "haul": {
+   "word": "haul",
+   "level": "toeic730",
+   "seed": 2589484494
+  },
+  "headcount": {
+   "word": "headcount",
+   "level": "toeic730",
+   "seed": 3398672606
+  },
+  "headquarters": {
+   "word": "headquarters",
+   "level": "toeic600",
+   "seed": 1727925670
+  },
+  "headway": {
+   "word": "headway",
+   "level": "toeic860",
+   "seed": 2866154465
+  },
+  "hectic": {
+   "word": "hectic",
+   "level": "toeic730",
+   "seed": 3527954977
+  },
+  "hedge": {
+   "word": "hedge",
+   "level": "toeic860",
+   "seed": 465464785
+  },
+  "hefty": {
+   "word": "hefty",
+   "level": "toeic860",
+   "seed": 3460078911
+  },
+  "hesitate": {
+   "word": "hesitate",
+   "level": "toeic600",
+   "seed": 2177623270
+  },
+  "hierarchy": {
+   "word": "hierarchy",
+   "level": "toeic730",
+   "seed": 4284082361
+  },
+  "highlight": {
+   "word": "highlight",
+   "level": "toeic860",
+   "seed": 3383614116
+  },
+  "hike": {
+   "word": "hike",
+   "level": "toeic860",
+   "seed": 3974896980
+  },
+  "hindrance": {
+   "word": "hindrance",
+   "level": "toeic860",
+   "seed": 2240279601
+  },
+  "hire": {
+   "word": "hire",
+   "level": "toeic600",
+   "seed": 3298340457
+  },
+  "hone": {
+   "word": "hone",
+   "level": "toeic860",
+   "seed": 3305471245
+  },
+  "hospitality": {
+   "word": "hospitality",
+   "level": "toeic730",
+   "seed": 1748093707
+  },
+  "housekeeping": {
+   "word": "housekeeping",
+   "level": "toeic730",
+   "seed": 1159394513
+  },
+  "hub": {
+   "word": "hub",
+   "level": "toeic860",
+   "seed": 1705832615
+  },
+  "hurdle": {
+   "word": "hurdle",
+   "level": "toeic860",
+   "seed": 4265291192
+  },
+  "identify": {
+   "word": "identify",
+   "level": "toeic600",
+   "seed": 2616260863
+  },
+  "idle": {
+   "word": "idle",
+   "level": "toeic860",
+   "seed": 450612276
+  },
+  "imitation": {
+   "word": "imitation",
+   "level": "toeic860",
+   "seed": 2484578804
+  },
+  "immigration": {
+   "word": "immigration",
+   "level": "toeic730",
+   "seed": 793212547
+  },
+  "implement": {
+   "word": "implement",
+   "level": "toeic730",
+   "seed": 54502872
+  },
+  "import": {
+   "word": "import",
+   "level": "toeic600",
+   "seed": 1660812245
+  },
+  "impose": {
+   "word": "impose",
+   "level": "toeic860",
+   "seed": 3875092525
+  },
+  "inability": {
+   "word": "inability",
+   "level": "toeic860",
+   "seed": 3975850402
+  },
+  "incentive": {
+   "word": "incentive",
+   "level": "toeic730",
+   "seed": 2606688211
+  },
+  "incentivize": {
+   "word": "incentivize",
+   "level": "toeic860",
+   "seed": 585650740
+  },
+  "income": {
+   "word": "income",
+   "level": "toeic600",
+   "seed": 258028368
+  },
+  "incompatible": {
+   "word": "incompatible",
+   "level": "toeic860",
+   "seed": 3356573540
+  },
+  "incompetent": {
+   "word": "incompetent",
+   "level": "toeic860",
+   "seed": 2904574919
+  },
+  "incorporate": {
+   "word": "incorporate",
+   "level": "toeic600",
+   "seed": 3145336948
+  },
+  "incumbent": {
+   "word": "incumbent",
+   "level": "toeic860",
+   "seed": 1745534552
+  },
+  "incur": {
+   "word": "incur",
+   "level": "toeic860",
+   "seed": 3888056839
+  },
+  "indebted": {
+   "word": "indebted",
+   "level": "toeic860",
+   "seed": 826092110
+  },
+  "indefinite": {
+   "word": "indefinite",
+   "level": "toeic860",
+   "seed": 876347098
+  },
+  "index": {
+   "word": "index",
+   "level": "toeic600",
+   "seed": 3846229457
+  },
+  "indexation": {
+   "word": "indexation",
+   "level": "toeic860",
+   "seed": 2395479441
+  },
+  "indicate": {
+   "word": "indicate",
+   "level": "toeic600",
+   "seed": 4159549234
+  },
+  "indicator": {
+   "word": "indicator",
+   "level": "toeic730",
+   "seed": 3790237445
+  },
+  "induct": {
+   "word": "induct",
+   "level": "toeic860",
+   "seed": 2775976606
+  },
+  "industrial": {
+   "word": "industrial",
+   "level": "toeic600",
+   "seed": 3499521532
+  },
+  "industry": {
+   "word": "industry",
+   "level": "toeic600",
+   "seed": 428094335
+  },
+  "inflate": {
+   "word": "inflate",
+   "level": "toeic860",
+   "seed": 4045106465
+  },
+  "inflated": {
+   "word": "inflated",
+   "level": "toeic860",
+   "seed": 2331249356
+  },
+  "inflation": {
+   "word": "inflation",
+   "level": "toeic730",
+   "seed": 239459323
+  },
+  "influence": {
+   "word": "influence",
+   "level": "toeic600",
+   "seed": 2539925645
+  },
+  "infringe": {
+   "word": "infringe",
+   "level": "toeic860",
+   "seed": 2405843940
+  },
+  "ingredient": {
+   "word": "ingredient",
+   "level": "toeic600",
+   "seed": 1629104817
+  },
+  "initiate": {
+   "word": "initiate",
+   "level": "toeic730",
+   "seed": 4261960295
+  },
+  "initiative": {
+   "word": "initiative",
+   "level": "toeic730",
+   "seed": 1879905376
+  },
+  "innovate": {
+   "word": "innovate",
+   "level": "toeic860",
+   "seed": 2279227541
+  },
+  "innovation": {
+   "word": "innovation",
+   "level": "toeic730",
+   "seed": 2790846028
+  },
+  "innovative": {
+   "word": "innovative",
+   "level": "toeic730",
+   "seed": 1940610229
+  },
+  "input": {
+   "word": "input",
+   "level": "toeic600",
+   "seed": 336561834
+  },
+  "inquire": {
+   "word": "inquire",
+   "level": "toeic730",
+   "seed": 2325138654
+  },
+  "inquiry": {
+   "word": "inquiry",
+   "level": "toeic600",
+   "seed": 1584137808
+  },
+  "insistence": {
+   "word": "insistence",
+   "level": "toeic860",
+   "seed": 3337667917
+  },
+  "insolvency": {
+   "word": "insolvency",
+   "level": "toeic860",
+   "seed": 1770991162
+  },
+  "insolvent": {
+   "word": "insolvent",
+   "level": "toeic860",
+   "seed": 2460626606
+  },
+  "inspect": {
+   "word": "inspect",
+   "level": "toeic860",
+   "seed": 2711793176
+  },
+  "instability": {
+   "word": "instability",
+   "level": "toeic860",
+   "seed": 75701181
+  },
+  "installation": {
+   "word": "installation",
+   "level": "toeic860",
+   "seed": 3789732196
+  },
+  "installment": {
+   "word": "installment",
+   "level": "toeic730",
+   "seed": 3617162701
+  },
+  "insufficient": {
+   "word": "insufficient",
+   "level": "toeic860",
+   "seed": 1198790861
+  },
+  "insurance": {
+   "word": "insurance",
+   "level": "toeic600",
+   "seed": 2056727815
+  },
+  "insurer": {
+   "word": "insurer",
+   "level": "toeic860",
+   "seed": 3538040706
+  },
+  "integral": {
+   "word": "integral",
+   "level": "toeic860",
+   "seed": 658557321
+  },
+  "integrate": {
+   "word": "integrate",
+   "level": "toeic730",
+   "seed": 869529357
+  },
+  "intend": {
+   "word": "intend",
+   "level": "toeic600",
+   "seed": 4146887543
+  },
+  "interest": {
+   "word": "interest",
+   "level": "toeic600",
+   "seed": 1586145503
+  },
+  "interim": {
+   "word": "interim",
+   "level": "toeic860",
+   "seed": 2818536985
+  },
+  "internal": {
+   "word": "internal",
+   "level": "toeic600",
+   "seed": 2670962631
+  },
+  "international": {
+   "word": "international",
+   "level": "toeic600",
+   "seed": 1341611904
+  },
+  "interpreter": {
+   "word": "interpreter",
+   "level": "toeic730",
+   "seed": 240401254
+  },
+  "intervene": {
+   "word": "intervene",
+   "level": "toeic860",
+   "seed": 1695399994
+  },
+  "intervention": {
+   "word": "intervention",
+   "level": "toeic860",
+   "seed": 2786448971
+  },
+  "interview": {
+   "word": "interview",
+   "level": "toeic600",
+   "seed": 2941484779
+  },
+  "invalid": {
+   "word": "invalid",
+   "level": "toeic860",
+   "seed": 2180203687
+  },
+  "invaluable": {
+   "word": "invaluable",
+   "level": "toeic860",
+   "seed": 3834995417
+  },
+  "inventory": {
+   "word": "inventory",
+   "level": "toeic730",
+   "seed": 3969497107
+  },
+  "invest": {
+   "word": "invest",
+   "level": "toeic600",
+   "seed": 1918007368
+  },
+  "investment": {
+   "word": "investment",
+   "level": "toeic730",
+   "seed": 3928045440
+  },
+  "investor": {
+   "word": "investor",
+   "level": "toeic730",
+   "seed": 3233176464
+  },
+  "invitation": {
+   "word": "invitation",
+   "level": "toeic600",
+   "seed": 2453453382
+  },
+  "invoice": {
+   "word": "invoice",
+   "level": "toeic730",
+   "seed": 3136006119
+  },
+  "involvement": {
+   "word": "involvement",
+   "level": "toeic860",
+   "seed": 2506308186
+  },
+  "issue": {
+   "word": "issue",
+   "level": "toeic600",
+   "seed": 8494094
+  },
+  "item": {
+   "word": "item",
+   "level": "toeic600",
+   "seed": 981309287
+  },
+  "itemize": {
+   "word": "itemize",
+   "level": "toeic860",
+   "seed": 309009422
+  },
+  "itinerary": {
+   "word": "itinerary",
+   "level": "toeic730",
+   "seed": 1650044524
+  },
+  "judgment": {
+   "word": "judgment",
+   "level": "toeic600",
+   "seed": 1296629014
+  },
+  "judicious": {
+   "word": "judicious",
+   "level": "toeic860",
+   "seed": 3567335100
+  },
+  "jurisdiction": {
+   "word": "jurisdiction",
+   "level": "toeic860",
+   "seed": 371409613
+  },
+  "justify": {
+   "word": "justify",
+   "level": "toeic730",
+   "seed": 1031406410
+  },
+  "keynote": {
+   "word": "keynote",
+   "level": "toeic860",
+   "seed": 2295416064
+  },
+  "kickback": {
+   "word": "kickback",
+   "level": "toeic860",
+   "seed": 763579854
+  },
+  "kudos": {
+   "word": "kudos",
+   "level": "toeic860",
+   "seed": 1101582257
+  },
+  "labor": {
+   "word": "labor",
+   "level": "toeic600",
+   "seed": 193746573
+  },
+  "lackluster": {
+   "word": "lackluster",
+   "level": "toeic860",
+   "seed": 3105047316
+  },
+  "lag": {
+   "word": "lag",
+   "level": "toeic860",
+   "seed": 2235755895
+  },
+  "land": {
+   "word": "land",
+   "level": "toeic600",
+   "seed": 1027301554
+  },
+  "landmark": {
+   "word": "landmark",
+   "level": "toeic600",
+   "seed": 2477529600
+  },
+  "lapse": {
+   "word": "lapse",
+   "level": "toeic860",
+   "seed": 2280080954
+  },
+  "launch": {
+   "word": "launch",
+   "level": "toeic600",
+   "seed": 4157153263
+  },
+  "laundry": {
+   "word": "laundry",
+   "level": "toeic600",
+   "seed": 3544978119
+  },
+  "layoff": {
+   "word": "layoff",
+   "level": "toeic730",
+   "seed": 2124660126
+  },
+  "layover": {
+   "word": "layover",
+   "level": "toeic730",
+   "seed": 355464388
+  },
+  "leadership": {
+   "word": "leadership",
+   "level": "toeic600",
+   "seed": 2433885397
+  },
+  "leading": {
+   "word": "leading",
+   "level": "toeic730",
+   "seed": 3026372574
+  },
+  "leaflet": {
+   "word": "leaflet",
+   "level": "toeic860",
+   "seed": 1599428084
+  },
+  "ledger": {
+   "word": "ledger",
+   "level": "toeic860",
+   "seed": 2232152327
+  },
+  "leeway": {
+   "word": "leeway",
+   "level": "toeic860",
+   "seed": 404419569
+  },
+  "lender": {
+   "word": "lender",
+   "level": "toeic730",
+   "seed": 1633227588
+  },
+  "lengthy": {
+   "word": "lengthy",
+   "level": "toeic730",
+   "seed": 678183822
+  },
+  "leverage": {
+   "word": "leverage",
+   "level": "toeic600",
+   "seed": 1209476559
+  },
+  "levy": {
+   "word": "levy",
+   "level": "toeic860",
+   "seed": 1351938404
+  },
+  "liable": {
+   "word": "liable",
+   "level": "toeic860",
+   "seed": 90703820
+  },
+  "liaison": {
+   "word": "liaison",
+   "level": "toeic860",
+   "seed": 1774636990
+  },
+  "license": {
+   "word": "license",
+   "level": "toeic600",
+   "seed": 591753513
+  },
+  "lift": {
+   "word": "lift",
+   "level": "toeic860",
+   "seed": 3641248765
+  },
+  "limited": {
+   "word": "limited",
+   "level": "toeic600",
+   "seed": 515364290
+  },
+  "linchpin": {
+   "word": "linchpin",
+   "level": "toeic860",
+   "seed": 1104330104
+  },
+  "liquidate": {
+   "word": "liquidate",
+   "level": "toeic860",
+   "seed": 3819640109
+  },
+  "liquidity": {
+   "word": "liquidity",
+   "level": "toeic860",
+   "seed": 1413207670
+  },
+  "list": {
+   "word": "list",
+   "level": "toeic600",
+   "seed": 951462884
+  },
+  "loan": {
+   "word": "loan",
+   "level": "toeic600",
+   "seed": 1478943604
+  },
+  "lobby": {
+   "word": "lobby",
+   "level": "toeic600",
+   "seed": 1841656178
+  },
+  "locate": {
+   "word": "locate",
+   "level": "toeic730",
+   "seed": 3507021875
+  },
+  "located": {
+   "word": "located",
+   "level": "toeic600",
+   "seed": 2087672482
+  },
+  "logistical": {
+   "word": "logistical",
+   "level": "toeic860",
+   "seed": 886473623
+  },
+  "logistics": {
+   "word": "logistics",
+   "level": "toeic730",
+   "seed": 3174316613
+  },
+  "logo": {
+   "word": "logo",
+   "level": "toeic600",
+   "seed": 1476910432
+  },
+  "loophole": {
+   "word": "loophole",
+   "level": "toeic860",
+   "seed": 22706948
+  },
+  "lost": {
+   "word": "lost",
+   "level": "toeic600",
+   "seed": 537929757
+  },
+  "lounge": {
+   "word": "lounge",
+   "level": "toeic600",
+   "seed": 4142905676
+  },
+  "loyalty": {
+   "word": "loyalty",
+   "level": "toeic730",
+   "seed": 2297393477
+  },
+  "lucid": {
+   "word": "lucid",
+   "level": "toeic860",
+   "seed": 981371243
+  },
+  "lucrative": {
+   "word": "lucrative",
+   "level": "toeic730",
+   "seed": 2663617994
+  },
+  "luggage": {
+   "word": "luggage",
+   "level": "toeic600",
+   "seed": 2807088659
+  },
+  "lukewarm": {
+   "word": "lukewarm",
+   "level": "toeic730",
+   "seed": 2571051783
+  },
+  "lure": {
+   "word": "lure",
+   "level": "toeic730",
+   "seed": 1233342731
+  },
+  "machinery": {
+   "word": "machinery",
+   "level": "toeic600",
+   "seed": 1206296035
+  },
+  "magnate": {
+   "word": "magnate",
+   "level": "toeic860",
+   "seed": 2494039742
+  },
+  "mail": {
+   "word": "mail",
+   "level": "toeic600",
+   "seed": 493755639
+  },
+  "mainframe": {
+   "word": "mainframe",
+   "level": "toeic860",
+   "seed": 425614867
+  },
+  "mainstay": {
+   "word": "mainstay",
+   "level": "toeic860",
+   "seed": 63948792
+  },
+  "mainstream": {
+   "word": "mainstream",
+   "level": "toeic600",
+   "seed": 3813227494
+  },
+  "maintain": {
+   "word": "maintain",
+   "level": "toeic600",
+   "seed": 3944085712
+  },
+  "maintenance": {
+   "word": "maintenance",
+   "level": "toeic600",
+   "seed": 1529930437
+  },
+  "manage": {
+   "word": "manage",
+   "level": "toeic600",
+   "seed": 1059598283
+  },
+  "manager": {
+   "word": "manager",
+   "level": "toeic600",
+   "seed": 444949929
+  },
+  "mandate": {
+   "word": "mandate",
+   "level": "toeic600",
+   "seed": 551538119
+  },
+  "mandatory": {
+   "word": "mandatory",
+   "level": "toeic730",
+   "seed": 3442834454
+  },
+  "maneuver": {
+   "word": "maneuver",
+   "level": "toeic860",
+   "seed": 3144597687
+  },
+  "manual": {
+   "word": "manual",
+   "level": "toeic600",
+   "seed": 3009638714
+  },
+  "manufacturer": {
+   "word": "manufacturer",
+   "level": "toeic730",
+   "seed": 2888504326
+  },
+  "margin": {
+   "word": "margin",
+   "level": "toeic730",
+   "seed": 1345583967
+  },
+  "markedly": {
+   "word": "markedly",
+   "level": "toeic730",
+   "seed": 4286809518
+  },
+  "market": {
+   "word": "market",
+   "level": "toeic600",
+   "seed": 1553953711
+  },
+  "markup": {
+   "word": "markup",
+   "level": "toeic860",
+   "seed": 782626202
+  },
+  "mature": {
+   "word": "mature",
+   "level": "toeic600",
+   "seed": 4031356540
+  },
+  "maturity": {
+   "word": "maturity",
+   "level": "toeic860",
+   "seed": 3865332748
+  },
+  "maximize": {
+   "word": "maximize",
+   "level": "toeic730",
+   "seed": 4205546438
+  },
+  "mechanism": {
+   "word": "mechanism",
+   "level": "toeic730",
+   "seed": 2840921917
+  },
+  "medium": {
+   "word": "medium",
+   "level": "toeic600",
+   "seed": 548356486
+  },
+  "membership": {
+   "word": "membership",
+   "level": "toeic600",
+   "seed": 2582609563
+  },
+  "memo": {
+   "word": "memo",
+   "level": "toeic600",
+   "seed": 3317746598
+  },
+  "menial": {
+   "word": "menial",
+   "level": "toeic860",
+   "seed": 3853933047
+  },
+  "mentor": {
+   "word": "mentor",
+   "level": "toeic730",
+   "seed": 3246292017
+  },
+  "mentorship": {
+   "word": "mentorship",
+   "level": "toeic860",
+   "seed": 2481421750
+  },
+  "menu": {
+   "word": "menu",
+   "level": "toeic600",
+   "seed": 623519078
+  },
+  "merchandise": {
+   "word": "merchandise",
+   "level": "toeic730",
+   "seed": 3278786992
+  },
+  "merchant": {
+   "word": "merchant",
+   "level": "toeic600",
+   "seed": 2945469903
+  },
+  "merge": {
+   "word": "merge",
+   "level": "toeic600",
+   "seed": 336140959
+  },
+  "merger": {
+   "word": "merger",
+   "level": "toeic730",
+   "seed": 2143322264
+  },
+  "meticulously": {
+   "word": "meticulously",
+   "level": "toeic860",
+   "seed": 60993269
+  },
+  "metric": {
+   "word": "metric",
+   "level": "toeic860",
+   "seed": 3315833402
+  },
+  "mileage": {
+   "word": "mileage",
+   "level": "toeic730",
+   "seed": 243569517
+  },
+  "milestone": {
+   "word": "milestone",
+   "level": "toeic600",
+   "seed": 2411450495
+  },
+  "minibar": {
+   "word": "minibar",
+   "level": "toeic730",
+   "seed": 2856166534
+  },
+  "minute": {
+   "word": "minute",
+   "level": "toeic600",
+   "seed": 77103050
+  },
+  "minutes": {
+   "word": "minutes",
+   "level": "toeic730",
+   "seed": 3190696886
+  },
+  "miscellaneous": {
+   "word": "miscellaneous",
+   "level": "toeic860",
+   "seed": 2733876932
+  },
+  "misconduct": {
+   "word": "misconduct",
+   "level": "toeic860",
+   "seed": 3583387687
+  },
+  "misuse": {
+   "word": "misuse",
+   "level": "toeic600",
+   "seed": 3527675415
+  },
+  "model": {
+   "word": "model",
+   "level": "toeic600",
+   "seed": 486973655
+  },
+  "moderator": {
+   "word": "moderator",
+   "level": "toeic860",
+   "seed": 2046110555
+  },
+  "modular": {
+   "word": "modular",
+   "level": "toeic860",
+   "seed": 1267382064
+  },
+  "momentum": {
+   "word": "momentum",
+   "level": "toeic730",
+   "seed": 1346128631
+  },
+  "monetary": {
+   "word": "monetary",
+   "level": "toeic730",
+   "seed": 1067159378
+  },
+  "monetize": {
+   "word": "monetize",
+   "level": "toeic730",
+   "seed": 4226870472
+  },
+  "monitor": {
+   "word": "monitor",
+   "level": "toeic600",
+   "seed": 2543222943
+  },
+  "monopolize": {
+   "word": "monopolize",
+   "level": "toeic860",
+   "seed": 3422013278
+  },
+  "monotonous": {
+   "word": "monotonous",
+   "level": "toeic730",
+   "seed": 2617642249
+  },
+  "monthly": {
+   "word": "monthly",
+   "level": "toeic600",
+   "seed": 1952258328
+  },
+  "morale": {
+   "word": "morale",
+   "level": "toeic860",
+   "seed": 1934269700
+  },
+  "moratorium": {
+   "word": "moratorium",
+   "level": "toeic860",
+   "seed": 3261095201
+  },
+  "mortgage": {
+   "word": "mortgage",
+   "level": "toeic730",
+   "seed": 1403407086
+  },
+  "motivate": {
+   "word": "motivate",
+   "level": "toeic600",
+   "seed": 1083748
+  },
+  "motorway": {
+   "word": "motorway",
+   "level": "toeic600",
+   "seed": 1160975852
+  },
+  "mute": {
+   "word": "mute",
+   "level": "toeic730",
+   "seed": 3280656271
+  },
+  "nationalize": {
+   "word": "nationalize",
+   "level": "toeic860",
+   "seed": 2262779540
+  },
+  "nationwide": {
+   "word": "nationwide",
+   "level": "toeic600",
+   "seed": 2098636686
+  },
+  "navigate": {
+   "word": "navigate",
+   "level": "toeic730",
+   "seed": 4218070466
+  },
+  "nearby": {
+   "word": "nearby",
+   "level": "toeic600",
+   "seed": 2282291721
+  },
+  "negotiable": {
+   "word": "negotiable",
+   "level": "toeic730",
+   "seed": 3025519228
+  },
+  "negotiate": {
+   "word": "negotiate",
+   "level": "toeic730",
+   "seed": 203056371
+  },
+  "negotiator": {
+   "word": "negotiator",
+   "level": "toeic600",
+   "seed": 4154857807
+  },
+  "network": {
+   "word": "network",
+   "level": "toeic600",
+   "seed": 3239241857
+  },
+  "niche": {
+   "word": "niche",
+   "level": "toeic730",
+   "seed": 2432729319
+  },
+  "nominal": {
+   "word": "nominal",
+   "level": "toeic600",
+   "seed": 1483563304
+  },
+  "note": {
+   "word": "note",
+   "level": "toeic600",
+   "seed": 3306178743
+  },
+  "notify": {
+   "word": "notify",
+   "level": "toeic600",
+   "seed": 1325936669
+  },
+  "objective": {
+   "word": "objective",
+   "level": "toeic730",
+   "seed": 3537667896
+  },
+  "obligation": {
+   "word": "obligation",
+   "level": "toeic730",
+   "seed": 3024697040
+  },
+  "obsolescence": {
+   "word": "obsolescence",
+   "level": "toeic860",
+   "seed": 782446326
+  },
+  "obtain": {
+   "word": "obtain",
+   "level": "toeic600",
+   "seed": 3049613695
+  },
+  "occasionally": {
+   "word": "occasionally",
+   "level": "toeic600",
+   "seed": 296794079
+  },
+  "occupation": {
+   "word": "occupation",
+   "level": "toeic600",
+   "seed": 1974446194
+  },
+  "occupy": {
+   "word": "occupy",
+   "level": "toeic600",
+   "seed": 1539002959
+  },
+  "office": {
+   "word": "office",
+   "level": "toeic600",
+   "seed": 3863114839
+  },
+  "offset": {
+   "word": "offset",
+   "level": "toeic860",
+   "seed": 1403392233
+  },
+  "onboarding": {
+   "word": "onboarding",
+   "level": "toeic860",
+   "seed": 522269036
+  },
+  "onerous": {
+   "word": "onerous",
+   "level": "toeic860",
+   "seed": 2796668334
+  },
+  "operate": {
+   "word": "operate",
+   "level": "toeic600",
+   "seed": 3719556906
+  },
+  "operation": {
+   "word": "operation",
+   "level": "toeic600",
+   "seed": 4239788997
+  },
+  "operator": {
+   "word": "operator",
+   "level": "toeic600",
+   "seed": 4271299897
+  },
+  "optimal": {
+   "word": "optimal",
+   "level": "toeic600",
+   "seed": 1212715035
+  },
+  "optimize": {
+   "word": "optimize",
+   "level": "toeic730",
+   "seed": 3103463213
+  },
+  "option": {
+   "word": "option",
+   "level": "toeic600",
+   "seed": 350950636
+  },
+  "optional": {
+   "word": "optional",
+   "level": "toeic600",
+   "seed": 1218951304
+  },
+  "order": {
+   "word": "order",
+   "level": "toeic600",
+   "seed": 3437583939
+  },
+  "organize": {
+   "word": "organize",
+   "level": "toeic600",
+   "seed": 199325818
+  },
+  "otherwise": {
+   "word": "otherwise",
+   "level": "toeic600",
+   "seed": 2151838982
+  },
+  "outage": {
+   "word": "outage",
+   "level": "toeic860",
+   "seed": 4201956523
+  },
+  "outflow": {
+   "word": "outflow",
+   "level": "toeic860",
+   "seed": 1253027948
+  },
+  "outlast": {
+   "word": "outlast",
+   "level": "toeic860",
+   "seed": 4136373542
+  },
+  "outlay": {
+   "word": "outlay",
+   "level": "toeic860",
+   "seed": 1422852668
+  },
+  "outlet": {
+   "word": "outlet",
+   "level": "toeic730",
+   "seed": 1330254491
+  },
+  "outline": {
+   "word": "outline",
+   "level": "toeic600",
+   "seed": 3849544405
+  },
+  "outlook": {
+   "word": "outlook",
+   "level": "toeic860",
+   "seed": 223711702
+  },
+  "outperform": {
+   "word": "outperform",
+   "level": "toeic600",
+   "seed": 4102897585
+  },
+  "outreach": {
+   "word": "outreach",
+   "level": "toeic860",
+   "seed": 1780502281
+  },
+  "outset": {
+   "word": "outset",
+   "level": "toeic730",
+   "seed": 1791379544
+  },
+  "outsource": {
+   "word": "outsource",
+   "level": "toeic730",
+   "seed": 4155411796
+  },
+  "outstanding": {
+   "word": "outstanding",
+   "level": "toeic730",
+   "seed": 3052393616
+  },
+  "overbooked": {
+   "word": "overbooked",
+   "level": "toeic730",
+   "seed": 2341019487
+  },
+  "overdraft": {
+   "word": "overdraft",
+   "level": "toeic860",
+   "seed": 3214775960
+  },
+  "overdue": {
+   "word": "overdue",
+   "level": "toeic860",
+   "seed": 3123707712
+  },
+  "overestimate": {
+   "word": "overestimate",
+   "level": "toeic860",
+   "seed": 1373991998
+  },
+  "overhaul": {
+   "word": "overhaul",
+   "level": "toeic600",
+   "seed": 35728450
+  },
+  "overhead": {
+   "word": "overhead",
+   "level": "toeic600",
+   "seed": 2280146489
+  },
+  "overlap": {
+   "word": "overlap",
+   "level": "toeic730",
+   "seed": 1527767073
+  },
+  "overload": {
+   "word": "overload",
+   "level": "toeic730",
+   "seed": 166842151
+  },
+  "overlook": {
+   "word": "overlook",
+   "level": "toeic600",
+   "seed": 462349124
+  },
+  "overpriced": {
+   "word": "overpriced",
+   "level": "toeic860",
+   "seed": 3707456099
+  },
+  "overseas": {
+   "word": "overseas",
+   "level": "toeic600",
+   "seed": 3421723647
+  },
+  "oversee": {
+   "word": "oversee",
+   "level": "toeic600",
+   "seed": 2334103362
+  },
+  "overspend": {
+   "word": "overspend",
+   "level": "toeic860",
+   "seed": 2064160922
+  },
+  "overstate": {
+   "word": "overstate",
+   "level": "toeic860",
+   "seed": 2966694606
+  },
+  "overstep": {
+   "word": "overstep",
+   "level": "toeic860",
+   "seed": 1943455305
+  },
+  "overtime": {
+   "word": "overtime",
+   "level": "toeic600",
+   "seed": 2918446177
+  },
+  "overvalued": {
+   "word": "overvalued",
+   "level": "toeic860",
+   "seed": 3475220631
+  },
+  "owe": {
+   "word": "owe",
+   "level": "toeic730",
+   "seed": 4134362388
+  },
+  "owner": {
+   "word": "owner",
+   "level": "toeic600",
+   "seed": 1469199282
+  },
+  "ownership": {
+   "word": "ownership",
+   "level": "toeic600",
+   "seed": 2682943808
+  },
+  "paperwork": {
+   "word": "paperwork",
+   "level": "toeic600",
+   "seed": 3514348318
+  },
+  "paradigm": {
+   "word": "paradigm",
+   "level": "toeic860",
+   "seed": 2746757500
+  },
+  "paramount": {
+   "word": "paramount",
+   "level": "toeic860",
+   "seed": 1805890074
+  },
+  "pare": {
+   "word": "pare",
+   "level": "toeic860",
+   "seed": 1545065545
+  },
+  "parking": {
+   "word": "parking",
+   "level": "toeic600",
+   "seed": 1016996000
+  },
+  "participant": {
+   "word": "participant",
+   "level": "toeic600",
+   "seed": 2048987205
+  },
+  "participate": {
+   "word": "participate",
+   "level": "toeic600",
+   "seed": 3599070342
+  },
+  "passport": {
+   "word": "passport",
+   "level": "toeic600",
+   "seed": 2738896915
+  },
+  "patent": {
+   "word": "patent",
+   "level": "toeic730",
+   "seed": 1712500526
+  },
+  "patronage": {
+   "word": "patronage",
+   "level": "toeic860",
+   "seed": 1132034380
+  },
+  "payable": {
+   "word": "payable",
+   "level": "toeic860",
+   "seed": 1944288510
+  },
+  "payee": {
+   "word": "payee",
+   "level": "toeic860",
+   "seed": 417825809
+  },
+  "payment": {
+   "word": "payment",
+   "level": "toeic600",
+   "seed": 3898758834
+  },
+  "payroll": {
+   "word": "payroll",
+   "level": "toeic860",
+   "seed": 1306817147
+  },
+  "pedestrian": {
+   "word": "pedestrian",
+   "level": "toeic600",
+   "seed": 4204128881
+  },
+  "penalize": {
+   "word": "penalize",
+   "level": "toeic730",
+   "seed": 3933596693
+  },
+  "penalty": {
+   "word": "penalty",
+   "level": "toeic600",
+   "seed": 3371408818
+  },
+  "pending": {
+   "word": "pending",
+   "level": "toeic860",
+   "seed": 3794110099
+  },
+  "penetrate": {
+   "word": "penetrate",
+   "level": "toeic860",
+   "seed": 1815629235
+  },
+  "pension": {
+   "word": "pension",
+   "level": "toeic600",
+   "seed": 1381477195
+  },
+  "performance": {
+   "word": "performance",
+   "level": "toeic600",
+   "seed": 1198448886
+  },
+  "periodic": {
+   "word": "periodic",
+   "level": "toeic860",
+   "seed": 999551220
+  },
+  "perk": {
+   "word": "perk",
+   "level": "toeic860",
+   "seed": 3988860876
+  },
+  "permanent": {
+   "word": "permanent",
+   "level": "toeic600",
+   "seed": 2258236080
+  },
+  "permissible": {
+   "word": "permissible",
+   "level": "toeic860",
+   "seed": 2546066472
+  },
+  "permit": {
+   "word": "permit",
+   "level": "toeic600",
+   "seed": 3473882945
+  },
+  "persona": {
+   "word": "persona",
+   "level": "toeic860",
+   "seed": 476063680
+  },
+  "personnel": {
+   "word": "personnel",
+   "level": "toeic730",
+   "seed": 4228435614
+  },
+  "persuade": {
+   "word": "persuade",
+   "level": "toeic860",
+   "seed": 3440240585
+  },
+  "persuasive": {
+   "word": "persuasive",
+   "level": "toeic860",
+   "seed": 296892062
+  },
+  "pertain": {
+   "word": "pertain",
+   "level": "toeic860",
+   "seed": 1530706710
+  },
+  "pertinent": {
+   "word": "pertinent",
+   "level": "toeic860",
+   "seed": 183277228
+  },
+  "peruse": {
+   "word": "peruse",
+   "level": "toeic860",
+   "seed": 2499930646
+  },
+  "phase": {
+   "word": "phase",
+   "level": "toeic730",
+   "seed": 4269262891
+  },
+  "pioneer": {
+   "word": "pioneer",
+   "level": "toeic600",
+   "seed": 2731857902
+  },
+  "pivotal": {
+   "word": "pivotal",
+   "level": "toeic860",
+   "seed": 1744119990
+  },
+  "placate": {
+   "word": "placate",
+   "level": "toeic860",
+   "seed": 3854383397
+  },
+  "platform": {
+   "word": "platform",
+   "level": "toeic600",
+   "seed": 1014148030
+  },
+  "point": {
+   "word": "point",
+   "level": "toeic600",
+   "seed": 1906821765
+  },
+  "policy": {
+   "word": "policy",
+   "level": "toeic600",
+   "seed": 2667641561
+  },
+  "pool": {
+   "word": "pool",
+   "level": "toeic600",
+   "seed": 1369747771
+  },
+  "portable": {
+   "word": "portable",
+   "level": "toeic600",
+   "seed": 3155206064
+  },
+  "porter": {
+   "word": "porter",
+   "level": "toeic600",
+   "seed": 3589548824
+  },
+  "portfolio": {
+   "word": "portfolio",
+   "level": "toeic730",
+   "seed": 1595540506
+  },
+  "portion": {
+   "word": "portion",
+   "level": "toeic600",
+   "seed": 2072067427
+  },
+  "position": {
+   "word": "position",
+   "level": "toeic600",
+   "seed": 2428376664
+  },
+  "post": {
+   "word": "post",
+   "level": "toeic600",
+   "seed": 2605080724
+  },
+  "postpone": {
+   "word": "postpone",
+   "level": "toeic600",
+   "seed": 3451716540
+  },
+  "potential": {
+   "word": "potential",
+   "level": "toeic730",
+   "seed": 253321481
+  },
+  "pragmatic": {
+   "word": "pragmatic",
+   "level": "toeic860",
+   "seed": 3121487133
+  },
+  "preclude": {
+   "word": "preclude",
+   "level": "toeic860",
+   "seed": 140224309
+  },
+  "predecessor": {
+   "word": "predecessor",
+   "level": "toeic600",
+   "seed": 2302290651
+  },
+  "predictive": {
+   "word": "predictive",
+   "level": "toeic860",
+   "seed": 1758159659
+  },
+  "preliminary": {
+   "word": "preliminary",
+   "level": "toeic860",
+   "seed": 2120325537
+  },
+  "premiere": {
+   "word": "premiere",
+   "level": "toeic730",
+   "seed": 495178956
+  },
+  "premium": {
+   "word": "premium",
+   "level": "toeic860",
+   "seed": 1544179655
+  },
+  "prepay": {
+   "word": "prepay",
+   "level": "toeic860",
+   "seed": 4100911746
+  },
+  "presence": {
+   "word": "presence",
+   "level": "toeic600",
+   "seed": 4133066732
+  },
+  "presentation": {
+   "word": "presentation",
+   "level": "toeic600",
+   "seed": 3838368081
+  },
+  "prevalent": {
+   "word": "prevalent",
+   "level": "toeic860",
+   "seed": 671653443
+  },
+  "price": {
+   "word": "price",
+   "level": "toeic730",
+   "seed": 546816823
+  },
+  "print": {
+   "word": "print",
+   "level": "toeic600",
+   "seed": 1829591158
+  },
+  "printer": {
+   "word": "printer",
+   "level": "toeic600",
+   "seed": 1026695602
+  },
+  "prior": {
+   "word": "prior",
+   "level": "toeic730",
+   "seed": 1246192957
+  },
+  "prioritize": {
+   "word": "prioritize",
+   "level": "toeic730",
+   "seed": 1814306368
+  },
+  "priority": {
+   "word": "priority",
+   "level": "toeic600",
+   "seed": 860194430
+  },
+  "privatize": {
+   "word": "privatize",
+   "level": "toeic860",
+   "seed": 3776320309
+  },
+  "privy": {
+   "word": "privy",
+   "level": "toeic860",
+   "seed": 3642691526
+  },
+  "proactive": {
+   "word": "proactive",
+   "level": "toeic860",
+   "seed": 1683041122
+  },
+  "procedure": {
+   "word": "procedure",
+   "level": "toeic730",
+   "seed": 3501587764
+  },
+  "proceeds": {
+   "word": "proceeds",
+   "level": "toeic860",
+   "seed": 69735434
+  },
+  "process": {
+   "word": "process",
+   "level": "toeic600",
+   "seed": 3269645922
+  },
+  "procurement": {
+   "word": "procurement",
+   "level": "toeic860",
+   "seed": 668118356
+  },
+  "productivity": {
+   "word": "productivity",
+   "level": "toeic730",
+   "seed": 219250242
+  },
+  "proficiency": {
+   "word": "proficiency",
+   "level": "toeic730",
+   "seed": 4225189712
+  },
+  "profile": {
+   "word": "profile",
+   "level": "toeic600",
+   "seed": 1564844041
+  },
+  "profit": {
+   "word": "profit",
+   "level": "toeic600",
+   "seed": 3971332720
+  },
+  "profitability": {
+   "word": "profitability",
+   "level": "toeic860",
+   "seed": 2943722194
+  },
+  "profitable": {
+   "word": "profitable",
+   "level": "toeic600",
+   "seed": 2827449767
+  },
+  "profitless": {
+   "word": "profitless",
+   "level": "toeic600",
+   "seed": 3833533159
+  },
+  "progressive": {
+   "word": "progressive",
+   "level": "toeic860",
+   "seed": 293817568
+  },
+  "prohibitive": {
+   "word": "prohibitive",
+   "level": "toeic860",
+   "seed": 395962487
+  },
+  "projection": {
+   "word": "projection",
+   "level": "toeic600",
+   "seed": 1991457284
+  },
+  "prominent": {
+   "word": "prominent",
+   "level": "toeic730",
+   "seed": 2436381433
+  },
+  "promote": {
+   "word": "promote",
+   "level": "toeic600",
+   "seed": 2861030478
+  },
+  "promotion": {
+   "word": "promotion",
+   "level": "toeic600",
+   "seed": 1091315145
+  },
+  "prompt": {
+   "word": "prompt",
+   "level": "toeic730",
+   "seed": 2625504741
+  },
+  "promptly": {
+   "word": "promptly",
+   "level": "toeic730",
+   "seed": 468392019
+  },
+  "proposal": {
+   "word": "proposal",
+   "level": "toeic600",
+   "seed": 1113670900
+  },
+  "proposition": {
+   "word": "proposition",
+   "level": "toeic860",
+   "seed": 969056409
+  },
+  "proprietary": {
+   "word": "proprietary",
+   "level": "toeic860",
+   "seed": 707007941
+  },
+  "proprietor": {
+   "word": "proprietor",
+   "level": "toeic600",
+   "seed": 2026763372
+  },
+  "prospect": {
+   "word": "prospect",
+   "level": "toeic860",
+   "seed": 1682099073
+  },
+  "prospectus": {
+   "word": "prospectus",
+   "level": "toeic860",
+   "seed": 9890868
+  },
+  "prosperity": {
+   "word": "prosperity",
+   "level": "toeic860",
+   "seed": 1738920012
+  },
+  "prosperous": {
+   "word": "prosperous",
+   "level": "toeic860",
+   "seed": 3684335180
+  },
+  "protectionism": {
+   "word": "protectionism",
+   "level": "toeic860",
+   "seed": 1832247542
+  },
+  "protective": {
+   "word": "protective",
+   "level": "toeic600",
+   "seed": 2709129733
+  },
+  "protracted": {
+   "word": "protracted",
+   "level": "toeic860",
+   "seed": 774297214
+  },
+  "provide": {
+   "word": "provide",
+   "level": "toeic600",
+   "seed": 1253481759
+  },
+  "provider": {
+   "word": "provider",
+   "level": "toeic730",
+   "seed": 2428883253
+  },
+  "provision": {
+   "word": "provision",
+   "level": "toeic860",
+   "seed": 2257270143
+  },
+  "provisional": {
+   "word": "provisional",
+   "level": "toeic860",
+   "seed": 2420579493
+  },
+  "proximity": {
+   "word": "proximity",
+   "level": "toeic860",
+   "seed": 2183618895
+  },
+  "proxy": {
+   "word": "proxy",
+   "level": "toeic860",
+   "seed": 3617176294
+  },
+  "prudence": {
+   "word": "prudence",
+   "level": "toeic860",
+   "seed": 2873735462
+  },
+  "prudent": {
+   "word": "prudent",
+   "level": "toeic860",
+   "seed": 555104699
+  },
+  "publicity": {
+   "word": "publicity",
+   "level": "toeic730",
+   "seed": 1332245963
+  },
+  "publicize": {
+   "word": "publicize",
+   "level": "toeic730",
+   "seed": 1750091053
+  },
+  "punctual": {
+   "word": "punctual",
+   "level": "toeic730",
+   "seed": 2923861843
+  },
+  "punctuality": {
+   "word": "punctuality",
+   "level": "toeic600",
+   "seed": 879632013
+  },
+  "purchase": {
+   "word": "purchase",
+   "level": "toeic600",
+   "seed": 3547777577
+  },
+  "purchaser": {
+   "word": "purchaser",
+   "level": "toeic730",
+   "seed": 3249639982
+  },
+  "purchasing": {
+   "word": "purchasing",
+   "level": "toeic860",
+   "seed": 235352278
+  },
+  "pursue": {
+   "word": "pursue",
+   "level": "toeic730",
+   "seed": 2085076023
+  },
+  "qualification": {
+   "word": "qualification",
+   "level": "toeic730",
+   "seed": 6570675
+  },
+  "quality": {
+   "word": "quality",
+   "level": "toeic600",
+   "seed": 1341230848
+  },
+  "quandary": {
+   "word": "quandary",
+   "level": "toeic860",
+   "seed": 621874846
+  },
+  "quarter": {
+   "word": "quarter",
+   "level": "toeic600",
+   "seed": 2141321539
+  },
+  "quota": {
+   "word": "quota",
+   "level": "toeic730",
+   "seed": 2763526648
+  },
+  "quotation": {
+   "word": "quotation",
+   "level": "toeic730",
+   "seed": 4129651559
+  },
+  "quote": {
+   "word": "quote",
+   "level": "toeic730",
+   "seed": 4124675546
+  },
+  "range": {
+   "word": "range",
+   "level": "toeic600",
+   "seed": 1297461047
+  },
+  "rapport": {
+   "word": "rapport",
+   "level": "toeic860",
+   "seed": 3606541048
+  },
+  "rate": {
+   "word": "rate",
+   "level": "toeic600",
+   "seed": 503435797
+  },
+  "ratio": {
+   "word": "ratio",
+   "level": "toeic730",
+   "seed": 1264794042
+  },
+  "reaffirm": {
+   "word": "reaffirm",
+   "level": "toeic860",
+   "seed": 3578701359
+  },
+  "realign": {
+   "word": "realign",
+   "level": "toeic600",
+   "seed": 2059768627
+  },
+  "reasonable": {
+   "word": "reasonable",
+   "level": "toeic600",
+   "seed": 1973209098
+  },
+  "rebate": {
+   "word": "rebate",
+   "level": "toeic860",
+   "seed": 4266822688
+  },
+  "rebound": {
+   "word": "rebound",
+   "level": "toeic860",
+   "seed": 2684162167
+  },
+  "receipt": {
+   "word": "receipt",
+   "level": "toeic600",
+   "seed": 350620366
+  },
+  "receivable": {
+   "word": "receivable",
+   "level": "toeic860",
+   "seed": 2986865500
+  },
+  "reception": {
+   "word": "reception",
+   "level": "toeic600",
+   "seed": 1141210687
+  },
+  "recession": {
+   "word": "recession",
+   "level": "toeic730",
+   "seed": 3739625870
+  },
+  "recessionary": {
+   "word": "recessionary",
+   "level": "toeic860",
+   "seed": 866054363
+  },
+  "recipient": {
+   "word": "recipient",
+   "level": "toeic730",
+   "seed": 3691051652
+  },
+  "reciprocal": {
+   "word": "reciprocal",
+   "level": "toeic860",
+   "seed": 500068810
+  },
+  "recommend": {
+   "word": "recommend",
+   "level": "toeic600",
+   "seed": 535381377
+  },
+  "recompense": {
+   "word": "recompense",
+   "level": "toeic860",
+   "seed": 1911746943
+  },
+  "reconcile": {
+   "word": "reconcile",
+   "level": "toeic860",
+   "seed": 346613236
+  },
+  "recondition": {
+   "word": "recondition",
+   "level": "toeic860",
+   "seed": 2578202589
+  },
+  "recoup": {
+   "word": "recoup",
+   "level": "toeic860",
+   "seed": 1316130185
+  },
+  "recourse": {
+   "word": "recourse",
+   "level": "toeic860",
+   "seed": 4107903167
+  },
+  "recruit": {
+   "word": "recruit",
+   "level": "toeic730",
+   "seed": 2469586000
+  },
+  "recruitment": {
+   "word": "recruitment",
+   "level": "toeic860",
+   "seed": 4275804407
+  },
+  "rectify": {
+   "word": "rectify",
+   "level": "toeic860",
+   "seed": 3357309860
+  },
+  "redeem": {
+   "word": "redeem",
+   "level": "toeic860",
+   "seed": 2559281289
+  },
+  "redeploy": {
+   "word": "redeploy",
+   "level": "toeic860",
+   "seed": 2409090196
+  },
+  "redistribute": {
+   "word": "redistribute",
+   "level": "toeic860",
+   "seed": 55293610
+  },
+  "reduce": {
+   "word": "reduce",
+   "level": "toeic600",
+   "seed": 1220765855
+  },
+  "redundancy": {
+   "word": "redundancy",
+   "level": "toeic860",
+   "seed": 2458935410
+  },
+  "refer": {
+   "word": "refer",
+   "level": "toeic600",
+   "seed": 3692930569
+  },
+  "referral": {
+   "word": "referral",
+   "level": "toeic860",
+   "seed": 867732207
+  },
+  "refit": {
+   "word": "refit",
+   "level": "toeic860",
+   "seed": 1990321177
+  },
+  "refreshment": {
+   "word": "refreshment",
+   "level": "toeic600",
+   "seed": 3659925844
+  },
+  "refund": {
+   "word": "refund",
+   "level": "toeic600",
+   "seed": 3037796597
+  },
+  "refurbishment": {
+   "word": "refurbishment",
+   "level": "toeic860",
+   "seed": 1078393613
+  },
+  "register": {
+   "word": "register",
+   "level": "toeic600",
+   "seed": 329417355
+  },
+  "regressive": {
+   "word": "regressive",
+   "level": "toeic860",
+   "seed": 1156581524
+  },
+  "regrettable": {
+   "word": "regrettable",
+   "level": "toeic860",
+   "seed": 3584741394
+  },
+  "regular": {
+   "word": "regular",
+   "level": "toeic600",
+   "seed": 1599205310
+  },
+  "regulation": {
+   "word": "regulation",
+   "level": "toeic600",
+   "seed": 1931535029
+  },
+  "reimburse": {
+   "word": "reimburse",
+   "level": "toeic730",
+   "seed": 1699307756
+  },
+  "reimbursement": {
+   "word": "reimbursement",
+   "level": "toeic730",
+   "seed": 431477679
+  },
+  "reinforce": {
+   "word": "reinforce",
+   "level": "toeic730",
+   "seed": 2442250564
+  },
+  "reinstate": {
+   "word": "reinstate",
+   "level": "toeic860",
+   "seed": 179177729
+  },
+  "reinvigorate": {
+   "word": "reinvigorate",
+   "level": "toeic860",
+   "seed": 1593982216
+  },
+  "reiterate": {
+   "word": "reiterate",
+   "level": "toeic860",
+   "seed": 765200019
+  },
+  "reject": {
+   "word": "reject",
+   "level": "toeic600",
+   "seed": 2427435201
+  },
+  "reliable": {
+   "word": "reliable",
+   "level": "toeic600",
+   "seed": 3320369063
+  },
+  "relinquish": {
+   "word": "relinquish",
+   "level": "toeic860",
+   "seed": 897802846
+  },
+  "remind": {
+   "word": "remind",
+   "level": "toeic600",
+   "seed": 2859438962
+  },
+  "reminder": {
+   "word": "reminder",
+   "level": "toeic730",
+   "seed": 881582317
+  },
+  "remiss": {
+   "word": "remiss",
+   "level": "toeic860",
+   "seed": 609541233
+  },
+  "remit": {
+   "word": "remit",
+   "level": "toeic860",
+   "seed": 2403534396
+  },
+  "remittance": {
+   "word": "remittance",
+   "level": "toeic860",
+   "seed": 2268208408
+  },
+  "remotely": {
+   "word": "remotely",
+   "level": "toeic860",
+   "seed": 2307079404
+  },
+  "remunerate": {
+   "word": "remunerate",
+   "level": "toeic860",
+   "seed": 14728995
+  },
+  "remuneration": {
+   "word": "remuneration",
+   "level": "toeic860",
+   "seed": 1909981914
+  },
+  "remunerative": {
+   "word": "remunerative",
+   "level": "toeic860",
+   "seed": 3619117221
+  },
+  "renege": {
+   "word": "renege",
+   "level": "toeic860",
+   "seed": 2117615391
+  },
+  "renew": {
+   "word": "renew",
+   "level": "toeic600",
+   "seed": 4043458410
+  },
+  "renewal": {
+   "word": "renewal",
+   "level": "toeic730",
+   "seed": 1701208882
+  },
+  "renovation": {
+   "word": "renovation",
+   "level": "toeic730",
+   "seed": 1997831677
+  },
+  "rental": {
+   "word": "rental",
+   "level": "toeic600",
+   "seed": 2531999129
+  },
+  "reorganize": {
+   "word": "reorganize",
+   "level": "toeic730",
+   "seed": 898645623
+  },
+  "repair": {
+   "word": "repair",
+   "level": "toeic600",
+   "seed": 3903313650
+  },
+  "repay": {
+   "word": "repay",
+   "level": "toeic730",
+   "seed": 4012675526
+  },
+  "repayment": {
+   "word": "repayment",
+   "level": "toeic730",
+   "seed": 2344150446
+  },
+  "replace": {
+   "word": "replace",
+   "level": "toeic600",
+   "seed": 1017956287
+  },
+  "reply": {
+   "word": "reply",
+   "level": "toeic600",
+   "seed": 2782908898
+  },
+  "report": {
+   "word": "report",
+   "level": "toeic600",
+   "seed": 2725418941
+  },
+  "reprimand": {
+   "word": "reprimand",
+   "level": "toeic860",
+   "seed": 2499913453
+  },
+  "reputable": {
+   "word": "reputable",
+   "level": "toeic730",
+   "seed": 3628186405
+  },
+  "reputation": {
+   "word": "reputation",
+   "level": "toeic600",
+   "seed": 649242221
+  },
+  "request": {
+   "word": "request",
+   "level": "toeic600",
+   "seed": 143534512
+  },
+  "require": {
+   "word": "require",
+   "level": "toeic600",
+   "seed": 1648260803
+  },
+  "requirement": {
+   "word": "requirement",
+   "level": "toeic730",
+   "seed": 355601122
+  },
+  "requisite": {
+   "word": "requisite",
+   "level": "toeic860",
+   "seed": 105604965
+  },
+  "rescind": {
+   "word": "rescind",
+   "level": "toeic860",
+   "seed": 4149883117
+  },
+  "reservation": {
+   "word": "reservation",
+   "level": "toeic600",
+   "seed": 3169915631
+  },
+  "reserve": {
+   "word": "reserve",
+   "level": "toeic860",
+   "seed": 1538016192
+  },
+  "resign": {
+   "word": "resign",
+   "level": "toeic600",
+   "seed": 2370496416
+  },
+  "resolution": {
+   "word": "resolution",
+   "level": "toeic730",
+   "seed": 1182845651
+  },
+  "resolve": {
+   "word": "resolve",
+   "level": "toeic600",
+   "seed": 1316626564
+  },
+  "resource": {
+   "word": "resource",
+   "level": "toeic600",
+   "seed": 2047887160
+  },
+  "resourceful": {
+   "word": "resourceful",
+   "level": "toeic860",
+   "seed": 4022122848
+  },
+  "respective": {
+   "word": "respective",
+   "level": "toeic730",
+   "seed": 3804190054
+  },
+  "responsibility": {
+   "word": "responsibility",
+   "level": "toeic600",
+   "seed": 213722693
+  },
+  "restructure": {
+   "word": "restructure",
+   "level": "toeic730",
+   "seed": 190864383
+  },
+  "restructuring": {
+   "word": "restructuring",
+   "level": "toeic600",
+   "seed": 1068944201
+  },
+  "resume": {
+   "word": "resume",
+   "level": "toeic730",
+   "seed": 2729712570
+  },
+  "retail": {
+   "word": "retail",
+   "level": "toeic600",
+   "seed": 1186692668
+  },
+  "retain": {
+   "word": "retain",
+   "level": "toeic730",
+   "seed": 2125858061
+  },
+  "retention": {
+   "word": "retention",
+   "level": "toeic860",
+   "seed": 837196511
+  },
+  "retire": {
+   "word": "retire",
+   "level": "toeic600",
+   "seed": 4121438274
+  },
+  "revamp": {
+   "word": "revamp",
+   "level": "toeic860",
+   "seed": 4260379352
+  },
+  "revenue": {
+   "word": "revenue",
+   "level": "toeic730",
+   "seed": 2885102597
+  },
+  "review": {
+   "word": "review",
+   "level": "toeic600",
+   "seed": 1642474273
+  },
+  "revitalize": {
+   "word": "revitalize",
+   "level": "toeic860",
+   "seed": 3797676358
+  },
+  "revoke": {
+   "word": "revoke",
+   "level": "toeic860",
+   "seed": 3898216265
+  },
+  "rivalry": {
+   "word": "rivalry",
+   "level": "toeic730",
+   "seed": 2890724814
+  },
+  "roadmap": {
+   "word": "roadmap",
+   "level": "toeic860",
+   "seed": 44890555
+  },
+  "robust": {
+   "word": "robust",
+   "level": "toeic730",
+   "seed": 1478143518
+  },
+  "roughly": {
+   "word": "roughly",
+   "level": "toeic600",
+   "seed": 2687046539
+  },
+  "route": {
+   "word": "route",
+   "level": "toeic600",
+   "seed": 4229328568
+  },
+  "salaried": {
+   "word": "salaried",
+   "level": "toeic860",
+   "seed": 1644235490
+  },
+  "salary": {
+   "word": "salary",
+   "level": "toeic600",
+   "seed": 1205857109
+  },
+  "salvage": {
+   "word": "salvage",
+   "level": "toeic860",
+   "seed": 2926530990
+  },
+  "satisfactory": {
+   "word": "satisfactory",
+   "level": "toeic730",
+   "seed": 3296726116
+  },
+  "saturate": {
+   "word": "saturate",
+   "level": "toeic860",
+   "seed": 3349329308
+  },
+  "saturated": {
+   "word": "saturated",
+   "level": "toeic860",
+   "seed": 140086384
+  },
+  "saturation": {
+   "word": "saturation",
+   "level": "toeic860",
+   "seed": 2848170354
+  },
+  "saver": {
+   "word": "saver",
+   "level": "toeic730",
+   "seed": 3747873595
+  },
+  "savings": {
+   "word": "savings",
+   "level": "toeic730",
+   "seed": 2259456284
+  },
+  "scalable": {
+   "word": "scalable",
+   "level": "toeic600",
+   "seed": 2149058452
+  },
+  "scenario": {
+   "word": "scenario",
+   "level": "toeic860",
+   "seed": 1680359760
+  },
+  "schedule": {
+   "word": "schedule",
+   "level": "toeic600",
+   "seed": 300530214
+  },
+  "scheme": {
+   "word": "scheme",
+   "level": "toeic730",
+   "seed": 2594068205
+  },
+  "scope": {
+   "word": "scope",
+   "level": "toeic730",
+   "seed": 2865574147
+  },
+  "scrap": {
+   "word": "scrap",
+   "level": "toeic730",
+   "seed": 3233732124
+  },
+  "scrupulous": {
+   "word": "scrupulous",
+   "level": "toeic860",
+   "seed": 1480470530
+  },
+  "scrutiny": {
+   "word": "scrutiny",
+   "level": "toeic860",
+   "seed": 1082731547
+  },
+  "seal": {
+   "word": "seal",
+   "level": "toeic730",
+   "seed": 252631019
+  },
+  "seamless": {
+   "word": "seamless",
+   "level": "toeic860",
+   "seed": 1980509781
+  },
+  "seat": {
+   "word": "seat",
+   "level": "toeic600",
+   "seed": 2894154956
+  },
+  "seatbelt": {
+   "word": "seatbelt",
+   "level": "toeic600",
+   "seed": 905184434
+  },
+  "sector": {
+   "word": "sector",
+   "level": "toeic730",
+   "seed": 3472716914
+  },
+  "secure": {
+   "word": "secure",
+   "level": "toeic730",
+   "seed": 3491089478
+  },
+  "security": {
+   "word": "security",
+   "level": "toeic600",
+   "seed": 2397862852
+  },
+  "seek": {
+   "word": "seek",
+   "level": "toeic600",
+   "seed": 362067876
+  },
+  "segment": {
+   "word": "segment",
+   "level": "toeic730",
+   "seed": 1786833832
+  },
+  "selection": {
+   "word": "selection",
+   "level": "toeic600",
+   "seed": 1869212541
+  },
+  "seminar": {
+   "word": "seminar",
+   "level": "toeic600",
+   "seed": 1687998212
+  },
+  "sentiment": {
+   "word": "sentiment",
+   "level": "toeic860",
+   "seed": 1347051112
+  },
+  "serial": {
+   "word": "serial",
+   "level": "toeic730",
+   "seed": 1356752567
+  },
+  "serve": {
+   "word": "serve",
+   "level": "toeic600",
+   "seed": 3096426610
+  },
+  "session": {
+   "word": "session",
+   "level": "toeic600",
+   "seed": 4240295106
+  },
+  "setback": {
+   "word": "setback",
+   "level": "toeic730",
+   "seed": 2702975641
+  },
+  "severance": {
+   "word": "severance",
+   "level": "toeic860",
+   "seed": 3373396609
+  },
+  "shareholder": {
+   "word": "shareholder",
+   "level": "toeic730",
+   "seed": 1628928684
+  },
+  "shift": {
+   "word": "shift",
+   "level": "toeic600",
+   "seed": 3688340273
+  },
+  "shipment": {
+   "word": "shipment",
+   "level": "toeic730",
+   "seed": 4112134855
+  },
+  "shortfall": {
+   "word": "shortfall",
+   "level": "toeic860",
+   "seed": 4143177364
+  },
+  "showcase": {
+   "word": "showcase",
+   "level": "toeic730",
+   "seed": 2839657365
+  },
+  "showroom": {
+   "word": "showroom",
+   "level": "toeic860",
+   "seed": 3542035597
+  },
+  "shred": {
+   "word": "shred",
+   "level": "toeic860",
+   "seed": 1932356476
+  },
+  "shrewd": {
+   "word": "shrewd",
+   "level": "toeic730",
+   "seed": 3715802802
+  },
+  "shuttle": {
+   "word": "shuttle",
+   "level": "toeic600",
+   "seed": 2271514127
+  },
+  "sightseeing": {
+   "word": "sightseeing",
+   "level": "toeic600",
+   "seed": 4106224953
+  },
+  "significantly": {
+   "word": "significantly",
+   "level": "toeic730",
+   "seed": 2897231759
+  },
+  "single": {
+   "word": "single",
+   "level": "toeic600",
+   "seed": 3456833042
+  },
+  "siphon": {
+   "word": "siphon",
+   "level": "toeic860",
+   "seed": 2491288836
+  },
+  "skill": {
+   "word": "skill",
+   "level": "toeic600",
+   "seed": 884162048
+  },
+  "skittish": {
+   "word": "skittish",
+   "level": "toeic860",
+   "seed": 3732447601
+  },
+  "slack": {
+   "word": "slack",
+   "level": "toeic860",
+   "seed": 268332094
+  },
+  "slacken": {
+   "word": "slacken",
+   "level": "toeic860",
+   "seed": 3909953886
+  },
+  "slash": {
+   "word": "slash",
+   "level": "toeic860",
+   "seed": 3202483768
+  },
+  "slide": {
+   "word": "slide",
+   "level": "toeic860",
+   "seed": 3881704422
+  },
+  "slogan": {
+   "word": "slogan",
+   "level": "toeic600",
+   "seed": 125893464
+  },
+  "slot": {
+   "word": "slot",
+   "level": "toeic860",
+   "seed": 1177048313
+  },
+  "slowdown": {
+   "word": "slowdown",
+   "level": "toeic860",
+   "seed": 2470003909
+  },
+  "sluggish": {
+   "word": "sluggish",
+   "level": "toeic860",
+   "seed": 1313323090
+  },
+  "slump": {
+   "word": "slump",
+   "level": "toeic730",
+   "seed": 2769706228
+  },
+  "sole": {
+   "word": "sole",
+   "level": "toeic730",
+   "seed": 1717199470
+  },
+  "solicit": {
+   "word": "solicit",
+   "level": "toeic860",
+   "seed": 3358326425
+  },
+  "solidify": {
+   "word": "solidify",
+   "level": "toeic860",
+   "seed": 1480235984
+  },
+  "solvency": {
+   "word": "solvency",
+   "level": "toeic860",
+   "seed": 220738457
+  },
+  "sophisticated": {
+   "word": "sophisticated",
+   "level": "toeic730",
+   "seed": 3001885215
+  },
+  "souvenir": {
+   "word": "souvenir",
+   "level": "toeic600",
+   "seed": 3852352947
+  },
+  "span": {
+   "word": "span",
+   "level": "toeic860",
+   "seed": 1663432902
+  },
+  "spawn": {
+   "word": "spawn",
+   "level": "toeic860",
+   "seed": 1646727690
+  },
+  "spearhead": {
+   "word": "spearhead",
+   "level": "toeic730",
+   "seed": 352702924
+  },
+  "specialize": {
+   "word": "specialize",
+   "level": "toeic730",
+   "seed": 2876449707
+  },
+  "specials": {
+   "word": "specials",
+   "level": "toeic600",
+   "seed": 355787795
+  },
+  "specialty": {
+   "word": "specialty",
+   "level": "toeic860",
+   "seed": 1826516097
+  },
+  "specific": {
+   "word": "specific",
+   "level": "toeic600",
+   "seed": 1712127938
+  },
+  "specification": {
+   "word": "specification",
+   "level": "toeic730",
+   "seed": 64397716
+  },
+  "speculate": {
+   "word": "speculate",
+   "level": "toeic730",
+   "seed": 565709809
+  },
+  "speculation": {
+   "word": "speculation",
+   "level": "toeic730",
+   "seed": 3811895821
+  },
+  "speculative": {
+   "word": "speculative",
+   "level": "toeic730",
+   "seed": 640803874
+  },
+  "spending": {
+   "word": "spending",
+   "level": "toeic730",
+   "seed": 1471857911
+  },
+  "spike": {
+   "word": "spike",
+   "level": "toeic730",
+   "seed": 1942762425
+  },
+  "spokesperson": {
+   "word": "spokesperson",
+   "level": "toeic860",
+   "seed": 521175484
+  },
+  "sponsor": {
+   "word": "sponsor",
+   "level": "toeic600",
+   "seed": 2871080944
+  },
+  "spreadsheet": {
+   "word": "spreadsheet",
+   "level": "toeic860",
+   "seed": 1184055926
+  },
+  "spur": {
+   "word": "spur",
+   "level": "toeic860",
+   "seed": 4092421904
+  },
+  "stability": {
+   "word": "stability",
+   "level": "toeic730",
+   "seed": 3875948486
+  },
+  "stabilize": {
+   "word": "stabilize",
+   "level": "toeic860",
+   "seed": 3577015115
+  },
+  "stack": {
+   "word": "stack",
+   "level": "toeic860",
+   "seed": 2993538861
+  },
+  "staff": {
+   "word": "staff",
+   "level": "toeic600",
+   "seed": 1825262460
+  },
+  "stagnant": {
+   "word": "stagnant",
+   "level": "toeic860",
+   "seed": 3935844413
+  },
+  "stagnate": {
+   "word": "stagnate",
+   "level": "toeic860",
+   "seed": 3072162321
+  },
+  "stagnation": {
+   "word": "stagnation",
+   "level": "toeic860",
+   "seed": 776306801
+  },
+  "stake": {
+   "word": "stake",
+   "level": "toeic730",
+   "seed": 795643755
+  },
+  "stakeholder": {
+   "word": "stakeholder",
+   "level": "toeic730",
+   "seed": 1620116122
+  },
+  "stall": {
+   "word": "stall",
+   "level": "toeic600",
+   "seed": 1847356574
+  },
+  "standby": {
+   "word": "standby",
+   "level": "toeic730",
+   "seed": 2251965097
+  },
+  "standpoint": {
+   "word": "standpoint",
+   "level": "toeic730",
+   "seed": 2515350515
+  },
+  "startup": {
+   "word": "startup",
+   "level": "toeic600",
+   "seed": 1908200834
+  },
+  "statement": {
+   "word": "statement",
+   "level": "toeic600",
+   "seed": 3149476044
+  },
+  "static": {
+   "word": "static",
+   "level": "toeic860",
+   "seed": 2743162410
+  },
+  "stimulate": {
+   "word": "stimulate",
+   "level": "toeic860",
+   "seed": 3798763035
+  },
+  "stimulus": {
+   "word": "stimulus",
+   "level": "toeic860",
+   "seed": 1249478315
+  },
+  "stipend": {
+   "word": "stipend",
+   "level": "toeic860",
+   "seed": 3808279616
+  },
+  "stipulate": {
+   "word": "stipulate",
+   "level": "toeic860",
+   "seed": 3120674170
+  },
+  "stipulation": {
+   "word": "stipulation",
+   "level": "toeic860",
+   "seed": 3207012250
+  },
+  "stock": {
+   "word": "stock",
+   "level": "toeic600",
+   "seed": 3980951070
+  },
+  "stockpile": {
+   "word": "stockpile",
+   "level": "toeic860",
+   "seed": 1481998414
+  },
+  "stopover": {
+   "word": "stopover",
+   "level": "toeic730",
+   "seed": 493292699
+  },
+  "straightforward": {
+   "word": "straightforward",
+   "level": "toeic730",
+   "seed": 4289645373
+  },
+  "stranglehold": {
+   "word": "stranglehold",
+   "level": "toeic860",
+   "seed": 3917246792
+  },
+  "strategic": {
+   "word": "strategic",
+   "level": "toeic730",
+   "seed": 2024207260
+  },
+  "strategy": {
+   "word": "strategy",
+   "level": "toeic600",
+   "seed": 836832867
+  },
+  "streamline": {
+   "word": "streamline",
+   "level": "toeic600",
+   "seed": 3397133303
+  },
+  "stringent": {
+   "word": "stringent",
+   "level": "toeic860",
+   "seed": 3300583380
+  },
+  "subdued": {
+   "word": "subdued",
+   "level": "toeic860",
+   "seed": 3313240626
+  },
+  "submit": {
+   "word": "submit",
+   "level": "toeic600",
+   "seed": 1067713871
+  },
+  "subordinate": {
+   "word": "subordinate",
+   "level": "toeic730",
+   "seed": 3948417665
+  },
+  "subscription": {
+   "word": "subscription",
+   "level": "toeic730",
+   "seed": 3700521591
+  },
+  "subsidiary": {
+   "word": "subsidiary",
+   "level": "toeic730",
+   "seed": 1094752007
+  },
+  "subsidize": {
+   "word": "subsidize",
+   "level": "toeic860",
+   "seed": 618058170
+  },
+  "substantial": {
+   "word": "substantial",
+   "level": "toeic730",
+   "seed": 3376246865
+  },
+  "succession": {
+   "word": "succession",
+   "level": "toeic730",
+   "seed": 2773441861
+  },
+  "succinctly": {
+   "word": "succinctly",
+   "level": "toeic860",
+   "seed": 1140832144
+  },
+  "sufficient": {
+   "word": "sufficient",
+   "level": "toeic730",
+   "seed": 121378444
+  },
+  "sufficiently": {
+   "word": "sufficiently",
+   "level": "toeic860",
+   "seed": 3452930554
+  },
+  "suite": {
+   "word": "suite",
+   "level": "toeic730",
+   "seed": 1557485137
+  },
+  "sum": {
+   "word": "sum",
+   "level": "toeic730",
+   "seed": 3923768149
+  },
+  "superintendent": {
+   "word": "superintendent",
+   "level": "toeic860",
+   "seed": 593170256
+  },
+  "superior": {
+   "word": "superior",
+   "level": "toeic600",
+   "seed": 104714017
+  },
+  "supervise": {
+   "word": "supervise",
+   "level": "toeic730",
+   "seed": 2724151233
+  },
+  "supervision": {
+   "word": "supervision",
+   "level": "toeic730",
+   "seed": 3080042250
+  },
+  "supervisor": {
+   "word": "supervisor",
+   "level": "toeic600",
+   "seed": 256707044
+  },
+  "supplant": {
+   "word": "supplant",
+   "level": "toeic860",
+   "seed": 1272129813
+  },
+  "supplier": {
+   "word": "supplier",
+   "level": "toeic730",
+   "seed": 3801587317
+  },
+  "supply": {
+   "word": "supply",
+   "level": "toeic600",
+   "seed": 124647189
+  },
+  "support": {
+   "word": "support",
+   "level": "toeic600",
+   "seed": 1541198784
+  },
+  "surcharge": {
+   "word": "surcharge",
+   "level": "toeic730",
+   "seed": 2439655345
+  },
+  "surpass": {
+   "word": "surpass",
+   "level": "toeic860",
+   "seed": 3347797820
+  },
+  "survey": {
+   "word": "survey",
+   "level": "toeic600",
+   "seed": 1647841227
+  },
+  "suspend": {
+   "word": "suspend",
+   "level": "toeic600",
+   "seed": 3069232191
+  },
+  "sustain": {
+   "word": "sustain",
+   "level": "toeic730",
+   "seed": 480979432
+  },
+  "swap": {
+   "word": "swap",
+   "level": "toeic860",
+   "seed": 2917343605
+  },
+  "switch": {
+   "word": "switch",
+   "level": "toeic600",
+   "seed": 28998034
+  },
+  "synergy": {
+   "word": "synergy",
+   "level": "toeic600",
+   "seed": 2882112354
+  },
+  "tactic": {
+   "word": "tactic",
+   "level": "toeic730",
+   "seed": 2155909213
+  },
+  "tactically": {
+   "word": "tactically",
+   "level": "toeic860",
+   "seed": 4140099962
+  },
+  "tailor": {
+   "word": "tailor",
+   "level": "toeic860",
+   "seed": 1566674295
+  },
+  "takeout": {
+   "word": "takeout",
+   "level": "toeic600",
+   "seed": 3555383486
+  },
+  "takeover": {
+   "word": "takeover",
+   "level": "toeic600",
+   "seed": 1733452075
+  },
+  "tally": {
+   "word": "tally",
+   "level": "toeic860",
+   "seed": 3766928512
+  },
+  "tangible": {
+   "word": "tangible",
+   "level": "toeic860",
+   "seed": 3323610847
+  },
+  "tangibly": {
+   "word": "tangibly",
+   "level": "toeic860",
+   "seed": 97118460
+  },
+  "target": {
+   "word": "target",
+   "level": "toeic600",
+   "seed": 243940057
+  },
+  "tariff": {
+   "word": "tariff",
+   "level": "toeic730",
+   "seed": 1427859236
+  },
+  "task": {
+   "word": "task",
+   "level": "toeic600",
+   "seed": 2142990973
+  },
+  "tax": {
+   "word": "tax",
+   "level": "toeic600",
+   "seed": 3907157002
+  },
+  "taxable": {
+   "word": "taxable",
+   "level": "toeic860",
+   "seed": 3868806460
+  },
+  "taxation": {
+   "word": "taxation",
+   "level": "toeic860",
+   "seed": 3805618840
+  },
+  "taxpayer": {
+   "word": "taxpayer",
+   "level": "toeic860",
+   "seed": 309498572
+  },
+  "temporary": {
+   "word": "temporary",
+   "level": "toeic600",
+   "seed": 3705441069
+  },
+  "tender": {
+   "word": "tender",
+   "level": "toeic730",
+   "seed": 610082442
+  },
+  "tentative": {
+   "word": "tentative",
+   "level": "toeic860",
+   "seed": 2834030305
+  },
+  "tentatively": {
+   "word": "tentatively",
+   "level": "toeic860",
+   "seed": 2366096579
+  },
+  "tenure": {
+   "word": "tenure",
+   "level": "toeic860",
+   "seed": 3368430432
+  },
+  "terminal": {
+   "word": "terminal",
+   "level": "toeic600",
+   "seed": 1188385242
+  },
+  "terminate": {
+   "word": "terminate",
+   "level": "toeic730",
+   "seed": 3798072274
+  },
+  "testimonial": {
+   "word": "testimonial",
+   "level": "toeic860",
+   "seed": 3029054806
+  },
+  "thorough": {
+   "word": "thorough",
+   "level": "toeic860",
+   "seed": 3523991771
+  },
+  "threshold": {
+   "word": "threshold",
+   "level": "toeic860",
+   "seed": 31128297
+  },
+  "thrift": {
+   "word": "thrift",
+   "level": "toeic860",
+   "seed": 864820822
+  },
+  "thrive": {
+   "word": "thrive",
+   "level": "toeic730",
+   "seed": 1249007327
+  },
+  "ticket": {
+   "word": "ticket",
+   "level": "toeic600",
+   "seed": 879572128
+  },
+  "tighten": {
+   "word": "tighten",
+   "level": "toeic730",
+   "seed": 302758203
+  },
+  "timetable": {
+   "word": "timetable",
+   "level": "toeic600",
+   "seed": 2000719923
+  },
+  "tip": {
+   "word": "tip",
+   "level": "toeic600",
+   "seed": 812291711
+  },
+  "tipping": {
+   "word": "tipping",
+   "level": "toeic600",
+   "seed": 450183640
+  },
+  "toll": {
+   "word": "toll",
+   "level": "toeic600",
+   "seed": 1019751271
+  },
+  "tout": {
+   "word": "tout",
+   "level": "toeic860",
+   "seed": 72394791
+  },
+  "trademark": {
+   "word": "trademark",
+   "level": "toeic730",
+   "seed": 29587859
+  },
+  "tradeoff": {
+   "word": "tradeoff",
+   "level": "toeic860",
+   "seed": 2752525584
+  },
+  "transaction": {
+   "word": "transaction",
+   "level": "toeic730",
+   "seed": 1103399765
+  },
+  "transfer": {
+   "word": "transfer",
+   "level": "toeic600",
+   "seed": 876743925
+  },
+  "transit": {
+   "word": "transit",
+   "level": "toeic730",
+   "seed": 425133259
+  },
+  "transition": {
+   "word": "transition",
+   "level": "toeic730",
+   "seed": 1455393512
+  },
+  "translate": {
+   "word": "translate",
+   "level": "toeic600",
+   "seed": 1054429363
+  },
+  "transparent": {
+   "word": "transparent",
+   "level": "toeic730",
+   "seed": 59666232
+  },
+  "treasury": {
+   "word": "treasury",
+   "level": "toeic860",
+   "seed": 2667441855
+  },
+  "turbulence": {
+   "word": "turbulence",
+   "level": "toeic730",
+   "seed": 3328783622
+  },
+  "turnaround": {
+   "word": "turnaround",
+   "level": "toeic600",
+   "seed": 1188851705
+  },
+  "turnover": {
+   "word": "turnover",
+   "level": "toeic730",
+   "seed": 2212821947
+  },
+  "tweak": {
+   "word": "tweak",
+   "level": "toeic860",
+   "seed": 4213070466
+  },
+  "twin": {
+   "word": "twin",
+   "level": "toeic600",
+   "seed": 3193985411
+  },
+  "unable": {
+   "word": "unable",
+   "level": "toeic600",
+   "seed": 2515474677
+  },
+  "unanimously": {
+   "word": "unanimously",
+   "level": "toeic860",
+   "seed": 2643927830
+  },
+  "uncertain": {
+   "word": "uncertain",
+   "level": "toeic730",
+   "seed": 1864345862
+  },
+  "uncertainty": {
+   "word": "uncertainty",
+   "level": "toeic730",
+   "seed": 708417365
+  },
+  "underfund": {
+   "word": "underfund",
+   "level": "toeic860",
+   "seed": 4236101387
+  },
+  "underperform": {
+   "word": "underperform",
+   "level": "toeic600",
+   "seed": 3718077226
+  },
+  "underpin": {
+   "word": "underpin",
+   "level": "toeic860",
+   "seed": 3951865217
+  },
+  "undertake": {
+   "word": "undertake",
+   "level": "toeic730",
+   "seed": 3416762219
+  },
+  "undervalue": {
+   "word": "undervalue",
+   "level": "toeic860",
+   "seed": 2142510007
+  },
+  "undervalued": {
+   "word": "undervalued",
+   "level": "toeic860",
+   "seed": 1706594145
+  },
+  "underway": {
+   "word": "underway",
+   "level": "toeic730",
+   "seed": 696191936
+  },
+  "underwrite": {
+   "word": "underwrite",
+   "level": "toeic860",
+   "seed": 3018303704
+  },
+  "unforeseen": {
+   "word": "unforeseen",
+   "level": "toeic730",
+   "seed": 1301082331
+  },
+  "unpaid": {
+   "word": "unpaid",
+   "level": "toeic730",
+   "seed": 4063485177
+  },
+  "unprofitable": {
+   "word": "unprofitable",
+   "level": "toeic860",
+   "seed": 1397998703
+  },
+  "unrivaled": {
+   "word": "unrivaled",
+   "level": "toeic860",
+   "seed": 148810582
+  },
+  "unscrupulous": {
+   "word": "unscrupulous",
+   "level": "toeic860",
+   "seed": 358007301
+  },
+  "upcoming": {
+   "word": "upcoming",
+   "level": "toeic600",
+   "seed": 3192868676
+  },
+  "update": {
+   "word": "update",
+   "level": "toeic600",
+   "seed": 170244697
+  },
+  "upgrade": {
+   "word": "upgrade",
+   "level": "toeic600",
+   "seed": 2086568919
+  },
+  "upscale": {
+   "word": "upscale",
+   "level": "toeic860",
+   "seed": 3506700114
+  },
+  "upturn": {
+   "word": "upturn",
+   "level": "toeic860",
+   "seed": 2005539309
+  },
+  "urgent": {
+   "word": "urgent",
+   "level": "toeic600",
+   "seed": 2366430880
+  },
+  "utility": {
+   "word": "utility",
+   "level": "toeic730",
+   "seed": 2290416944
+  },
+  "vacancy": {
+   "word": "vacancy",
+   "level": "toeic730",
+   "seed": 3881612595
+  },
+  "vacant": {
+   "word": "vacant",
+   "level": "toeic860",
+   "seed": 4177010325
+  },
+  "valet": {
+   "word": "valet",
+   "level": "toeic730",
+   "seed": 1239739240
+  },
+  "valid": {
+   "word": "valid",
+   "level": "toeic600",
+   "seed": 3200410240
+  },
+  "valuable": {
+   "word": "valuable",
+   "level": "toeic730",
+   "seed": 4232033705
+  },
+  "valuation": {
+   "word": "valuation",
+   "level": "toeic860",
+   "seed": 4090569607
+  },
+  "vegetarian": {
+   "word": "vegetarian",
+   "level": "toeic600",
+   "seed": 899762964
+  },
+  "vendor": {
+   "word": "vendor",
+   "level": "toeic730",
+   "seed": 2682041076
+  },
+  "venture": {
+   "word": "venture",
+   "level": "toeic730",
+   "seed": 918896548
+  },
+  "venue": {
+   "word": "venue",
+   "level": "toeic730",
+   "seed": 840454424
+  },
+  "verbal": {
+   "word": "verbal",
+   "level": "toeic860",
+   "seed": 2714543375
+  },
+  "verify": {
+   "word": "verify",
+   "level": "toeic730",
+   "seed": 2258904605
+  },
+  "viable": {
+   "word": "viable",
+   "level": "toeic730",
+   "seed": 2816496998
+  },
+  "vie": {
+   "word": "vie",
+   "level": "toeic860",
+   "seed": 1613294913
+  },
+  "vigilance": {
+   "word": "vigilance",
+   "level": "toeic860",
+   "seed": 1006256511
+  },
+  "visa": {
+   "word": "visa",
+   "level": "toeic600",
+   "seed": 1745951533
+  },
+  "vision": {
+   "word": "vision",
+   "level": "toeic600",
+   "seed": 1650398109
+  },
+  "visionary": {
+   "word": "visionary",
+   "level": "toeic600",
+   "seed": 3499552259
+  },
+  "vocation": {
+   "word": "vocation",
+   "level": "toeic860",
+   "seed": 2707468069
+  },
+  "vocational": {
+   "word": "vocational",
+   "level": "toeic860",
+   "seed": 1320930481
+  },
+  "void": {
+   "word": "void",
+   "level": "toeic860",
+   "seed": 3922648731
+  },
+  "volatile": {
+   "word": "volatile",
+   "level": "toeic860",
+   "seed": 1527953786
+  },
+  "volatility": {
+   "word": "volatility",
+   "level": "toeic860",
+   "seed": 1505523677
+  },
+  "voluntary": {
+   "word": "voluntary",
+   "level": "toeic730",
+   "seed": 2029435329
+  },
+  "volunteer": {
+   "word": "volunteer",
+   "level": "toeic600",
+   "seed": 23549481
+  },
+  "voucher": {
+   "word": "voucher",
+   "level": "toeic860",
+   "seed": 4031638341
+  },
+  "wage": {
+   "word": "wage",
+   "level": "toeic600",
+   "seed": 737537724
+  },
+  "waiter": {
+   "word": "waiter",
+   "level": "toeic600",
+   "seed": 3181731504
+  },
+  "waive": {
+   "word": "waive",
+   "level": "toeic860",
+   "seed": 65025606
+  },
+  "waiver": {
+   "word": "waiver",
+   "level": "toeic860",
+   "seed": 2142448339
+  },
+  "warehouse": {
+   "word": "warehouse",
+   "level": "toeic600",
+   "seed": 1245036644
+  },
+  "warranty": {
+   "word": "warranty",
+   "level": "toeic730",
+   "seed": 217446861
+  },
+  "welfare": {
+   "word": "welfare",
+   "level": "toeic600",
+   "seed": 1242958310
+  },
+  "whereby": {
+   "word": "whereby",
+   "level": "toeic730",
+   "seed": 202151336
+  },
+  "wholehearted": {
+   "word": "wholehearted",
+   "level": "toeic860",
+   "seed": 3872280814
+  },
+  "wholesale": {
+   "word": "wholesale",
+   "level": "toeic730",
+   "seed": 2358516406
+  },
+  "wholesaler": {
+   "word": "wholesaler",
+   "level": "toeic860",
+   "seed": 2359735948
+  },
+  "willingly": {
+   "word": "willingly",
+   "level": "toeic860",
+   "seed": 2758104275
+  },
+  "willingness": {
+   "word": "willingness",
+   "level": "toeic600",
+   "seed": 1437182565
+  },
+  "windfall": {
+   "word": "windfall",
+   "level": "toeic860",
+   "seed": 2262880173
+  },
+  "withdraw": {
+   "word": "withdraw",
+   "level": "toeic600",
+   "seed": 2501870860
+  },
+  "withhold": {
+   "word": "withhold",
+   "level": "toeic860",
+   "seed": 2032256206
+  },
+  "withholding": {
+   "word": "withholding",
+   "level": "toeic860",
+   "seed": 1333994166
+  },
+  "woo": {
+   "word": "woo",
+   "level": "toeic860",
+   "seed": 1251533885
+  },
+  "workday": {
+   "word": "workday",
+   "level": "toeic600",
+   "seed": 323883161
+  },
+  "workload": {
+   "word": "workload",
+   "level": "toeic730",
+   "seed": 2356032108
+  },
+  "workplace": {
+   "word": "workplace",
+   "level": "toeic600",
+   "seed": 106354045
+  },
+  "worldwide": {
+   "word": "worldwide",
+   "level": "toeic600",
+   "seed": 3817703298
+  },
+  "worth": {
+   "word": "worth",
+   "level": "toeic730",
+   "seed": 3314649958
+  },
+  "wrongful": {
+   "word": "wrongful",
+   "level": "toeic860",
+   "seed": 3385774845
+  },
+  "yardstick": {
+   "word": "yardstick",
+   "level": "toeic730",
+   "seed": 4004745474
+  },
+  "yield": {
+   "word": "yield",
+   "level": "toeic730",
+   "seed": 4046331535
+  }
+ }
+}
