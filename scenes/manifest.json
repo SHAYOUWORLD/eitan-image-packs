@@ -964,8 +964,8 @@
   },
   "affiliate": {
    "word": "affiliate",
-   "level": "toeic860",
-   "seed": 2745603707
+   "level": "eiken-pre1",
+   "seed": 2745803707
   },
   "affiliation": {
    "word": "affiliation",
@@ -1959,8 +1959,8 @@
   },
   "answer": {
    "word": "answer",
-   "level": "school-jhs1",
-   "seed": 635185195
+   "level": "school-es",
+   "seed": 635285195
   },
   "antagonist": {
    "word": "antagonist",
@@ -2625,7 +2625,7 @@
   "as_well_as": {
    "word": "as well as",
    "level": "idioms-phrase",
-   "seed": 2682786080
+   "seed": 2682886080
   },
   "ascend": {
    "word": "ascend",
@@ -3699,8 +3699,8 @@
   },
   "basis": {
    "word": "basis",
-   "level": "school-hs1",
-   "seed": 2285019183
+   "level": "eiken-pre2",
+   "seed": 2285119183
   },
   "basket": {
    "word": "basket",
@@ -5829,7 +5829,7 @@
   },
   "cardinal": {
    "word": "cardinal",
-   "level": "r",
+   "level": "eiken-pre1",
    "seed": 792796492
   },
   "cardiovascular": {
@@ -5911,6 +5911,11 @@
    "word": "carry-on",
    "level": "idioms-compound",
    "seed": 1259608784
+  },
+  "carry_on_continue": {
+   "word": "carry on",
+   "level": "idioms-phrasal",
+   "seed": 3817615778
   },
   "carry_out": {
    "word": "carry out",
@@ -6689,7 +6694,7 @@
   },
   "chronological": {
    "word": "chronological",
-   "level": "r",
+   "level": "eiken-2",
    "seed": 2834449689
   },
   "chunk": {
@@ -8364,7 +8369,7 @@
   },
   "conjecture": {
    "word": "conjecture",
-   "level": "r",
+   "level": "eiken-pre1",
    "seed": 1277518778
   },
   "conjure": {
@@ -8564,7 +8569,7 @@
   },
   "conspiracy": {
    "word": "conspiracy",
-   "level": "r",
+   "level": "eiken-pre1",
    "seed": 1634034324
   },
   "conspire": {
@@ -10499,7 +10504,7 @@
   },
   "decrease": {
    "word": "decrease",
-   "level": "r",
+   "level": "eiken-4",
    "seed": 286118720
   },
   "decree": {
@@ -11585,7 +11590,7 @@
   "difference": {
    "word": "difference",
    "level": "eiken-4",
-   "seed": 1221934190
+   "seed": 1222134190
   },
   "different": {
    "word": "different",
@@ -12299,7 +12304,7 @@
   },
   "dissent": {
    "word": "dissent",
-   "level": "r",
+   "level": "eiken-pre1",
    "seed": 3730869570
   },
   "dissertation": {
@@ -12699,8 +12704,8 @@
   },
   "dormant": {
    "word": "dormant",
-   "level": "school-hs3",
-   "seed": 2702271657
+   "level": "eiken-pre1",
+   "seed": 2702871657
   },
   "dormitory": {
    "word": "dormitory",
@@ -12844,7 +12849,7 @@
   },
   "dramatic": {
    "word": "dramatic",
-   "level": "r",
+   "level": "eiken-2",
    "seed": 697529691
   },
   "dramatically": {
@@ -14614,7 +14619,7 @@
   },
   "estrangement": {
    "word": "estrangement",
-   "level": "r",
+   "level": "eiken-pre1",
    "seed": 4134588548
   },
   "eternal": {
@@ -14784,7 +14789,7 @@
   },
   "evidently": {
    "word": "evidently",
-   "level": "r",
+   "level": "eiken-pre1",
    "seed": 3401341043
   },
   "evil": {
@@ -14824,7 +14829,7 @@
   },
   "exactly": {
    "word": "exactly",
-   "level": "r",
+   "level": "eiken-3",
    "seed": 4197850627
   },
   "exaggerate": {
@@ -16049,7 +16054,7 @@
   },
   "fewer": {
    "word": "fewer",
-   "level": "r",
+   "level": "eiken-4",
    "seed": 661476296
   },
   "fiasco": {
@@ -16915,7 +16920,7 @@
   "forth": {
    "word": "forth",
    "level": "eiken-2",
-   "seed": 795936416
+   "seed": 796036416
   },
   "forthcoming": {
    "word": "forthcoming",
@@ -17664,7 +17669,7 @@
   },
   "gene": {
    "word": "gene",
-   "level": "r",
+   "level": "eiken-2",
    "seed": 3184060086
   },
   "general": {
@@ -18349,7 +18354,7 @@
   },
   "gradual": {
    "word": "gradual",
-   "level": "r",
+   "level": "eiken-4",
    "seed": 1629094998
   },
   "gradually": {
@@ -19389,7 +19394,7 @@
   },
   "hemisphere": {
    "word": "hemisphere",
-   "level": "r",
+   "level": "eiken-pre1",
    "seed": 906439132
   },
   "hence": {
@@ -19654,7 +19659,7 @@
   },
   "hold_a_meeting": {
    "word": "hold a meeting",
-   "level": "r",
+   "level": "idioms-phrase",
    "seed": 594549646
   },
   "hold_back": {
@@ -20439,7 +20444,7 @@
   },
   "imply": {
    "word": "imply",
-   "level": "r",
+   "level": "eiken-2",
    "seed": 2405787909
   },
   "import": {
@@ -20979,7 +20984,7 @@
   },
   "indifferent": {
    "word": "indifferent",
-   "level": "r",
+   "level": "eiken-pre1",
    "seed": 468685478
   },
   "indigenous": {
@@ -22545,7 +22550,7 @@
   "justice": {
    "word": "justice",
    "level": "school-jhs2",
-   "seed": 84772252
+   "seed": 85072252
   },
   "justifiable": {
    "word": "justifiable",
@@ -26209,7 +26214,7 @@
   },
   "move_on": {
    "word": "move on",
-   "level": "r",
+   "level": "idioms-phrasal",
    "seed": 2033507481
   },
   "move_out": {
@@ -26430,7 +26435,7 @@
   "naked": {
    "word": "naked",
    "level": "eiken-2",
-   "seed": 2217603298
+   "seed": 2218003298
   },
   "name": {
    "word": "name",
@@ -26469,7 +26474,7 @@
   },
   "narrow_down": {
    "word": "narrow down",
-   "level": "r",
+   "level": "idioms-phrasal",
    "seed": 1064956754
   },
   "narrowly": {
@@ -26824,8 +26829,8 @@
   },
   "nice": {
    "word": "nice",
-   "level": "school-jhs1",
-   "seed": 1495917962
+   "level": "school-es",
+   "seed": 1496017962
   },
   "nicely": {
    "word": "nicely",
@@ -26989,7 +26994,7 @@
   },
   "norm": {
    "word": "norm",
-   "level": "r",
+   "level": "eiken-pre1",
    "seed": 1675852398
   },
   "normal": {
@@ -27164,7 +27169,7 @@
   },
   "nuance": {
    "word": "nuance",
-   "level": "r",
+   "level": "eiken-pre1",
    "seed": 2841245943
   },
   "nuanced": {
@@ -28849,7 +28854,7 @@
   },
   "parch": {
    "word": "parch",
-   "level": "r",
+   "level": "eiken-pre1",
    "seed": 1719285498
   },
   "pardon": {
@@ -29575,7 +29580,7 @@
   "perspective": {
    "word": "perspective",
    "level": "school-hs1",
-   "seed": 2859135790
+   "seed": 2859235773
   },
   "persuade": {
    "word": "persuade",
@@ -31865,7 +31870,7 @@
   "psychological": {
    "word": "psychological",
    "level": "school-hs2",
-   "seed": 497815593
+   "seed": 498115593
   },
   "psychologist": {
    "word": "psychologist",
@@ -33409,7 +33414,7 @@
   },
   "regiment": {
    "word": "regiment",
-   "level": "r",
+   "level": "eiken-pre1",
    "seed": 2129101297
   },
   "region": {
@@ -34194,7 +34199,7 @@
   },
   "reserved": {
    "word": "reserved",
-   "level": "r",
+   "level": "eiken-pre1",
    "seed": 3288257047
   },
   "reservoir": {
@@ -37704,8 +37709,8 @@
   },
   "sorry": {
    "word": "sorry",
-   "level": "school-jhs1",
-   "seed": 3715833090
+   "level": "school-es",
+   "seed": 3716133090
   },
   "sort": {
    "word": "sort",
@@ -38015,7 +38020,7 @@
   "spite": {
    "word": "spite",
    "level": "eiken-pre1",
-   "seed": 2604852495
+   "seed": 2605152495
   },
   "splendid": {
    "word": "splendid",
@@ -38209,7 +38214,7 @@
   },
   "stain": {
    "word": "stain",
-   "level": "r",
+   "level": "eiken-pre1",
    "seed": 892904940
   },
   "staircase": {
@@ -38894,7 +38899,7 @@
   },
   "striking": {
    "word": "striking",
-   "level": "r",
+   "level": "eiken-pre1",
    "seed": 1376170987
   },
   "string": {
@@ -40704,7 +40709,7 @@
   },
   "territory": {
    "word": "territory",
-   "level": "r",
+   "level": "eiken-2",
    "seed": 1244604781
   },
   "terror": {
@@ -42069,7 +42074,7 @@
   },
   "trough": {
    "word": "trough",
-   "level": "r",
+   "level": "eiken-pre1",
    "seed": 234352043
   },
   "trove": {
@@ -42184,7 +42189,7 @@
   },
   "tumble": {
    "word": "tumble",
-   "level": "r",
+   "level": "eiken-pre1",
    "seed": 3648743486
   },
   "tumor": {
@@ -44280,7 +44285,7 @@
   "weapon": {
    "word": "weapon",
    "level": "school-hs1",
-   "seed": 962411340
+   "seed": 962811340
   },
   "weaponry": {
    "word": "weaponry",
@@ -44679,7 +44684,7 @@
   },
   "wide": {
    "word": "wide",
-   "level": "r",
+   "level": "eiken-4",
    "seed": 1095198956
   },
   "widely": {
@@ -45244,8 +45249,8 @@
   },
   "year": {
    "word": "year",
-   "level": "school-jhs1",
-   "seed": 1341174099
+   "level": "school-es",
+   "seed": 1341474099
   },
   "yearly": {
    "word": "yearly",
@@ -45330,7 +45335,7 @@
   "yourself": {
    "word": "yourself",
    "level": "eiken-4",
-   "seed": 544671060
+   "seed": 544771060
   },
   "youth": {
    "word": "youth",

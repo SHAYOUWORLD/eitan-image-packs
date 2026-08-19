@@ -11,7 +11,9 @@ memory cue. Served directly via raw URLs:
 https://raw.githubusercontent.com/SHAYOUWORLD/eitan-image-packs/main/scenes/<key>.webp
 ```
 
-`<key>` = word lowercased, non-ASCII-alphanumeric characters replaced with `_`.
+By default, `<key>` = word lowercased, non-ASCII-alphanumeric characters replaced
+with `_`. Explicit sense overrides prevent collisions: the verb `carry on` uses
+`carry_on_continue`, while the noun `carry-on` keeps `carry_on`.
 `scenes/manifest.json` lists every available key (used by apps to prefetch packs
 without probing 404s).
 
@@ -19,10 +21,11 @@ without probing 404s).
 
 - Model: AnythingXL (SDXL), local ComfyUI
 - Recipe: steps 26, CFG 7, euler_ancestral, 1344x768 → 672x384 webp q82,
-  seed = first 4 bytes of SHA1(key)
+  base seed = first 4 bytes of SHA1(key)
 - Fixed style prefix/suffix and negative prompt are pinned in the app repo's
-  `tools/comfyui/generate_scenes.py`; per-image prompts and seeds are recorded
-  in the generation log kept with the workstation outputs.
+  `tools/comfyui/generate_scenes.py`. Reviewed alternatives may add a documented
+  seed offset; the selected effective seed and prompt are recorded in the
+  generation log kept with the workstation outputs.
 - Images contain no readable text by design (quiz answers must not leak).
 
 ### License note
